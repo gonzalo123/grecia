@@ -66,7 +66,7 @@ Veían a la poesía más cercana a la adivinación que a las artes. Es por esto 
 
 La poesía, entonces, era de un orden superior. Guiaba las almas y educaba a los hombres. El arte solo producía objetos necesarios.
 
-![Untitled]{{site.baseurl}}/images/estetica/Untitled 4.png)
+![Untitled]({{site.baseurl}}/images/estetica/Untitled 4.png)
 
 Dado que la poesía era cantada, veían una relación directa entre la música y la poesía. Ambas llevan a un estado de exaltación, por lo que no concebían la música como independiente de la poesía sino que era un componente de la música, y viceversa.
 
