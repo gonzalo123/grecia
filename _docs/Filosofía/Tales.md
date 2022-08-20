@@ -4,8 +4,6 @@ category: Filosofía
 order: 3
 ---
 
-# Tales de Mileto
-
 Tales de Mileto nace en Mileto en el 624 a. C. Mileto era una floreciente ciudad jonia (colonia fundada por Atenas). 
 
 Esta ciudad se convirtió en el centro del saber y fue la cuna del nacimiento de la ciencia en occidente, gracias a la influencia de los pensadores y matemáticos persas.
@@ -68,12 +66,12 @@ Determinó que el agua estaba presente siempre que hay vida. Sin agua no es posi
 
 El pensamiento de que tierra flota sobre agua no es más que una continuación de los viejos mitos de Océano y Tetis, que ya aparecen en la Ilíada:
 
-> *Voy a ver a Océano, progenie de los dioses y a la madre Tetis
-(Il XIV 200) 
+> Voy a ver a Océano, progenie de los dioses y a la madre Tetis
+> (Il XIV 200) 
 
-La corriente del rio Océano, que es la génesis de todas las cosas
-(Il XIV 244)*
-> 
+>La corriente del rio Océano, que es la génesis de todas las cosas
+> (Il XIV 244)
+
 
 Este principio también está en la mitología del Oriente Próximo así como en la Biblia: *”Yahveh extendió la tierra sobre el agua” (salmo 136, 6)*
 
