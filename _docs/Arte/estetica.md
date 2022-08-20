@@ -1,5 +1,5 @@
 ---
-title: Estética en el arte en la Antigua Grecia
+title: Estética en el arte
 category: Arte
 order: 2
 ---
@@ -10,7 +10,7 @@ Eran unos conceptos distintos a los que usamos hoy, aun y cuando usemos palabras
 
 Para explicar el concepto de arte que tenían hay que mencionar una palabra muy importante: “Techné”. Es la palabra que usaban para referiste al arte. Entendían el arte (techné), como el producto de una habilidad técnica. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8d4db59-7b06-4249-9f69-57f4c1e949c1/Untitled.png)
+![Untitled]({{site.baseurl}}/images/estetica/Untitled.png)
 
 Por lo tanto el arte no solo era el trabajo del arquitecto o del escultor. También era arte el trabajo del artesano, como el carpintero y el tejedor. La palabra artesano, etimológicamente, viene de arte. 
 
@@ -18,7 +18,7 @@ La separación entre arte y tecnología no tiene sustento etimológico, ni funda
 
 Aristóteles, en el libro VI de su Ética para Nicómaco, define episteme y techné como virtudes intelectuales. Aristóteles establece una distinción entre ambos términos, pero esta distinción aristotélica está muy alejada de la diferencia que tenemos hoy entre teoría y práctica.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18b8e11e-a0cc-46fe-bf6c-c1947641e681/Untitled.png)
+![Untitled]({{site.baseurl}}/images/estetica/Untitled 1.png)
 
 Para Aristóteles episteme y tecné son maneras de alcanzar la verdad, a diferencia de la doxa (la opinión), por la cual es posible incurrir en el error. Ambas son formas de conocimiento, a pesar de ser diferentes. 
 
@@ -38,7 +38,7 @@ Para los antiguos griegos la división natural de las artes era la de artes libe
 
 La música era, por ejemplo, un arte liberal y la arquitectura servil. La pintura también era considerada inicialmente servil pero terminó teniendo una mayor estima, elevándose a una categoría más alta.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39cfffe2-b1b4-40d6-8d98-0de94fd554fb/Untitled.png)
+![Untitled]({{site.baseurl}}/images/estetica/Untitled 2.png)
 
 Puesto que la arquitectura es un arte (techné), y es además esencialmente un hábito productivo acompañado de razón, y no hay arte alguno que no sea un hábito productivo acompañado de razón, ni hábito alguno de esta especie que no sea un arte, resulta que son lo mismo el arte y el hábito productivo acompañado de razón verdadera. (Aristóteles)
 
@@ -52,7 +52,7 @@ El propio vocabulario griego puede inducir a errores ya que empleaban los mismos
 
 Música (Musike) deriva de las musas y significa toda actividad que viene de estas. Algo así como la inspiración. No solo se refería a lo que hoy entendemos como música. Musikos era una persona erudita.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df6b3158-162f-4d87-8e7f-6d6660da34fd/Untitled.png)
+![Untitled]({{site.baseurl}}/images/estetica/Untitled 3.png)
 
 Los antiguos griegos no tenían poesía escrita, o destinada a ser únicamente leída. La poesía era vocal, para ser cantada. 
 
@@ -66,7 +66,7 @@ Veían a la poesía más cercana a la adivinación que a las artes. Es por esto 
 
 La poesía, entonces, era de un orden superior. Guiaba las almas y educaba a los hombres. El arte solo producía objetos necesarios.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d71509b6-52bb-4bd1-989e-85f81c460929/Untitled.png)
+![Untitled]{{site.baseurl}}/images/estetica/Untitled 4.png)
 
 Dado que la poesía era cantada, veían una relación directa entre la música y la poesía. Ambas llevan a un estado de exaltación, por lo que no concebían la música como independiente de la poesía sino que era un componente de la música, y viceversa.
 
@@ -80,11 +80,11 @@ En el periodo arcaico no se refería a los artistas por su nombre. Solo eran los
 
 Quizás Mirón fue el primer autor del que conocemos su nombre.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c70c41b6-7a72-43c5-bda7-567c68b45dec/Untitled.png)
+![Untitled]({{site.baseurl}}/images/estetica/Untitled 5.png)
 
 Para los antiguos griegos un buen artista no era el que manifestaba originalidad, sino el que sigue y aplica unas normas universales. Estas normas son las que denominaban Kanon.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d8cf4737-c88f-44d3-8d85-91897a07646a/Untitled.png)
+![Untitled]({{site.baseurl}}/images/estetica/Untitled 6.png)
 
 Utilizaban el mismo término para la investigación científica que para la estética: La observación, o theoria. No veían diferencia entre observar objetos bellos y objetos corrientes. 
 
