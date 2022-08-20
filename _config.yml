@@ -1,19 +1,19 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: Antigua Grecia
+url: "https://gonzalo123.github.io/grecia"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: Mis apuntes sobre la Antigua Grecia.
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Gonzalo Ayuso
+  email: gonzalo123@gmail.com
+  twitter: gonzalo123
 social:
   name: Edition Template
   links:
@@ -22,7 +22,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Europe/Madrid
 
 permalink: pretty
 
