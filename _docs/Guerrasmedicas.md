@@ -1,6 +1,6 @@
 ---
-title: 
-category: Guerras médicas
+title: Guerras médicas
+category: História
 order: 3
 ---
 
