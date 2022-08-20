@@ -54,7 +54,6 @@ Hay que decir que el alma para los griegos no tiene el mismo sentido que para no
 > 
 > 
 > *(Aristóteles )*
-> 
 
 Determinó que el agua estaba presente siempre que hay vida. Sin agua no es posible la vida, por lo que estableció que el agua es el origen de todas las cosas. 
 
@@ -69,7 +68,7 @@ El pensamiento de que tierra flota sobre agua no es más que una continuación d
 > Voy a ver a Océano, progenie de los dioses y a la madre Tetis
 > (Il XIV 200) 
 
->La corriente del rio Océano, que es la génesis de todas las cosas
+> La corriente del rio Océano, que es la génesis de todas las cosas
 > (Il XIV 244)
 
 
