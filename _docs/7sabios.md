@@ -8,7 +8,7 @@ Antes del siglo VI a. C. los poetas (y antes los adivinos) fueron los creadores 
 
 Los poetas decían estar inspirados por la musas. "Nosotras contamos verdades pero también sabemos contar mentiras simulando la verdad". La búsqueda de la verdad "Aletheia" era un camino, un descubrimiento, donde los primeros fueron los poetas.
 
-![7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Apolo_y_las_Musas_jpg.png]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Apolo_y_las_Musas_jpg.png)
+![Untitled]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Apolo_y_las_Musas_jpg.png)
 
 Durante los siglos VI y V a. C. surgieron un grupo de pensadores, denominados sabios, a los que años después les sucedieron los filósofos en esa búsqueda de la verdad. Los griegos nombraron a 7 sabios que fueron un referente en el mundo Heleno y que alcanzaron un gran prestigio.
 
@@ -16,7 +16,7 @@ De dos de ellos (Tales de Mileto y Solón de Atenas) tenemos mucha información.
 
 Tales de Mileto predijo un eclipse de sol en año 585. No sabemos como lo hizo. Posiblemente tenía conocimientos de astronomía, pero el hecho de predecir un eclipse era importante. Implica que todo, incluso el sol, esta sujeto a reglas. No eran designios de los dioses.
 
-![7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Illustrerad_Verldshistoria_band_I_Ill_107_-_Tales_de_Mileto_-_Wikipedia__la_enciclopedia_libre.png]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Illustrerad_Verldshistoria_band_I_Ill_107_-_Tales_de_Mileto_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Illustrerad_Verldshistoria_band_I_Ill_107_-_Tales_de_Mileto_-_Wikipedia__la_enciclopedia_libre.png)
 
 Tales es considerado también el primer filósofo, precursor de los presocráticos. Una de sus frases fue "El fundamento de todo es el agua". Esto tenía un doble sentido (tampoco era cosa de los dioses). Es considerado también el creador de la ciencia moderna.
 
@@ -30,7 +30,7 @@ Otro sabio fue Solón de Atenas. Ya hablamos de el el hilo de la democracia aten
 
 Solón buscaba la moderación y prohibió la esclavitud por deudas. Pide a las musas justicia y equidad, a diferencia de los poetas que pedían que les contaran las historias.
 
-![7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Solon_el_griego_que_invento_la_Democracia_.png]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Solon_el_griego_que_invento_la_Democracia_.png)
+![Untitled]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Solon_el_griego_que_invento_la_Democracia_.png)
 
 Habla bien de la vejez: "Envejezco aprendiendo muchas cosas". Aprender no era cosa solo de jóvenes, en contra de lo que decía Minermo: "Cuando ya no se disfruta del los placeres de Afrodita ya na vale la pena vivir".  
 
@@ -38,26 +38,26 @@ Otras frases suyas son "Nada con exceso. Todo con medida" y "Conócete a ti mism
 
 De los demás sabios no sabemos mucho, frases, algunos datos biográficos. Pítaco de Mitilene (el la isla de Lesbos), que intentó reducir el poder de la nobleza, dijo "El perdón es mejor que el castigo" y "Debes saber escoger la oportunidad".
 
-![7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Pittacos_Louvre_Ma_3572_-_Pitaco_de_Mitilene_-_Wikipedia__la_enciclopedia_libre.png]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Pittacos_Louvre_Ma_3572_-_Pitaco_de_Mitilene_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Pittacos_Louvre_Ma_3572_-_Pitaco_de_Mitilene_-_Wikipedia__la_enciclopedia_libre.png)
 
 Esparta también tiene un sabio. Se trata de Quillón de Esparta que dio un equilibrio a Esparta con su sistema de gobierno de una diarquia (2 reyes) y un consejo de 5 éforos (el era un éforo). "No desees lo imposible" y "Contened vuestra lengua, especialmente en los festines"
 
-![7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/quilon_jpg__481600_.png]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/quilon_jpg__481600_.png)
+![Untitled]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/quilon_jpg__481600_.png)
 
 Bias de Priene, famoso por su bondad, tiene la frase "La mayoría de los hombres son malos" y "Nuncas tengas prisa por hablar, jamás."
 
-![7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Bias_Pio-Clementino_Inv279_-_Bias_-_Wikipedia__la_enciclopedia_libre.png]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Bias_Pio-Clementino_Inv279_-_Bias_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Bias_Pio-Clementino_Inv279_-_Bias_-_Wikipedia__la_enciclopedia_libre.png)
 
 Periandro de Corinto que, a pesar de ser un tirano (llega al poder por la fuerza) dio la mayor prosperidad a Corinto con su gobierno. Sus frases son "Sé previsor con todas las cosas", "No hagas nada por dinero" y "la imprudencia es peligrosa"
 
-![7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Periander_Pio-Clementino_Inv276_-_Periandro_-_Wikipedia__la_enciclopedia_libre.png]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Periander_Pio-Clementino_Inv276_-_Periandro_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Periander_Pio-Clementino_Inv276_-_Periandro_-_Wikipedia__la_enciclopedia_libre.png)
 
 Por último tenemos a Cleóbulo de Lindos con frases como  "La media es mejor", "Nada hay en el mundo tan común como la ignorancia y los charlatanes." y "Odiar la injusticia, guardar la verdad".
 
-![7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Cleovoulos_-_Cleobulo_de_Lindos_-_Wikipedia__la_enciclopedia_libre.png]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Cleovoulos_-_Cleobulo_de_Lindos_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Cleovoulos_-_Cleobulo_de_Lindos_-_Wikipedia__la_enciclopedia_libre.png)
 
 Todos compartían una manera de pensar y trataron de introducir el orden dentro de las polis, con su búsqueda de la verdad  (que no viene del pasado sino de la realidad) y del Areté (o excelencia) que antes era sinónimo de valor en guerra y ahora simboliza la sabiduría.
 
 El prestigio de los 7 sabios perduró muchos años. En una ruinas romanas en Mérida se halló un mosaico con inscripciones en griego donde aparecen los 7 sabios. El dueño del mosaico posiblemente no sabría griego pero lo tenía como símbolo de cultura, ya en el siglo IV d. C
 
-![7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Mosaico_de_los_Siete_Sabios___artehistoria_com.png]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Mosaico_de_los_Siete_Sabios___artehistoria_com.png)
+![Untitled]({{site.baseurl}}/images/7%20sabios%20d0aff8fdf93a41e4b3020f2e0db1aeb1/Mosaico_de_los_Siete_Sabios___artehistoria_com.png)
