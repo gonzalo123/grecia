@@ -6,13 +6,13 @@ order: 3
 
 Anaximandro nace en Mileto en el 610 a. C. Fue discípulo de Tales y pertenece, junto Anaxímedes, a la llamada escuela milésica. Siendo Tales el considerado como primer filósofo de la historia, Anaxímedes, su discípulo, es del que tenemos el primer documento escrito (un fragmento)
 
-![Google_Maps.png](Anaximandro%20de%20Mileto%2048a72290493c4ecbb793775eb1827f4a/Google_Maps.png)
+![Untitled]({{site.baseurl}}/images/Anaximandro%20de%20Mileto%2048a72290493c4ecbb793775eb1827f4a/Google_Maps.png)
 
 Como todos los filósofos presocráticos Anaximandro de Mileto buscaba el origen de las cosas o Arché. 
 
 La palabra Arché (ἀρχή) es una palabra que usó Aristóteles para denominar la búsqueda de aquello que no necesitaba de otra cosa para existir. Los filósofos presocráticos se referían a esto como génesis.
 
-![Filosofía_en_3_minutos__Anaximandro___Perfil.png](Anaximandro%20de%20Mileto%2048a72290493c4ecbb793775eb1827f4a/Filosofia_en_3_minutos__Anaximandro___Perfil.png)
+![Untitled]({{site.baseurl}}/images/Anaximandro%20de%20Mileto%2048a72290493c4ecbb793775eb1827f4a/Filosofia_en_3_minutos__Anaximandro___Perfil.png)
 
 Tales estableció el agua como Arché. Según él todo venía del agua. Anaximandro, como su discípulo, también le daba importancia al agua. Decía incluso que los hombres veníamos de una criaturas que surgieron del agua. 
 
@@ -30,7 +30,7 @@ Del Ápeiron surgen parejas de contrarios: El frío y el calor, lo seco y lo moj
 
 Esto viene a decir que los contrarios, al salir del ápeiron, se hacen injusticia mutuamente ya que lo uno excluye a lo otro. Lo única justo es el ápeiron, donde todos los contrarios estaban unidos sin hacerse injusticia los unos a los otros.
 
-![Cursor_and_La_scuola_di_Atene_jpg__3196×2277_.png](Anaximandro%20de%20Mileto%2048a72290493c4ecbb793775eb1827f4a/Cursor_and_La_scuola_di_Atene_jpg__31962277_.png)
+![Untitled]({{site.baseurl}}/images/Anaximandro%20de%20Mileto%2048a72290493c4ecbb793775eb1827f4a/Cursor_and_La_scuola_di_Atene_jpg__31962277_.png)
 
 El tiempo actúa de juez. Al final todo vuelve al ápeiron y se repara la injusticia. El universo surge del ápeiron y como tal vuelve a él y surge de nuevo. El universo tal y como lo conocemos es una relación entre opuestos.
 
@@ -44,7 +44,7 @@ Para Anaximandro el universo es algo homogéneo, con tierra en el centro y rodea
 
 Lo importante de esto no es que tuviera o no razón en sus planteamientos. Lo importante es su afán por medir el universo y encontrar el el un orden.
 
-![File_Anaximander_world_map-es_svg_-_Wikimedia_Commons.png](Anaximandro%20de%20Mileto%2048a72290493c4ecbb793775eb1827f4a/File_Anaximander_world_map-es_svg_-_Wikimedia_Commons.png)
+![Untitled]({{site.baseurl}}/images/Anaximandro%20de%20Mileto%2048a72290493c4ecbb793775eb1827f4a/File_Anaximander_world_map-es_svg_-_Wikimedia_Commons.png)
 
 Además hizo una cosa inusual en su época: Se aleja de los mitos y los dioses en la concepción del mundo y en su búsqueda del orden del universo. 
 
@@ -56,4 +56,4 @@ Esa invasión cíclica de injusticias, que viene y va. Una especie de respiraci�
 
 La filosofía de Anaximandro es una gran fuente de inspiración el física cuántica. También se dice que Anaximandro habría sido el introductor del gnomon (reloj solar) en Grecia
 
-![Cursor_and_gnomon_-_Buscar_con_Google.png](Anaximandro%20de%20Mileto%2048a72290493c4ecbb793775eb1827f4a/Cursor_and_gnomon_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Anaximandro%20de%20Mileto%2048a72290493c4ecbb793775eb1827f4a/Cursor_and_gnomon_-_Buscar_con_Google.png)

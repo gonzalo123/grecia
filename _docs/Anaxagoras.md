@@ -7,7 +7,7 @@ order: 3
 
 Anaxágoras nace en Clazómenas en el 500 a. C. Clazómenas es una ciudad jonia situada en Anatolia (Asia menor). Era una ciudad fundada por refugiados de la cercana Mileto. 
 
-![Untitled](Anaxa%CC%81goras%20de%20Clazo%CC%81menas%20c34d3da1ae6a41cb998756ae75103fd8/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Anaxa%CC%81goras%20de%20Clazo%CC%81menas%20c34d3da1ae6a41cb998756ae75103fd8/Untitled.png)
 
 Esto es importante para entender el pensamiento de Anaxágoras ya que este bebe de la escuela de Mileto con sus filósofos de la physis (naturaleza) preocupados por los fenómenos físicos. 
 
@@ -21,7 +21,7 @@ Está claro que después de la ontología (estudio del ser) de Parménides ya no
 
 Un día se le alguien le preguntó: “¿Para qué has nacido?” y él le respondió: “Para contemplar el cielo y el orden de las cosas”
 
-![Untitled](Anaxa%CC%81goras%20de%20Clazo%CC%81menas%20c34d3da1ae6a41cb998756ae75103fd8/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/Anaxa%CC%81goras%20de%20Clazo%CC%81menas%20c34d3da1ae6a41cb998756ae75103fd8/Untitled%201.png)
 
 Gozó de gran reputación como matemático, astrónomo y como físico. Se le atribuyen varas obras pero solo nos han llegado fragmentos de una titulada “Sobre la naturaleza”.
 
@@ -47,7 +47,7 @@ Anaxágoras, a diferencia de Zenón, dice que no hay un límite a la hora de div
 
 Pero entonces, si las semillas han existido siempre ¿cómo es que se juntan para determinar nuestra realidad?
 
-![Untitled](Anaxa%CC%81goras%20de%20Clazo%CC%81menas%20c34d3da1ae6a41cb998756ae75103fd8/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Anaxa%CC%81goras%20de%20Clazo%CC%81menas%20c34d3da1ae6a41cb998756ae75103fd8/Untitled%202.png)
 
 Para explicar esto Anaxágoras introduce el concepto del Nous. Nous en griego significa intelecto.
 

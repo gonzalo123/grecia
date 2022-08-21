@@ -8,7 +8,7 @@ La sociedad en la Antigua Grecia estaba dividida en dos grandes grupos: Ciudadan
 
 Dentro de los ciudadanos había 3 grandes grupos: Los aristócratas que solían ser grandes terratenientes y se agrupaban en clanes. Luego estaban los agricultores, que tenían pequeñas propiedades y por último los artesanos y comerciantes.
 
-La mujeres no eran ciudadanos por lo que no podían votar, poseer tierras o heredar. Su propósito en la vida era engendrar hijos y criarlos. Dependiendo del poder adquisitivo de su familia salían más o menos de casa.
+Las mujeres no eran ciudadanos por lo que no podían votar, poseer tierras o heredar. Su propósito en la vida era engendrar hijos y criarlos. Dependiendo del poder adquisitivo de su familia salían más o menos de casa.
 
 Si la familia no tenía muchos recursos tenían que salir al campo a trabajar pero si tenían dinero esto lo hacían los esclavos y prácticamente no salían de casa. No tenían acceso a la educación y solo recibían nociones básicas para contar y leer un poco.
 
