@@ -1,6 +1,6 @@
 ---
-title: 
-category: Aquiles
+title: Aquiles
+category: Mitología
 order: 3
 ---
 
