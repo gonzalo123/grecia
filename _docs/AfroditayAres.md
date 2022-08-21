@@ -4,8 +4,6 @@ category: Mitología
 order: 3
 ---
 
-Hoy hablaremos la relación entre el amor y de la guerra en la mitología griega. Dentro hilo.
-
 Hablar del amor es hablar de Afrodita. Diosa del amor, del placer, de la belleza y de la procreación.
 
 Afrodita nace de los genitales de Urano, pero no de la forma tradicional. Es algo más digamos que "literal".
