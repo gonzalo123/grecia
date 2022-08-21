@@ -1,6 +1,6 @@
 ---
-title: 
-category: Esparta
+title: Esparta
+category: Historia
 order: 3
 ---
 

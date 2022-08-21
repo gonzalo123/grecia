@@ -1,6 +1,6 @@
 ---
 title: Guerras médicas
-category: História
+category: Historia
 order: 3
 ---
 

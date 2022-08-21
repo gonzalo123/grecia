@@ -2,7 +2,7 @@
 title: Medusa
 category: Mitología
 order: 3
----a historia muy triste e injusta. Hoy hablaremos de Medusa.
+---
 
 Medusa era hija de Fortis y Ceto, deidades marinas (y hermanos) e hijos de Ponto y Gea. Ceto era un pez con forma de serpiente y la personificación de los peligros del mar y las criaturas extrañas. Da nombre a los Cetáceos.
 
