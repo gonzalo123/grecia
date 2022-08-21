@@ -62,7 +62,7 @@ Tras la caída de Atenas y la muerte de Alejandro Magno llega el periodo helení
 
 Aparecen muchas obras de bulto redondo (en 3 dimensiones y pensadas para verse desde cualquier ángulo) con una dimensión total. La estatua de Laocoonte y sus hijos es una muestra de esto.
 
-![Laocoonte%20c42ba869d5fc45a7a8aba78be06d0ceb/DSCF1951_-_Laocoonte_-_Wikipedia__la_enciclopedia_libre.png](Laocoonte%20c42ba869d5fc45a7a8aba78be06d0ceb/DSCF1951_-_Laocoonte_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Laocoonte%20c42ba869d5fc45a7a8aba78be06d0ceb/DSCF1951_-_Laocoonte_-_Wikipedia__la_enciclopedia_libre.png)
 
 Esta representación de dolor extremos en el arte se denomina "exemplum doloris" y esta obra es su principal ejemplo y fuente de inspiración a innumerables artistas. Miguel Ángel, por ejemplo, llegó a decir que de esta estatua había aprendido todo lo que sabía.
 
