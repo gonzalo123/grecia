@@ -6,7 +6,7 @@ order: 3
 
 Epicuro nace en Samos en el 341 a.C. Samos era una isla griega cerca de la costa de Turquía que durante un tiempo perteneció a Atenas. Cuando los colonos atenienses fueron expulsados de Samos, Epicuro y su familia se trasladó a Colofón.
 
-![Colofón_grecia_-_Google_Maps.png](Epicuro%20de%20Samos%2064e02bf0ec9149d097a431bfcae3babd/Colofon_grecia_-_Google_Maps.png)
+![Untitled]({{site.baseurl}}/images/Epicuro%20de%20Samos%2064e02bf0ec9149d097a431bfcae3babd/Colofon_grecia_-_Google_Maps.png)
 
 En el 323 a. C. Epicuro se desplaza a Atenas para cumplir con sus deberes de inscribirse como ciudadano ateniense (era hijo de padre y madre atenienses) y hacer el servicio militar.
 
@@ -14,7 +14,7 @@ Ese año es un año clave en la historia de la Antigua Grecia. Es el año en que
 
 La muerte de Alejandro dejando un impresionante imperio (desde el Nilo al Indo) sin un sucesor claro, cambia todo el mundo heleno. Como dijo un orador "El hedor del cadáver de Alejandro impregnará el universo"
 
-![Imperio_de_Alejandro_Magno_con_ruta_-_Sucesión_de_Alejandro_Magno_-_Wikipedia__la_enciclopedia_libre.png](Epicuro%20de%20Samos%2064e02bf0ec9149d097a431bfcae3babd/Imperio_de_Alejandro_Magno_con_ruta_-_Sucesion_de_Alejandro_Magno_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Epicuro%20de%20Samos%2064e02bf0ec9149d097a431bfcae3babd/Imperio_de_Alejandro_Magno_con_ruta_-_Sucesion_de_Alejandro_Magno_-_Wikipedia__la_enciclopedia_libre.png)
 
 Atenas cree que puede ser su oportunidad de recuperar su hegemonía pero son derrotados. Un periodo de luchas entre los sucesores de Alejandro y la posterior aparición de una potencia emergente (Roma) marcan el principio del fin de la Antigua Grecia.
 
@@ -38,7 +38,7 @@ Epicuro permitía el paso al jardín a todo tipo de personas. No solo a ciudadan
 
 Este acceso libre en una sociedad tan clasista como la ateniense generó mucha polémica, polémica similar a la que generaban cultos mistéricos como el orfismo que también aceptaban a mujeres y esclavos.
 
-![File_Marble_head_of_Epikouros_MET_DP333053__cropped__jpg_-_Wikimedia_Commons.png](Epicuro%20de%20Samos%2064e02bf0ec9149d097a431bfcae3babd/File_Marble_head_of_Epikouros_MET_DP333053__cropped__jpg_-_Wikimedia_Commons.png)
+![Untitled]({{site.baseurl}}/images/Epicuro%20de%20Samos%2064e02bf0ec9149d097a431bfcae3babd/File_Marble_head_of_Epikouros_MET_DP333053__cropped__jpg_-_Wikimedia_Commons.png)
 
 A diferencia de Platón que creía que el alma era inmortal y se podía reencarnar varias veces, Epicuro tenía una visión distinta. Epicuro era más materialista. 
 
@@ -56,7 +56,7 @@ Dado que para Epicuro solo existe una vida dedicó su filosofía a responder a l
 
 Distingue entre varios tipos de placeres. Los sensibles (la comida, la bebida, el sexo) y los anímicos o espirituales (la lectura, la amistad, la conversación). 
 
-![La_scuola_di_Atene_-_La_escuela_de_Atenas_-_Wikipedia__la_enciclopedia_libre.png](Epicuro%20de%20Samos%2064e02bf0ec9149d097a431bfcae3babd/La_scuola_di_Atene_-_La_escuela_de_Atenas_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Epicuro%20de%20Samos%2064e02bf0ec9149d097a431bfcae3babd/La_scuola_di_Atene_-_La_escuela_de_Atenas_-_Wikipedia__la_enciclopedia_libre.png)
 
 De hecho para Epicuro los mejores placeres son los segundos. Es por esto que el hedonismo de Epicuro no es el que solemos entender hoy (más asociado a los placeres sensibles)
 
@@ -88,7 +88,7 @@ Esta paradoja es posible que no viniera directamente de Epicuro ya que el concep
 
 Tomás de Aquino ya respondió a esta paradoja diciendo que el mal es la privación del bien por lo que si el mal existe, existe el bien y existe dios. Además si el mal no existiese desaparecería el orden del bien. 
 
-![St-thomas-aquinas_-_Tomás_de_Aquino_-_Wikipedia__la_enciclopedia_libre.png](Epicuro%20de%20Samos%2064e02bf0ec9149d097a431bfcae3babd/St-thomas-aquinas_-_Tomas_de_Aquino_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Epicuro%20de%20Samos%2064e02bf0ec9149d097a431bfcae3babd/St-thomas-aquinas_-_Tomas_de_Aquino_-_Wikipedia__la_enciclopedia_libre.png)
 
 El mal existe para que exista libertad. Sin el mal no podríamos decidir entre el bien y el mal, por lo que la existencia del mal es necesaria para que exista la libertad.
 
@@ -112,7 +112,7 @@ El tercer remedio es: "Lo bueno es fácil de conseguir".
 
 Para Epicuro los placeres naturales y necesarios (el alimento y el refugio) son fáciles de conseguir en la naturaleza. Hasta los animales irracionales son capaces de conseguirlos sin muchos problemas. 
 
-![Busto-del-filosofo-Epicuro_jpg__410×308_.png](Epicuro%20de%20Samos%2064e02bf0ec9149d097a431bfcae3babd/Busto-del-filosofo-Epicuro_jpg__410308_.png)
+![Untitled]({{site.baseurl}}/images/Epicuro%20de%20Samos%2064e02bf0ec9149d097a431bfcae3babd/Busto-del-filosofo-Epicuro_jpg__410308_.png)
 
 Además la felicidad y la tranquilidad del alma son fáciles de conseguir también. No hace falta más que una vida moderada, unas pocas amistades, una buena conversación y de tanto en cuanto algún capricho.
 

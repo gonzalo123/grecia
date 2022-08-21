@@ -28,7 +28,7 @@ Además está llena de epítetos para caracterizar a los personajes: "El que hie
 
 La trama se enmarca en la guerra de Troya. Una contienda de la edad micénica que marcó mucho en la Antigua Grecia (incluso en la civilización Romana después). La guerra de Troya duró 10 años. La Ilíada transcurre en el año final de la guerra y termina antes de que del fin de la guerra.
 
-![Ili%CC%81ada%20f92e4ecadd32430bb27fbeeaa29d7512/Homeric_Greece-es_-_Griego_micenico_-_Wikipedia__la_enciclopedia_libre.png](Ili%CC%81ada%20f92e4ecadd32430bb27fbeeaa29d7512/Homeric_Greece-es_-_Griego_micenico_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Ili%CC%81ada%20f92e4ecadd32430bb27fbeeaa29d7512/Homeric_Greece-es_-_Griego_micenico_-_Wikipedia__la_enciclopedia_libre.png)
 
 El punto de partida es una reunión en la que Agamenón (rey de micenas y "lider" del bando aqueo) discute con Aquiles por unas esclavas (Criseida y Briseida). Como he comentado antes la enemistad entre Agamenón y Aquiles era conocida por todos.
 
@@ -48,13 +48,13 @@ Aquiles explota ante la muerte de su amigo. Su madre Tetis le dice que no puede 
 
 Los troyanos, al verle, retroceden y consiguen recuperar el cuerpo de Patroclo. Aquiles se reconcilia con Agamenón, este último dice que el enfado era cosa de los dioses y Aquiles jura matar a Héctor y dejar que su cadáver se lo coman los perros (lo peor que te podía pasar)
 
-![Ili%CC%81ada%20f92e4ecadd32430bb27fbeeaa29d7512/Menelao_patroclo_-_Buscar_con_Google.png](Ili%CC%81ada%20f92e4ecadd32430bb27fbeeaa29d7512/Menelao_patroclo_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Ili%CC%81ada%20f92e4ecadd32430bb27fbeeaa29d7512/Menelao_patroclo_-_Buscar_con_Google.png)
 
 Aquiles se enfunda su armadura nueva y se lía a matar troyanos. Estos retroceden, pero Aquiles no les deja entrar en las murallas. Apolo engaña a Aquiles y los troyanos consiguen huir. Hector se queda frente a frente con Aquiles.
 
 A Héctor le entra el pánico y empieza a correr (ayudado por Apolo). Aquiles le persigue. Se da una escena surrealista, los dos corriendo en alrededor de las murallas. Dan 3 vueltas. Zeus decide que dejen de correr. Héctor se enfrenta a Aquiles y este lo mata.
 
-![Ili%CC%81ada%20f92e4ecadd32430bb27fbeeaa29d7512/aquiles-hector_jpg__480338_.png](Ili%CC%81ada%20f92e4ecadd32430bb27fbeeaa29d7512/aquiles-hector_jpg__480338_.png)
+![Untitled]({{site.baseurl}}/images/Ili%CC%81ada%20f92e4ecadd32430bb27fbeeaa29d7512/aquiles-hector_jpg__480338_.png)
 
 Aquiles arrastra el cadáver de Héctor con su carro durante días. Se celebran los funerales de Patroclo y se organizan unos juegos en su honor. Aquiles sabe que morirá en la guerra. Patroclo se le aparece en un sueño y se lo recuerda. Le dice que cuando muera que guarden sus cenizas junto con las suyas.
 
@@ -76,7 +76,7 @@ Lo más llamativo es la ausencia de dioses en la peli (sale Tetis, la madre que 
 
 Patroclo es un poco pelele en la peli y su muerte es diferente en el libro. En la Ilíada Aquiles sabe que Patroclo va a pelear. Patroclo se carga a un montón de troyanos. Si no es por el dios Apolo mata a Hector también.
 
-![Ili%CC%81ada%20f92e4ecadd32430bb27fbeeaa29d7512/troy07_jpg__1598674_.png](Ili%CC%81ada%20f92e4ecadd32430bb27fbeeaa29d7512/troy07_jpg__1598674_.png)
+![Untitled]({{site.baseurl}}/images/Ili%CC%81ada%20f92e4ecadd32430bb27fbeeaa29d7512/troy07_jpg__1598674_.png)
 
 Casi todos los momentos clave de la peli están sacados de la Ilíada con detalles cambiados. Por ejemplo Paris reta a Menelao. En la peli Héctor termina matando a Menelao (En la Ilíada Afrodita salva a Paris)
 

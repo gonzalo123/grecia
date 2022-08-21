@@ -21,7 +21,7 @@ Gea engendra ella sola a varias divinidades, incluyendo a Urano (dios del cielo)
 
 Luego tenemos a otra diosa importante: **Afrodita**. Diosa del amor. El amor as algo que tiene diferentes divinidades asociadas. Tenemos a Eros (la atracción sexual), Pan (el deseo salvaje) y Afrodita, que más que el amor vendría a ser la diosa de la sexualidad.
 
-![Antigua_Grecia___List_view.png](Mujer%20d086d14a28eb4bcf992b0cd2783f6bfa/Antigua_Grecia___List_view.png)
+![Untitled]({{site.baseurl}}/images/Mujer%20d086d14a28eb4bcf992b0cd2783f6bfa/Antigua_Grecia___List_view.png)
 
 Afrodita es una diosa independiente que hace lo que quiere y con quiere. Es quizás la diosa más empoderada. Luego tenemos otras diosas importantes, asociadas a la familia como **Demeter**, **Rea** y **Hera**.
 
@@ -33,7 +33,7 @@ Otra diosa muy importante es **Atenea**, diosa de la guerra. Esta diosa no suele
 
 Es una diosa poderosa, muy venerada, protectora de Atenas y muy importante también es Esparta. Pero es una mujer que reniega de todos sus valores femeninos.
 
-![Untitled](Mujer%20d086d14a28eb4bcf992b0cd2783f6bfa/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Mujer%20d086d14a28eb4bcf992b0cd2783f6bfa/Untitled.png)
 
 También tenemos otra diosa top: **Artemisa**, diosa de la caza y hermana de Apolo. Su culto se asocia con la virginidad (sus sacerdotisas debían de ser vírgenes).
 
@@ -55,7 +55,7 @@ Luego tenemos a otra mujer tremendamente influyente (en época clásica): **Aspa
 
 Se dice que fue su mano derecha y que incluso le escribió algunos de sus más importantes discursos. Fue una mujer tremendamente influyente. 
 
-![Untitled](Mujer%20d086d14a28eb4bcf992b0cd2783f6bfa/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/Mujer%20d086d14a28eb4bcf992b0cd2783f6bfa/Untitled%201.png)
 
 Las heteras eran unas mujeres peculiares. No eran prostitutas como tal. Eran acompañantes (hetera significa acompañante). Entre sus servicios estaba el sexo, pero este no era el principal. Sus principales servicios eran la compañía, la conversación, la música,... 
 
@@ -69,7 +69,7 @@ Algunas de ellas llegaron a ser mujeres muy ricas como es el caso también de la
 
 Friné, musa de artistas como Praxíteles, fue la modelo de muchas de las estatuas de la diosa Afrodita que hoy conocemos, como es el caso de la Afrodita de Cnido, la primera estatua de una mujer desnuda a tamaño real de la Antigua Grecia.
 
-![Untitled](Mujer%20d086d14a28eb4bcf992b0cd2783f6bfa/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Mujer%20d086d14a28eb4bcf992b0cd2783f6bfa/Untitled%202.png)
 
 Los desnudos masculinos estaban tremendamente normalizados. Los atletas competían desnudos y era muy normal representarlos sin ropa, no así a las mujeres. 
 
@@ -91,7 +91,7 @@ Dentro de los temores del hombre en la Antigua Grecia estaba el que sus mujeres 
 
 Clitemnestra era la mujer de Agamenón (el rey de Micenas líder de los aqueos en la guerra de Troya) al que su mujer, conspirando con su amante, lo mata cuando regresa de la guerra.
 
-![Untitled](Mujer%20d086d14a28eb4bcf992b0cd2783f6bfa/Untitled%203.png)
+![Untitled]({{site.baseurl}}/images/Mujer%20d086d14a28eb4bcf992b0cd2783f6bfa/Untitled%203.png)
 
 Ya en la Odisea tenemos a **Penélope**, la abnegada mujer de Odiseo, que le espera pacientemente (10 años de guerra en Troya más 10 años de regreso a su Ítaca) aguantando a los múltiples pretendientes que quieren quedarse con el trono de su esposo y matar a su hijo.
 
@@ -119,7 +119,7 @@ También tenemos el mito de la amazonas, una sociedad de mujeres que afianza su 
 
 De todas formas la situación de la mujer dependía de la polis. En Atenas, por ejemplo, la mujer no solía salir de casa, concertante de la habitación destinada a las mujeres, conocida como el gineceo.
 
-![gineceo_grecia_-_Buscar_con_Google.png](Mujer%20d086d14a28eb4bcf992b0cd2783f6bfa/gineceo_grecia_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Mujer%20d086d14a28eb4bcf992b0cd2783f6bfa/gineceo_grecia_-_Buscar_con_Google.png)
 
 No participaba en la vida pública y política (de hecho no era considerada ciudadanos). Se las consideraba incultas y no capaces de estar a la altura en conversaciones interesantes (el hecho de no permitirles participar en la educación quizás ayudaba). 
 

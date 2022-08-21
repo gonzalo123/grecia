@@ -16,7 +16,7 @@ Eran dos grandes potencias. Esparta poseía el mayor y mejor ejército terrestre
 
 Esparta no tenía un ejército. Esparta era un ejercito. Los ciudadanos vivían por y para el ejército. El servicio militar comenzaba a los 6 años. A los 18 un joven espartano era un supersoldado entrenado para no sentir dolor y vivir en condiciones muy límites.
 
-![Ejército_espartano_-_Wikiwand.png](Peste%204020c0e908854667a392e7c510abaddc/Ejercito_espartano_-_Wikiwand.png)
+![Untitled]({{site.baseurl}}/images/Peste%204020c0e908854667a392e7c510abaddc/Ejercito_espartano_-_Wikiwand.png)
 
 Lo que no tenía Esparta (o era prácticamente testimonial) era una flota naval. Atenas, sin embargo poseía la flota naval más importante de zona. El mar era suyo. 
 
@@ -30,13 +30,13 @@ El problema era que si fortificaban Ateneas quedaban aislados del mundo y Espart
 
 Es por esto que Pericles decide fortificar no solo Atenas sino crear unos muros que unieran la polis con los puertos de mar (Atenas no estaba conectada al mar directamente). Crearon así los llamados “muros largos” que unían Atenas con el Pireo.
 
-![Walls_Protecting_Athens_Pireus_431_B-C-es_-_Muros_Largos_-_Wikipedia__la_enciclopedia_libre.png](Peste%204020c0e908854667a392e7c510abaddc/Walls_Protecting_Athens_Pireus_431_B-C-es_-_Muros_Largos_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Peste%204020c0e908854667a392e7c510abaddc/Walls_Protecting_Athens_Pireus_431_B-C-es_-_Muros_Largos_-_Wikipedia__la_enciclopedia_libre.png)
 
 De esta manera, aunque Esparta los sitiara, podían reabastecerse con mercancías que llegaban por mar (donde tenían la supremacía total) y aguantar un sitio de Esparta a Atenas durante tiempo.
 
 Fundamentalmente les permitía traer grano de Egipto (el granero del mundo en época) mientras que los ciudadanos se encontraban dentro de los muros protegidos de Esparta. 
 
-![La_reconstrucción_de_los_muros_largos_de_Atenas_conectando_a_su_puerto_en_Piraeus_en_la_antigua_Grecia_Fotografía_de_stock_-_Alamy.png](Peste%204020c0e908854667a392e7c510abaddc/La_reconstruccion_de_los_muros_largos_de_Atenas_conectando_a_su_puerto_en_Piraeus_en_la_antigua_Grecia_Fotografia_de_stock_-_Alamy.png)
+![Untitled]({{site.baseurl}}/images/Peste%204020c0e908854667a392e7c510abaddc/La_reconstruccion_de_los_muros_largos_de_Atenas_conectando_a_su_puerto_en_Piraeus_en_la_antigua_Grecia_Fotografia_de_stock_-_Alamy.png)
 
 Además mientras que se encontraban resguardados tras los muros su potente flota podía cortar las líneas de suministro espartanas. Era su estrategia para ganar la guerra.
 
@@ -48,7 +48,7 @@ No tenemos claro que enfermedad fue. Al principio se pensaba que era peste bubó
 
 El historiador Tucídides pasó la enfermedad y relató los síntomas: Fiebre alta, deshidratación y heridas en la piel. La enfermedad, desde los primeros síntomas, duraba 7 días, periodo tras el cual el paciente se recuperaba o moría.
 
-![peste_atenas_-_Buscar_con_Google.png](Peste%204020c0e908854667a392e7c510abaddc/peste_atenas_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Peste%204020c0e908854667a392e7c510abaddc/peste_atenas_-_Buscar_con_Google.png)
 
 "Al invierno siguiente, la peste atacó a Atenas de nuevo por segunda vez, pues aunque no había cesado del todo en ningún momento, sí que había habido una mitigación" (Tucídides, III 87)
 
@@ -64,7 +64,7 @@ Los muertos se apilaban las casas y los templos. Las víctimas eran abandonadas 
 
 El humo de las pilas funerarias hizo incluso que los espartanos que estaban sitiando la ciudad se alejaran.
 
-![la-peste-de-atenas_80a8f21f_800x550_jpg__800×550_.png](Peste%204020c0e908854667a392e7c510abaddc/la-peste-de-atenas_80a8f21f_800x550_jpg__800550_.png)
+![Untitled]({{site.baseurl}}/images/Peste%204020c0e908854667a392e7c510abaddc/la-peste-de-atenas_80a8f21f_800x550_jpg__800550_.png)
 
 El problema no fue solo la enfermedad, sino también el miedo a la enfermedad. Como dijo Tucídides: "El miedo a la peste destruyó Atenas, no la peste"
 

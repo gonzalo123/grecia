@@ -6,13 +6,13 @@ order: 3
 
 Demócrito nace en Abdera en el 460 a. C. Abdera fue una polis de la región de Tracia cerca de la isla de Tasos y la actual Kavala.
 
-![Notification_Center.png](Demo%CC%81crito%20de%20Abdera%20a765936f1d8542de81cbfa330b45d174/Notification_Center.png)
+![Untitled]({{site.baseurl}}/images/Demo%CC%81crito%20de%20Abdera%20a765936f1d8542de81cbfa330b45d174/Notification_Center.png)
 
 Demócrito de Abdera, a pesar de ser contemporáneo de Sócrates, es considerado un filósofo presocrático ya que su filosofía se basa en la búsqueda del principio de las cosas, nexo de unión de todos los presocráticos. 
 
 Como del resto de filósofos presocráticos no tenemos muchos datos y es posible que muchas de las teorías que se la atribuyen sean de su maestro Leucipo.
 
-![Notification_Center.png](Demo%CC%81crito%20de%20Abdera%20a765936f1d8542de81cbfa330b45d174/Notification_Center%201.png)
+![Untitled]({{site.baseurl}}/images/Demo%CC%81crito%20de%20Abdera%20a765936f1d8542de81cbfa330b45d174/Notification_Center%201.png)
 
 Los filósofos presocrátricos tienden a la búsqueda del principio de las cosas bien sea un origen material, un elemento común o una ley o esencia. Es lo que se denomina el Arkhé o Arché. 
 
@@ -34,7 +34,7 @@ Demócrito toma de Parménides la inmutabilidad y eternidad del ser y de Herácl
 
 Para que exista cambio tiene que existir un vacío por el que las cosas puedan circular. Lo lleno por otra parte, no está lleno del todo. Está compuesto, a su vez por partes que se componen de lleno y vacío. Esta división de partículas llega hasta cierto punto. 
 
-![Demócrito__el_filósofo_que_ríe_jpg.png](Demo%CC%81crito%20de%20Abdera%20a765936f1d8542de81cbfa330b45d174/Democrito__el_filosofo_que_rie_jpg.png)
+![Untitled]({{site.baseurl}}/images/Demo%CC%81crito%20de%20Abdera%20a765936f1d8542de81cbfa330b45d174/Democrito__el_filosofo_que_rie_jpg.png)
 
 Existen unas partículas que no pueden ser divididas. Demócrito llama a estas partículas "átomos" (aka "lo que no puede ser cortado"). Los átomos son totalmente llenos y no tienen vacío en su ser.
 
@@ -52,7 +52,7 @@ Cualitativamente todas las cosas son iguales y solo se diferencian entre sí por
 
 El universo es un agregado de átomos fruto del azar donde estos chocan los unos contra los otros.
 
-![Hendrik_ter_Brugghen_-_Democritus_jpg__1291×1600_.png](Demo%CC%81crito%20de%20Abdera%20a765936f1d8542de81cbfa330b45d174/Hendrik_ter_Brugghen_-_Democritus_jpg__12911600_.png)
+![Untitled]({{site.baseurl}}/images/Demo%CC%81crito%20de%20Abdera%20a765936f1d8542de81cbfa330b45d174/Hendrik_ter_Brugghen_-_Democritus_jpg__12911600_.png)
 
 El alma también está compuesta por átomos y vacío. Estos átomos se mueven constantemente y dan vida al cuerpo que no es más que el recipiente del alma. 
 

@@ -6,7 +6,7 @@ order: 3
 
 Lo que conocemos como estado Espartano fue creado por un ideólogo llamado Licurgo. Licurgo es un personaje entre lo mítico y lo real. No se sabe mucho sobre el. Incluso se duda si fue una persona o varias. Es una figura entre el mito y la realidad (como era el caso de Homero). 
 
-![Untitled](Licurgo%2078813bf51d514e8ab045e24fdcd79b7c/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Licurgo%2078813bf51d514e8ab045e24fdcd79b7c/Untitled.png)
 
 Licurgo aparece como mediador entre el dios Apolo de Delfos y los espartanos. El orden de Licurgo venía del propio dios Apolo. Sus leyes (la gran retra) eran divinas. Contradecirlas era contradecir al mismo dios Apolo.
 
@@ -30,7 +30,7 @@ Las leyes no se podían escribir. Licurgo quería que la gente viviera las leyes
 
 En la sociedad había 3 tipos de personas: Los ciudadanos de pleno derecho (espartiatas), los hombres libres o periecos (que no podían participar de la política) y los ilotas o esclavos que no tenían ningún derecho.
 
-![Untitled](Licurgo%2078813bf51d514e8ab045e24fdcd79b7c/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/Licurgo%2078813bf51d514e8ab045e24fdcd79b7c/Untitled%201.png)
 
 Licurgo expropia las tierras de Esparta, las divide en partes iguales y se las entrega a los ciudadanos. También divide las tierras de la región de Laconia (provincia en la que está Esparta) y se las entrega a los periecos.
 
@@ -40,7 +40,7 @@ El espartiata tenía que proceder de una genuina familia de espartiatas (padre y
 
 Tenían que disponer de unas propiedades (que el estado les había asignado a partes iguales) que le produjeran suficientes ingresos por rentas que les permitía vivir sin trabajar (y dedicarse enteramente a Esparta). De hecho tenían prohibido trabajar.
 
-![Untitled](Licurgo%2078813bf51d514e8ab045e24fdcd79b7c/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Licurgo%2078813bf51d514e8ab045e24fdcd79b7c/Untitled%202.png)
 
 Además de Esparta las ciudades cercanas como Taigeta y Parhón (en la provincia de Lacedemonia) estaban bajo la influencia de Esparta. Las zonas de Mesenia nunca fueron conquistadas del todo pero también tenían alianzas con Esparta.
 
@@ -60,7 +60,7 @@ Tenían que matar un ilota (que evidentemente se defendía). Se les premiaba si 
 
 Pese a los malos tratos solían establecerse buenas relaciones entre ilotas y espartiatas, especialmente en el servicio doméstico. Los hijos de espartiata e ilota se denominaban “mothakes”que no eran ciudadanos de pleno derecho pero si participaban en la educación de los ciudadanos.
 
-![Untitled](Licurgo%2078813bf51d514e8ab045e24fdcd79b7c/Untitled%203.png)
+![Untitled]({{site.baseurl}}/images/Licurgo%2078813bf51d514e8ab045e24fdcd79b7c/Untitled%203.png)
 
 Poco se sabe sobre la vida en Esparta. Los espartanos eran poco amigos de suministrar información a los extranjeros. Era una sociedad extraña. Por una lado el estado reparte equitativamente las tierras entre los espartiatas (aka “los iguales”) 
 
@@ -94,7 +94,7 @@ Se dice que estableció como moneda una barra de hierro (pesada y grande para ha
 
 Las mujeres de Esparta tenían un peso importante en la sociedad. Eran las únicas que podían dar a luz soldados espartanos. Es por esto que se les permitía practicar deporte para que su estado físico fuese bueno. 
 
-![Untitled](Licurgo%2078813bf51d514e8ab045e24fdcd79b7c/Untitled%204.png)
+![Untitled]({{site.baseurl}}/images/Licurgo%2078813bf51d514e8ab045e24fdcd79b7c/Untitled%204.png)
 
 Los espartanos solían ser los mejores atletas en las pruebas que se celebraban entre las polis (como es el caso de las Olimpiadas), aunque ahí las mujeres tenían prohibido participar.
 
@@ -102,7 +102,7 @@ A pesar de esta prohibición Cinisca, hija de rey Arquídano, fue la primera muj
 
 Cinista venció 2 años seguidos a pesar de no poder entrar en el estadio.
 
-![Untitled](Licurgo%2078813bf51d514e8ab045e24fdcd79b7c/Untitled%205.png)
+![Untitled]({{site.baseurl}}/images/Licurgo%2078813bf51d514e8ab045e24fdcd79b7c/Untitled%205.png)
 
 Las mujeres se casaban a las 19 años más o menos (a diferencia que en otras polis que se casaban a los 13-15 años) con un hombre de 30 (tras terminar su formación militar).
 
@@ -132,7 +132,7 @@ Todas las fiestas importantes de Esparta tenían relación con Apolo de Karnos, 
 
 Atenea (diosa de la guerra) también era una divinidad importante. Además veneraban como dioses a héroes como Menelao y Helena (una raza pre-doria) de la guerra de Troya.
 
-![Untitled](Licurgo%2078813bf51d514e8ab045e24fdcd79b7c/Untitled%206.png)
+![Untitled]({{site.baseurl}}/images/Licurgo%2078813bf51d514e8ab045e24fdcd79b7c/Untitled%206.png)
 
 Platón (un claro antidemócrata) admiraba la sociedad espartana. Pare él un sitio donde se venera a los dioses también respeta los derechos de los hombres. 
 

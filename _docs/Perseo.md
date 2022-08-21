@@ -10,7 +10,7 @@ El oráculo le dijo que, no solo nunca tendría hijo varón, sino que su nieto l
 
 Pero va a a ser que Zeus se había encaprichado de Dánae y para llegar a ella se transforma en lluvia dorada para entrar entre las grietas de la torre y dejarla embarazada de quién sería su hijo Perseo.
 
-![Perseo%2096ba7889c26c4a4dbb29d610884a062f/Tizian_-_Danae_receiving_the_Golden_Rain_-_Prado_-_Danae_-_Wikipedia__la_enciclopedia_libre.png](Perseo%2096ba7889c26c4a4dbb29d610884a062f/Tizian_-_Danae_receiving_the_Golden_Rain_-_Prado_-_Danae_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Perseo%2096ba7889c26c4a4dbb29d610884a062f/Tizian_-_Danae_receiving_the_Golden_Rain_-_Prado_-_Danae_-_Wikipedia__la_enciclopedia_libre.png)
 
 Esta lluvia de oro en la concepción de Perseo da nombre a las Perseidas o lluvia de estrellas que se produce todos los años cuando la tierra pasa junto a la cola del cometa Swift-Tuttle.
 
@@ -26,17 +26,17 @@ Atenea y Hermes le ayudan. Hermes le hace de guía y le da una espada. Atenea le
 
 Perseo consigue robar el ojo de las Grayas (compartían un ojo) y las chantajea para que le digan el paradero de las ninfas. Estas le entregan las armas que necesita: Unos zapatos alados, el casco de Hades (que le da invisibilidad) y una bolsa para guardar la cabeza de Medusa.
 
-![Perseo%2096ba7889c26c4a4dbb29d610884a062f/Perseo_armado_aproposito_el_Ninfas_de_Walter_Crane__1845-1915__United_Kingdom____Reproducciones_De_Arte_Walter_Crane___WahooArt_com.png](Perseo%2096ba7889c26c4a4dbb29d610884a062f/Perseo_armado_aproposito_el_Ninfas_de_Walter_Crane__1845-1915__United_Kingdom____Reproducciones_De_Arte_Walter_Crane___WahooArt_com.png)
+![Untitled]({{site.baseurl}}/images/Perseo%2096ba7889c26c4a4dbb29d610884a062f/Perseo_armado_aproposito_el_Ninfas_de_Walter_Crane__1845-1915__United_Kingdom____Reproducciones_De_Arte_Walter_Crane___WahooArt_com.png)
 
 Perseo consigue entrar en el escondite de Medusa gracias al casco de invisibilidad. Gracias al escudo consigue acercarse y gracias a la espada consigue cortarle la cabeza, que la guarda el al bolsa sin mirarla. De la sangre de Medusa surge el caballo Pegaso.
 
-![Perseo%2096ba7889c26c4a4dbb29d610884a062f/Perseo_Perseus__-_Perseo_-_Wikipedia__la_enciclopedia_libre.png](Perseo%2096ba7889c26c4a4dbb29d610884a062f/Perseo_Perseus__-_Perseo_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Perseo%2096ba7889c26c4a4dbb29d610884a062f/Perseo_Perseus__-_Perseo_-_Wikipedia__la_enciclopedia_libre.png)
 
 Cuando regresa a la corte de Polidectes (en el camino tiene algunas otras aventuras) descubre que éste ha secuestrado y violado a su madre Dánae. Esto enfada mucho a Perseo. Recluta a unos hombres (era un héroe famoso) y lucha contra el rey.
 
 Está en inferioridad pero cuando está a punto de ser derrotado dijo: "Aquellos que son mis amigos que cierren los ojos". Sacó la cabeza de Medusa y petrificó a sus enemigos. Perseo petrifica al rey le entrega el reino a su padre adoptivo Dictis.
 
-![Perseo%2096ba7889c26c4a4dbb29d610884a062f/Polidectes_-_Buscar_con_Google.png](Perseo%2096ba7889c26c4a4dbb29d610884a062f/Polidectes_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Perseo%2096ba7889c26c4a4dbb29d610884a062f/Polidectes_-_Buscar_con_Google.png)
 
 Perseo pone la cabeza de Medusa en casco de Atenea y devuelve los regalos que le permitieron su victoria a los dioses. Se convierte en un gran héroe. Su abuelo, Acrisio recuerda la profecía y huye. De todas formas Perseo no pretende vengarse de su abuelo.
 

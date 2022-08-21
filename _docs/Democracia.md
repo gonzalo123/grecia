@@ -18,11 +18,11 @@ Estos cambios generan una serie de cambios en las leyes y los legisladores. Hay 
 
 Dracón hace una cosa muy simple. Pone por escrito las leyes. Parece obvio, pero antes esto no pasaba. Las leyes estaban sujetas a la interpretación de los eupátridas, que raramente legislaban en su contra y generaba una gran desigualdad.
 
-![Democracia%20df96ce815cf64124bfa42a226e1e8182/Dracon_-_Buscar_con_Google.png](Democracia%20df96ce815cf64124bfa42a226e1e8182/Dracon_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Democracia%20df96ce815cf64124bfa42a226e1e8182/Dracon_-_Buscar_con_Google.png)
 
 Solón elimina la esclavitud por deudas (fuente de muchos conflictos). Crea también la Bulé (asamblea de ciudadanos) y la Heliea (tribunal ciudadano). Esto permite que todos los ciudadanos (no solo los nobles) participen en las instituciones políticas.
 
-![Democracia%20df96ce815cf64124bfa42a226e1e8182/Solon_-_Solon_-_Wikipedia__la_enciclopedia_libre.png](Democracia%20df96ce815cf64124bfa42a226e1e8182/Solon_-_Solon_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Democracia%20df96ce815cf64124bfa42a226e1e8182/Solon_-_Solon_-_Wikipedia__la_enciclopedia_libre.png)
 
 Esto tiene trampa. Cualquier ciudadano puede llegar al poder político pero para dedicarse a ello tiene que dejar su trabajo. Esto hace que solo los ricos se lo puedan permitir, generando lo que se denomina la Plutocracia.
 
@@ -30,7 +30,7 @@ Solón no buscaba la igualdad. Buscaba la paz social. A cada uno le da lo que pi
 
 Clístenes crea el concepto de isonomía donde todos los ciudadanos son iguales ante la ley. Da más atribuciones a la Bulé y al tribunal popular. Permite que todos tengan acceso a las instituciones. Incluso algunos cargos se deciden por sorteo entre todos los ciudadanos.
 
-![Democracia%20df96ce815cf64124bfa42a226e1e8182/Cleisthenes_-_Clistenes_de_Atenas_-_Wikipedia__la_enciclopedia_libre.png](Democracia%20df96ce815cf64124bfa42a226e1e8182/Cleisthenes_-_Clistenes_de_Atenas_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Democracia%20df96ce815cf64124bfa42a226e1e8182/Cleisthenes_-_Clistenes_de_Atenas_-_Wikipedia__la_enciclopedia_libre.png)
 
 Este proceso de evolución tiene sus interrupciones. Entre medias surgen algunos gobiernos que llegan al poder mediante la fuerza. Es lo que se denominan las Tiranías. Hoy en día asociamos la figura del tirano como algo negativo. 
 
@@ -40,7 +40,7 @@ Tras las reformas de Clístenes se dan las guerras médicas donde una coalición
 
 Aquí surge Pericles que culmina la transición a la democracia, implantando la mistoforía, que venía a ser un pago de dietas a los políticos, eliminando la plutocracia. Ahora podemos decir que Atenas tenía una democracia donde el poder estaba en los ciudadanos.
 
-![Democracia%20df96ce815cf64124bfa42a226e1e8182/Pericles_Pio-Clementino_Inv269_n2_-_Pericles_-_Wikipedia__la_enciclopedia_libre.png](Democracia%20df96ce815cf64124bfa42a226e1e8182/Pericles_Pio-Clementino_Inv269_n2_-_Pericles_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Democracia%20df96ce815cf64124bfa42a226e1e8182/Pericles_Pio-Clementino_Inv269_n2_-_Pericles_-_Wikipedia__la_enciclopedia_libre.png)
 
 Pero ojo. Tiene trampa. Estamos hablando de ciudadanos. Estos eran una minoría en la sociedad Ateniense. Quedan fuera las mujeres, los extranjeros (o metecos) y los esclavos. De 300k habitantes de Atenas solo 40k eran ciudadanos. Eran unos privilegiados.
 
@@ -52,6 +52,6 @@ Cada año los ciudadanos votaban al que pensaban que podía poner en peligro la 
 
 Temístocles (héroe de las guerras médicas) empezó a tener una gran notoriedad. Esto no era bien visto y fue elegido en el ostracismo y terminó exiliado en Argos.
 
-![Democracia%20df96ce815cf64124bfa42a226e1e8182/Historia_de_la_navegacion__Temistocles__el_primer_estratega_naval_de_la_historia_.png](Democracia%20df96ce815cf64124bfa42a226e1e8182/Historia_de_la_navegacion__Temistocles__el_primer_estratega_naval_de_la_historia_.png)
+![Untitled]({{site.baseurl}}/images/Democracia%20df96ce815cf64124bfa42a226e1e8182/Historia_de_la_navegacion__Temistocles__el_primer_estratega_naval_de_la_historia_.png)
 
 Dato curioso que termina estando al servicio del rey persa Artajerjes I. Temístocles, el héroe ateniense que derrotó a los persas en Salamina, termina sus días al servicio de un rey persa. Como vemos, las cosas raras en la vida política no son cosa de ahora.

@@ -10,13 +10,13 @@ Años después, durante la segunda guerra médica, Jerjes invade Atenas y arrasa
 
 Pero para no olvidar la barbarie persa deciden, con el juramento de Platea, que no reconstruirían ningún templo destruido por los persas. Es por esto que en la Acrópolis solamente reconstruyen las murallas (para lo que usaron piedras de las ruinas del antiguo templo).
 
-![Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Acropolis_North_wall_Older_Partenon_columns_-_Prepartenon_-_Wikipedia__la_enciclopedia_libre.png](Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Acropolis_North_wall_Older_Partenon_columns_-_Prepartenon_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Acropolis_North_wall_Older_Partenon_columns_-_Prepartenon_-_Wikipedia__la_enciclopedia_libre.png)
 
 Pericles quiere reconstruir la Acrópolis pero se enfrenta a un fuerte rechazo. La Acrópolis está llena de lugares sagrados donde no se puede construir: La huella del tridente de Poseidón, la tumba de Cécrope, el olivo de Atenea, ...
 
 Pericles construye en la zona no sagrada. Manda a Fidias (un joven escultor y amigo personal suyo) la construcción de una gran escultura de Atenea (Atenea Promacos). Con la diosa en pose guerrera y con un brillante casco visible incluso desde el mar.
 
-![Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Akropolis_by_Leo_von_Klenze-award-3_-_Atenea_Promacos_-_Wikipedia__la_enciclopedia_libre.png](Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Akropolis_by_Leo_von_Klenze-award-3_-_Atenea_Promacos_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Akropolis_by_Leo_von_Klenze-award-3_-_Atenea_Promacos_-_Wikipedia__la_enciclopedia_libre.png)
 
 Los sectores conservadores de la ciudadanía ateniense rechazan estas obras. Acusan a Pericles de querer adornar a Atenas como si fuese una prostituta. Pericles se reúne con la Ecclesia para intentar convencerles para construir en la Acrópolis.
 
@@ -28,7 +28,7 @@ Tras las guerras médicas Atenas se había alzado como el líder de los pueblos 
 
 Pericles, que era muy convincente, consiguió convencer a todos diciendo que el dinero se daba a Atenas era para garantizar la protección. Lo que Atenas hiciera con el dinero esa cosa suya, siempre que cumpliera con la protección prometida.
 
-![Partenon%208aada58e0ce84bb7b958e00e69a16b1a/parthenon-facts-5_jpg__750454_.png](Partenon%208aada58e0ce84bb7b958e00e69a16b1a/parthenon-facts-5_jpg__750454_.png)
+![Untitled]({{site.baseurl}}/images/Partenon%208aada58e0ce84bb7b958e00e69a16b1a/parthenon-facts-5_jpg__750454_.png)
 
 Es así como comenzaron la obras de nuevo Partenón, que duraron 9 años. La arquitectura fue de la mano de Ictino y Calícrates. Fidias se encargó de las esculturas y la supervisión general del proyecto.
 
@@ -40,23 +40,23 @@ El uso de mármol para construir un edificio era algo raro. Salvo en las Cíclad
 
 El Partenón es un edificio períptero (totalmente rodeado de columnas) octástilo (con 8 columnas en el frontal). El uso de 8 columnas era algo muy raro. De hecho había muy pocos así. Tenía una decoración extrema. No era habitual decorar los edificios tanto.
 
-![Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Parthenon-top-view_svg.png](Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Parthenon-top-view_svg.png)
+![Untitled]({{site.baseurl}}/images/Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Parthenon-top-view_svg.png)
 
 La fachada principal (este) estaba decorada con unos frisos que representaban la gigantomaquia y el frontón con el nacimiento de Atenea (que surge de la cabeza de Zeus). Era la fachada más sagrada.
 
 La fachada oeste representa la disputa entre Atena y Poseidón por el protectorado de la ciudad. En un lateral se representa la guerra de Troya y en otro la centauromaquia. También hay metopas con escenas de la guerra de de Atenas con las amazonas.
 
-![Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Reconstruction_of_the_west_pediment_of_the_Parthenon_1_jpg__3792740_.png](Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Reconstruction_of_the_west_pediment_of_the_Parthenon_1_jpg__3792740_.png)
+![Untitled]({{site.baseurl}}/images/Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Reconstruction_of_the_west_pediment_of_the_Parthenon_1_jpg__3792740_.png)
 
 Muchos de los frisos y metopas estaban pensados para verse mientras se caminaba, jugando con las columnas y las formas. Era un edificio tremendamente propagandístico, representando el poderío de Atenas sobre el mundo.
 
-![Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Los_frisos_del_Partenon__un_poco_mas_cerca_de_la_Acropolis___Portal_Clasico.png](Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Los_frisos_del_Partenon__un_poco_mas_cerca_de_la_Acropolis___Portal_Clasico.png)
+![Untitled]({{site.baseurl}}/images/Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Los_frisos_del_Partenon__un_poco_mas_cerca_de_la_Acropolis___Portal_Clasico.png)
 
 Ningún espectador quedaba indiferente ante el Partenón. Todos veían en el algo familiar: Las partes dorias, la doble fila de columnas frontales (típico jonio), el mármol típico de la construcciones cicládicas). Causaba una enorme atracción. Todo estaba pensado para esto. 
 
 Famosas son sus correcciones ópticas. Ninguna línea es recta en el edificio. Los ejes de las columnas están inclinados hacia el interior. Si alargáramos las columnas al infinito, se terminarían juntando en 2 km.
 
-![Partenon%208aada58e0ce84bb7b958e00e69a16b1a/correcciones_opticas_partenon_-_Buscar_con_Google.png](Partenon%208aada58e0ce84bb7b958e00e69a16b1a/correcciones_opticas_partenon_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Partenon%208aada58e0ce84bb7b958e00e69a16b1a/correcciones_opticas_partenon_-_Buscar_con_Google.png)
 
 Las columnas no están situadas a la misma distancia. También están ensanchadas el en centro (éntasis). Todo para que un observador que se sitúe delante quede impresionado y la perspectiva desde cerca quede perfecta.
 
@@ -66,7 +66,7 @@ La otra sala albergaba una majestuosa estatua criselefantina (marfil y oro) de A
 
 Esta luz se reflejaba en la estatua y generaba un efecto especial. Para un griego sus dioses emitían una luz y deslumbraban. Esta estatua aguantó mil años, pero como todo lo que tenía oro terminó desapareciendo. A los pies de la estatua había un friso con el mito de Pandora.
 
-![Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Estatua_de_Atenea_Partenos__Cultura_Clasica.png](Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Estatua_de_Atenea_Partenos__Cultura_Clasica.png)
+![Untitled]({{site.baseurl}}/images/Partenon%208aada58e0ce84bb7b958e00e69a16b1a/Estatua_de_Atenea_Partenos__Cultura_Clasica.png)
 
 Además del Partenón, en la Acrópolis, Pericles construyó otras cosas: Los Propileos, el Erecteion (donde estaban las famosa tribuna de las Cariátides) y el pequeño templo de Atena Niké. Pericles no vio la obra terminada. Murió en la peste que asoló Atenas en el 429 a. C.
 
@@ -76,4 +76,4 @@ El 26 de septiembre de 1687 durante la guerra de la Santa Liga contra el Imperio
 
 A día de hoy se sigue restaurando. Nada de lo que hay es original (los originales están en Londres. Los griegos los siguen reclamando) pero sigue siendo impresionante. Algo que no se puede no ver si visitamos Atenas ya que es visible desde casi cualquier rincón de la ciudad.
 
-![Partenon%208aada58e0ce84bb7b958e00e69a16b1a/partenon-de-atenas-grecia_jpg__1280720_.png](Partenon%208aada58e0ce84bb7b958e00e69a16b1a/partenon-de-atenas-grecia_jpg__1280720_.png)
+![Untitled]({{site.baseurl}}/images/Partenon%208aada58e0ce84bb7b958e00e69a16b1a/partenon-de-atenas-grecia_jpg__1280720_.png)

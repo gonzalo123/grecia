@@ -15,7 +15,7 @@ A los griegos de la antigua Grecia (1200 - 30 a. C.) les llegaron las gestas de 
 
 Los consideraban como semidioses (hijos de los dioses) y protagonizaron sus relatos y mitos. Todo esto adornado y exagerado fruto de la transmisión oral de las historias junto con el paso de los años.
 
-![Micenas%20485a5cf74ee549dd9c1bebb69f548d65/Lions-Gate-Mycenae_-_Micenas_-_Wikipedia__la_enciclopedia_libre.png](Micenas%20485a5cf74ee549dd9c1bebb69f548d65/Lions-Gate-Mycenae_-_Micenas_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Micenas%20485a5cf74ee549dd9c1bebb69f548d65/Lions-Gate-Mycenae_-_Micenas_-_Wikipedia__la_enciclopedia_libre.png)
 
 De las expediciones de los micénicos surgen, por ejemplo, relatos como el de Jasón. Para llegar al Mar Muerto hay que pasar por el Helesponto (hoy el estrecho de Dardanelos). Controlar esa zona era controlar gran parte del comercio, por lo que se convirtió en un importante puerto.
 
@@ -27,7 +27,7 @@ Un alemán (Heinrich Schliemann), enamorado de los relatos de Homero, se propuso
 
 Lo consiguió. En 1871 descubre las ruinas de que fue Troya. Más que una ciudad, las ruinas de una serie de ciudades construidas una sobre las ruinas de otra. Troya fue real.
 
-![Micenas%20485a5cf74ee549dd9c1bebb69f548d65/Historia_de_Micenas_Caracteristicas_Civilizacion_Micenica.png](Micenas%20485a5cf74ee549dd9c1bebb69f548d65/Historia_de_Micenas_Caracteristicas_Civilizacion_Micenica.png)
+![Untitled]({{site.baseurl}}/images/Micenas%20485a5cf74ee549dd9c1bebb69f548d65/Historia_de_Micenas_Caracteristicas_Civilizacion_Micenica.png)
 
 Grecia era un conjunto de tribus. Las más importantes eran los Argivos (en la zona del Peloponeso) y los Aqueos en el norte (con menos influencia micénica y por tanto más salvajes).
 
@@ -41,7 +41,7 @@ En resumen: Grandes ciudades fuertemente amuralladas y con potentes ejércitos e
 
 La respuesta es sencilla: La evolución. Nos encontramos en la edad del bronce. Los ejércitos usaban armas y armaduras de bronce. Ya conocían en hierro (más duro y resistente) pero no tenían buen acceso al mineral (era una especie de mineral precioso).
 
-![Micenas%20485a5cf74ee549dd9c1bebb69f548d65/File_Corinthian_helmet_Denda_Staatliche_Antikensammlungen_4330_jpg_-_Wikimedia_Commons.png](Micenas%20485a5cf74ee549dd9c1bebb69f548d65/File_Corinthian_helmet_Denda_Staatliche_Antikensammlungen_4330_jpg_-_Wikimedia_Commons.png)
+![Untitled]({{site.baseurl}}/images/Micenas%20485a5cf74ee549dd9c1bebb69f548d65/File_Corinthian_helmet_Denda_Staatliche_Antikensammlungen_4330_jpg_-_Wikimedia_Commons.png)
 
 Los pueblos del norte descubrieron la manera de fundir e hierro y crear armas a gran escala. Espadas y flechas de hierro que atravesaban sin problemas las mejores armaduras de bronce.
 

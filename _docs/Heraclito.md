@@ -6,7 +6,7 @@ order: 3
 
 Heráclito de Éfeso nació sobre el 530 a. C. en la ciudad jonia de Éfeso (Asia menor. Hoy Turquía). Éfeso fue un importante centro comercial y religioso en el mundo heleno.
 
-![Hera%CC%81clito%20de%20E%CC%81feso%2040b6aae633f34737ad9a480c47280729/Ubicacion-de-Grecia-Antigua_jpg__956849_.png](Hera%CC%81clito%20de%20E%CC%81feso%2040b6aae633f34737ad9a480c47280729/Ubicacion-de-Grecia-Antigua_jpg__956849_.png)
+![Untitled]({{site.baseurl}}/images/Hera%CC%81clito%20de%20E%CC%81feso%2040b6aae633f34737ad9a480c47280729/Ubicacion-de-Grecia-Antigua_jpg__956849_.png)
 
 Parece ser que no era una persona de fácil trato. Todo lo que nos llega de él es que fue arrogante y poco sociable. Alardeaba de no haber sido discípulo de nadie y de haberlo aprendido todo por su cuenta.
 
@@ -16,7 +16,7 @@ Para Homero también tenía perlas. Decía de él que "Se merecía que le hubier
 
 Su desprecio a los demás hombres le hizo irse a vivir solo al monte. Es muy común representarlo llorando.
 
-![Hera%CC%81clito%20de%20E%CC%81feso%2040b6aae633f34737ad9a480c47280729/Cursor_and_Heraclito__el_filosofo_que_llora_jpg.png](Hera%CC%81clito%20de%20E%CC%81feso%2040b6aae633f34737ad9a480c47280729/Cursor_and_Heraclito__el_filosofo_que_llora_jpg.png)
+![Untitled]({{site.baseurl}}/images/Hera%CC%81clito%20de%20E%CC%81feso%2040b6aae633f34737ad9a480c47280729/Cursor_and_Heraclito__el_filosofo_que_llora_jpg.png)
 
 Su forma de escribir era poética, críptica y llena de aforismos (similar a las predicciones de las pitonisas del oráculo de Delfos). Esto le lleva a tener el sobrenombre de "el oscuro".
 
@@ -26,7 +26,7 @@ Parece ser que los fragmentos eran de una obra llamada "sobre la naturaleza", pe
 
 Dentro de la filosofía presocrática Heráclito entra dentro de los denominados "monistas", que son los que buscan un único principio de las cosas denominado el "arjé".
 
-![Hera%CC%81clito%20de%20E%CC%81feso%2040b6aae633f34737ad9a480c47280729/1280px-La_scuola_di_Atene_jpg__1280912_.png](Hera%CC%81clito%20de%20E%CC%81feso%2040b6aae633f34737ad9a480c47280729/1280px-La_scuola_di_Atene_jpg__1280912_.png)
+![Untitled]({{site.baseurl}}/images/Hera%CC%81clito%20de%20E%CC%81feso%2040b6aae633f34737ad9a480c47280729/1280px-La_scuola_di_Atene_jpg__1280912_.png)
 
 Como todos los presocráticos estaba obsesionado con la cuestión del cambio ¿Qué permanece a pesar del cambio? ¿Hay algo permanente?
 
@@ -38,7 +38,7 @@ Si tensamos un arco percibimos una aparente quietud pero tras esta apariencia se
 
 Para Heráclito la vida y la muerte, así como el día y la noche son la misma unidad. Son opuestos enlazados entre sí y que no pueden existir por si solos sin la existencia de su opuesto.
 
-![Hera%CC%81clito%20de%20E%CC%81feso%2040b6aae633f34737ad9a480c47280729/File_Heraclitus_Rijksmuseum_SK-A-2784_jpeg_-_Wikimedia_Commons.png](Hera%CC%81clito%20de%20E%CC%81feso%2040b6aae633f34737ad9a480c47280729/File_Heraclitus_Rijksmuseum_SK-A-2784_jpeg_-_Wikimedia_Commons.png)
+![Untitled]({{site.baseurl}}/images/Hera%CC%81clito%20de%20E%CC%81feso%2040b6aae633f34737ad9a480c47280729/File_Heraclitus_Rijksmuseum_SK-A-2784_jpeg_-_Wikimedia_Commons.png)
 
 La identidad solo se entiende con la contradicción. Si o existiese la muerte no podríamos hablar de la vida. Este razonamiento de opuestos se denomina dialectica.
 
@@ -56,7 +56,7 @@ Aristóteles y Platón se referían a Heráclito de una manera un tanto irónica
 
 Su frase más famosa es "Ningún hombre puede cruzar el mismo río dos veces, porque ni el hombre ni el río será el mismo" ¿Somos las mismas personas ahora que hace unos minutos?
 
-![Hera%CC%81clito%20de%20E%CC%81feso%2040b6aae633f34737ad9a480c47280729/Heraclitus_b_4_compressed_jpg__768963_.png](Hera%CC%81clito%20de%20E%CC%81feso%2040b6aae633f34737ad9a480c47280729/Heraclitus_b_4_compressed_jpg__768963_.png)
+![Untitled]({{site.baseurl}}/images/Hera%CC%81clito%20de%20E%CC%81feso%2040b6aae633f34737ad9a480c47280729/Heraclitus_b_4_compressed_jpg__768963_.png)
 
 Hace unos minutos no habíamos leído esta chapa por lo que somos ligeramente diferentes. Más exagerado: ¿Somos la misma persona que cuando nacimos? La mayoría de las células de nuestro cuerpo han cambiado. No somos físicamente los mismos.
 

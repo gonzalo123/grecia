@@ -8,13 +8,13 @@ Eros era una de las cuatro deidades primigenias o primordiales. Las cuatro deida
 
 Se le suele representar como un joven o niño alado, con un arco y flechas de dos tipos: doradas con plumas de paloma (que provocaban amor instantáneo) y de plomo com plumas de búho (que provocaban indiferencia)
 
-![Eros%2020c52e2cbbc24ad9a120ae97aeb86335/Eros_-_Buscar_con_Google.png](Eros%2020c52e2cbbc24ad9a120ae97aeb86335/Eros_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Eros%2020c52e2cbbc24ad9a120ae97aeb86335/Eros_-_Buscar_con_Google.png)
 
 Eros era dios del amor. Bueno, mas que del amor de la atracción sexual. Atracción sexual previa incluso a la distinción de sexos. 
 
 Eros incitó a los demás seres primordiales a tener descendencia sin unión sexual. Eros infundía el amor intenso e incondicional. La copia romana de Eros es Cupido. El dios del amor ciego (muchas veces se le representa con una venda en los ojos).
 
-![Eros%2020c52e2cbbc24ad9a120ae97aeb86335/Eros_-_Buscar_con_Google%201.png](Eros%2020c52e2cbbc24ad9a120ae97aeb86335/Eros_-_Buscar_con_Google%201.png)
+![Untitled]({{site.baseurl}}/images/Eros%2020c52e2cbbc24ad9a120ae97aeb86335/Eros_-_Buscar_con_Google%201.png)
 
 Como con casi todos los dioses hay muchas versiones de su origen. Algunas versiones dicen que había nacido de un huevo fruto de la unión de Nix y Erebo. Hermanos e hijos de Caos. No preguntes. Cosas de Dioses.
 
@@ -30,13 +30,13 @@ Afrodita, que tenía celos de Psique, hace que Eros le lance una flecha para que
 
 Pero Eros cuando ve su belleza, falla el tiro y se clava la flecha en el pie. Se enamora de ella en el acto y se la lleva a un castillo donde está con Psique todas las noches a oscuras sin que le vea. 
 
-![Eros%2020c52e2cbbc24ad9a120ae97aeb86335/File_Psycheabduct_jpg_-_Wikimedia_Commons.png](Eros%2020c52e2cbbc24ad9a120ae97aeb86335/File_Psycheabduct_jpg_-_Wikimedia_Commons.png)
+![Untitled]({{site.baseurl}}/images/Eros%2020c52e2cbbc24ad9a120ae97aeb86335/File_Psycheabduct_jpg_-_Wikimedia_Commons.png)
 
 Las hermanas de Psique, celosas de su hermana viva en un castillo, le dicen que su amante es un monstruo que la quiere matar.
 
 Psique, decide matarle pero descubre que no es un monstruo. Eros al ver que su amada quiere matarle le abandona. Psique avergonzada pide ayuda a Afrodita para recuperar a Eros.
 
-![Eros%2020c52e2cbbc24ad9a120ae97aeb86335/psique-contempla-eros_jpg__287400_.png](Eros%2020c52e2cbbc24ad9a120ae97aeb86335/psique-contempla-eros_jpg__287400_.png)
+![Untitled]({{site.baseurl}}/images/Eros%2020c52e2cbbc24ad9a120ae97aeb86335/psique-contempla-eros_jpg__287400_.png)
 
 Afrodita (recordemos que tenía celos de Psique) le manda hacer 4 tareas casi imposibles para una mortal. La última de ellas era ir al inframundo y pedir a Perséfone un poco de su belleza, guardarla en una caja y dársela a Afrodita.
 
@@ -44,11 +44,11 @@ Psique piensa que la mejor forma de ir al inframundo es morir. Se sube a una tor
 
 Le dice como llegar al inframundo. Le enseña como engañar al perro guardián del inframundo Cerbero con un pastel de cebada y a darle un óbolo a Caronte (el barquero).
 
-![Eros%2020c52e2cbbc24ad9a120ae97aeb86335/Caronte_y_Psique__Spencer_Stanhope_-_Buscar_con_Google.png](Eros%2020c52e2cbbc24ad9a120ae97aeb86335/Caronte_y_Psique__Spencer_Stanhope_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Eros%2020c52e2cbbc24ad9a120ae97aeb86335/Caronte_y_Psique__Spencer_Stanhope_-_Buscar_con_Google.png)
 
 Perséfone le da la belleza en la caja y le permite volver. Pero Psique decide abrir la caja para quedarse con un poco de la belleza (para así intentar recuperar a Eros) antes de entregársela a Afrodita.
 
-![Eros%2020c52e2cbbc24ad9a120ae97aeb86335/541fa5a1eace5b5d51f86a1726cdf523_jpg__800387_.png](Eros%2020c52e2cbbc24ad9a120ae97aeb86335/541fa5a1eace5b5d51f86a1726cdf523_jpg__800387_.png)
+![Untitled]({{site.baseurl}}/images/Eros%2020c52e2cbbc24ad9a120ae97aeb86335/541fa5a1eace5b5d51f86a1726cdf523_jpg__800387_.png)
 
 Pero cuando abre la caja de su interior sale un "sueño estigio" que es el vapor que hace que olvide todo. 
 
@@ -56,6 +56,6 @@ Eros, que había seguido en secreto su aventura y la había perdonado, vuela has
 
 Zeus se lo concede, hace inmortal a Psique, Afrodita olvida sus rencores y Eros y Psique se casan. Afrodita incluso baila en la boda de Eros y Psique.
 
-![Eros%2020c52e2cbbc24ad9a120ae97aeb86335/Bodas_de_Psiquis_y_Cupido_jpg.png](Eros%2020c52e2cbbc24ad9a120ae97aeb86335/Bodas_de_Psiquis_y_Cupido_jpg.png)
+![Untitled]({{site.baseurl}}/images/Eros%2020c52e2cbbc24ad9a120ae97aeb86335/Bodas_de_Psiquis_y_Cupido_jpg.png)
 
 Fruto de esto tienen una hija (Edoné). La personificación del placer sensual.

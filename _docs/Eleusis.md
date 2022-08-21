@@ -6,7 +6,7 @@ order: 3
 
 Cuando pensamos en religión en la Antigua Grecia siempre nos viene a la cabeza el panteón griego con sus dioses olímpicos y mitos. Estos mitos han perdurado durante los siglos y, en mayor o menor medida, todos conocemos (o nos suenan) los principales.
 
-![Cursor_and_Raffaello__concilio_degli_dei_02_jpg__1257×493_.png](Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/Cursor_and_Raffaello__concilio_degli_dei_02_jpg__1257493_.png)
+![Untitled]({{site.baseurl}}/images/Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/Cursor_and_Raffaello__concilio_degli_dei_02_jpg__1257493_.png)
 
 Este culto podía ser considerado la "religión oficial" en la Antigua Grecia, pero este concepto de religión difiere de lo que hoy entendemos hoy por "religión"
 
@@ -16,7 +16,7 @@ En la Antigua Grecia, sobre todo el época arcaica y clásica (quizás menos en 
 
 Tras las guerras médicas empezó a tener más sentido las agrupaciones de polis para defenderse de un enemigo común o simplemente ser más fuertes. Comenzaron a formase las ligas (la de de Delos y la del Peloponeso las más importantes). Era el comienzo del fin de las polis.
 
-![shapeimage_2_png__653×568_.png](Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/shapeimage_2_png__653568_.png)
+![Untitled]({{site.baseurl}}/images/Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/shapeimage_2_png__653568_.png)
 
 En el helenismo (tras la muerte de Alejandro Magno) el mundo cambio. Esa visión localista y nacionalista a la polis se abrió al mundo creando el cosmopolitismo.
 
@@ -38,7 +38,7 @@ Si habíamos tenido una vida heroica nos esperaban los campos Elíseos (o la isl
 
 ... para preguntar al adivino Tiresias cómo escapar de la isla de la hechicera Circe, se encuentra entre otros a Aquiles (muerto en Troya) que le dice que se arrepiente de todo. Le dice también que daría cualquier cosa por no estar muerto.
 
-![Odysseus_Tiresias_Cdm_Paris_422_-_Euryloque_—_Wikipédia.png](Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/Odysseus_Tiresias_Cdm_Paris_422_-_Euryloque__Wikipedia.png)
+![Untitled]({{site.baseurl}}/images/Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/Odysseus_Tiresias_Cdm_Paris_422_-_Euryloque__Wikipedia.png)
 
 “No intentes consolarme de la muerte, esclarecido Odiseo: preferiría ser labrador y servir a otro, o un hombre indigente que tuviera poco caudal para mantenerse, a reinar sobre todos los muertos.” (Od XI 487)
 
@@ -54,7 +54,7 @@ El único problema de estos cultos mistéricos eran que aceptaban como miembros 
 
 Estos cultos mistéricos se basan en la existencia de un "misterio" algo que no se conoce y que solo los "iniciados" pueden conocer. El culto mistérico más importante es un culto muy antiguo a la madre y a la hija: Demeter y Perséfone.
 
-![File_NAMA_Triade_éleusinienne_jpg_-_Wikimedia_Commons.png](Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/File_NAMA_Triade_eleusinienne_jpg_-_Wikimedia_Commons.png)
+![Untitled]({{site.baseurl}}/images/Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/File_NAMA_Triade_eleusinienne_jpg_-_Wikimedia_Commons.png)
 
 Del mito de Perséfone hablé en el primer hilo que hice sobre mitología y cometí el error que se suele cometer cuando se habla de este mito. El asociarlo con el origen de las estaciones. 
 
@@ -62,7 +62,7 @@ Del mito de Perséfone hablé en el primer hilo que hice sobre mitología y come
 
 Perséfone, hija de Demeter y Zeus (que eran hermanos, pero que nadie se sorprenda con esto cuando hablamos de dioses), es raptada por Hades, dios del inframundo. Su madre, diosa de la agricultura, se queda muy apenada e implora que Hades la libere. 
 
-![_ContarElArte__El_rapto_de_Perséfone__Museo_Arqueológico_Nacional__-_GVAM___GVAM.png](Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/_ContarElArte__El_rapto_de_Persefone__Museo_Arqueologico_Nacional__-_GVAM___GVAM.png)
+![Untitled]({{site.baseurl}}/images/Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/_ContarElArte__El_rapto_de_Persefone__Museo_Arqueologico_Nacional__-_GVAM___GVAM.png)
 
 Con su pena se refugia en el santuario de Eleusis (cerca de Atenas). Zeus termina intercediendo y dicta que Perséfone sea liberada. El problema es que Hades la engaña y le da de comer unas semillas de granada (no había comido nada desde que estaba en el inframundo). 
 
@@ -70,25 +70,25 @@ Comer comida del inframundo te liga este y te imposibilita salir de allí. Demet
 
 Zeus dicta una decisión salomónica: Perséfone permanecerá 6 meses en el inframundo con Hades y 6 meses con su madre en la tierra. El tiempo que Perséfone está con su madre los campos florecen, cuando está en el inframundo, mueren. 
 
-![regreso_de_persefone_al_hades_-_Buscar_con_Google.png](Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/regreso_de_persefone_al_hades_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/regreso_de_persefone_al_hades_-_Buscar_con_Google.png)
 
 Este mito se asocia con los ciclos de cosecha y además representa una metáfora sobre la vida y la muerte. Un ciclo que se repite una y otra vez, dando una esperanza de vida después de la muerte. 
 
 El culto a Demeter y Perséfone se da fundamentalmente en el santuario de Eleusis y se convierte en un culto mayoritario, siendo el culto mistérico más importante de la Antigua Grecia. 
 
-![Google_Maps.png](Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/Google_Maps.png)
+![Untitled]({{site.baseurl}}/images/Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/Google_Maps.png)
 
 Dado su carácter mistérico, no tenemos muchos datos sobre este culto. myo significa "cerrar los ojos, la boca" (la palabra miope viene de ahí "el que cierra los ojos").
 
 Los peregrinos acudían al Telesterion (santuario de Demeter en Eleusis). Dentro, a oscuras y tras beber kykeon (un brebaje místico con características similares al LSD), se abría una puerta donde salía fuego y aparecía un bebé (o eso creían ver). 
 
-![Overall_view_of_the_Telesterion__the__place_for_initiation___Eleusis__16177191605__-_Telesterion_-_Wikipedia__la_enciclopedia_libre.png](Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/Overall_view_of_the_Telesterion__the__place_for_initiation___Eleusis__16177191605__-_Telesterion_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/Overall_view_of_the_Telesterion__the__place_for_initiation___Eleusis__16177191605__-_Telesterion_-_Wikipedia__la_enciclopedia_libre.png)
 
 Con esto los peregrinos pasaban a ser epoptes "el que ha visto". Como digo el hermetismo de este culto, solo visible para los iniciados, hace que no tengamos datos concretos sobre este. Lo que sabemos es que era muy extendido.
 
 El Telesterion era un templo atípico. A diferencia de los demás era grande por dentro ya que el culto se realizaba en el interior (lo normal en los templos griegos era lo contrario)
 
-![Telesterion___The_Core_Curriculum.png](Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/Telesterion___The_Core_Curriculum.png)
+![Untitled]({{site.baseurl}}/images/Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/Telesterion___The_Core_Curriculum.png)
 
 Los misterios de Eleusis estaban muy ligados a la polis de Atenas. Atenas se valió de la fama de Eleusis y viceversa. De hecho Eleusis terminó siendo un distrito de Atenas. Existía una procesión de Atenas a Eleusis todos los años para celebrar los misterios mayores el mes de boedromión (septiembre más o menos)
 
@@ -98,7 +98,7 @@ Existía una procesión de Atenas a Eleusis todos los años para celebrar los mi
 
 Los centros masivos de culto terminaban siendo muy ricos por la afluencia de peregrinos y las polis rivalizaban por controlarlos. Como pasó con Delfos.
 
-![NAMA_Mystères_d_Eleusis_-_Tablilla_de_Ninnío_-_Wikipedia__la_enciclopedia_libre.png](Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/NAMA_Mysteres_d_Eleusis_-_Tablilla_de_Ninnio_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/NAMA_Mysteres_d_Eleusis_-_Tablilla_de_Ninnio_-_Wikipedia__la_enciclopedia_libre.png)
 
 Los no atenienses también podían ser iniciados si viajaban a Eleusis. Esto ya se ve en el último de los trabajos de Heracles (capturar a Cerbero, el perro de tres cabezas guardián de las puertas del inframundo). 
 
@@ -106,7 +106,7 @@ Heracles viaja a Eleusis para iniciarse en los misterios y poder entrar y salir 
 
 Heracles, que había matado a su mujer e hijos no podía ser iniciado, por lo que tuvo que purificarse.
 
-![Esto_es_Argos__en_Twitter___A_pesar_de_que_se_trataban_de_ritos_secretos__sabemos_que_se_realizaba_una_purificación_y_expiación_de_los_candidatos_a_ser_iniciados_mediante_fuego__agua_y_aire__inferidos_por_los_relieves_de_la_propia_iniciació.png](Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/Esto_es_Argos__en_Twitter___A_pesar_de_que_se_trataban_de_ritos_secretos__sabemos_que_se_realizaba_una_purificacion_y_expiacion_de_los_candidatos_a_ser_iniciados_mediante_fuego__agua_y_aire__inferidos_por_los_relieves_de_la_propia_iniciacio.png)
+![Untitled]({{site.baseurl}}/images/Eleusis%20b24ac5f8bc0345bfb89bb80bebc7d7e1/Esto_es_Argos__en_Twitter___A_pesar_de_que_se_trataban_de_ritos_secretos__sabemos_que_se_realizaba_una_purificacion_y_expiacion_de_los_candidatos_a_ser_iniciados_mediante_fuego__agua_y_aire__inferidos_por_los_relieves_de_la_propia_iniciacio.png)
 
 Este culto mistérico perduró incluso en los primeros años de Roma ya que cuando Roma se expande adopta diferentes cultos y todos conviven a la vez.
 

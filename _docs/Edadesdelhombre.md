@@ -10,7 +10,7 @@ La edad de oro coincide con la era de los titanes, en el reinado de Cronos (padr
 
 Los hombres eran casi como dioses. No eran inmortales pero vivían muchos años, siempre jóvenes y felices. Vivían en una eterna primavera donde los frutos florecían en la tierra sin hacer nada. Vivían junto con los dioses cerca del monte Otris, la morada los titanes.
 
-![Edades%20del%20hombre%20bbb00190af9d43bfb708b9ccb8171578/Otris_-_Google_Maps.png](Edades%20del%20hombre%20bbb00190af9d43bfb708b9ccb8171578/Otris_-_Google_Maps.png)
+![Untitled]({{site.baseurl}}/images/Edades%20del%20hombre%20bbb00190af9d43bfb708b9ccb8171578/Otris_-_Google_Maps.png)
 
 No envejecían y tras mucho años un buen día se sumían en sueño y morían apaciblemente. Tánatos, dios de la muerte sin violencia, les concedía una muerte pacífica e indolora.
 
@@ -22,23 +22,23 @@ Los hombres de la edad de plata se convirtieron en violentos e influidos por Dis
 
 Es entonces cuando surge la edad de Bronce. También hay varias versiones, pero la más extendida es la que hablamos en el hilo de Prometeo. La que dice que fueron creados por éste bajo petición de Zeus.
 
-![Edades%20del%20hombre%20bbb00190af9d43bfb708b9ccb8171578/Prometeo_crea_hombre_-_Buscar_con_Google.png](Edades%20del%20hombre%20bbb00190af9d43bfb708b9ccb8171578/Prometeo_crea_hombre_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Edades%20del%20hombre%20bbb00190af9d43bfb708b9ccb8171578/Prometeo_crea_hombre_-_Buscar_con_Google.png)
 
 Esta raza empezó a adorar más a Prometeo que Zeus y este último los castigo creando la primera mujer: Pandora (ya he dicho que esto era muy misógino). Los hombres se volvieron muy violentos (Ares, el dios de la guerra, los adoraba). 
 
 Zeus, cansado de estos hombres, decidió no hacer nada y dejar que se extinguieran solos. Incluso la diosa Astrea (la inocencia) se canso de los hombres y se volvió llorando al Olimpo. Zeus la convirtió en la constelación de Virgo.
 
-![Edades%20del%20hombre%20bbb00190af9d43bfb708b9ccb8171578/AstraeaVSH_-_Astrea__mitologia__-_Wikipedia__la_enciclopedia_libre.png](Edades%20del%20hombre%20bbb00190af9d43bfb708b9ccb8171578/AstraeaVSH_-_Astrea__mitologia__-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Edades%20del%20hombre%20bbb00190af9d43bfb708b9ccb8171578/AstraeaVSH_-_Astrea__mitologia__-_Wikipedia__la_enciclopedia_libre.png)
 
 Pero cuando apareció Licaón (le dedicamos un hilo), Zeus se cansó definitivamente de los hombres de la edad de plata y lanzó un diluvio para acabar todos ellos.
 
 Como hablamos en hilo de Pirra (hija de Pandora y primera mujer nacida de un vientre materno), ella y Deucalión, gracias al consejos del oráculo, repoblaron el mundo con una nueva raza de hombres y mujeres. Lo que se conoce como: Edad de los héroes.
 
-![Edades%20del%20hombre%20bbb00190af9d43bfb708b9ccb8171578/pirra_y_deucalion_diluvio_-_Busqueda_de_Google.png](Edades%20del%20hombre%20bbb00190af9d43bfb708b9ccb8171578/pirra_y_deucalion_diluvio_-_Busqueda_de_Google.png)
+![Untitled]({{site.baseurl}}/images/Edades%20del%20hombre%20bbb00190af9d43bfb708b9ccb8171578/pirra_y_deucalion_diluvio_-_Busqueda_de_Google.png)
 
 Se llama edad de los héroes porque los dioses empezaron a tener relaciones con estos hombres y tener descendencia: Los conocidos como semidioses o héroes. Es aquí cuando surgen casi todos los mitos de la mitología griega (Aquiles, Perseo, Teseo, Heracles, ...)
 
-![Edades%20del%20hombre%20bbb00190af9d43bfb708b9ccb8171578/Aquiles___Mitos_y_Relatos.png](Edades%20del%20hombre%20bbb00190af9d43bfb708b9ccb8171578/Aquiles___Mitos_y_Relatos.png)
+![Untitled]({{site.baseurl}}/images/Edades%20del%20hombre%20bbb00190af9d43bfb708b9ccb8171578/Aquiles___Mitos_y_Relatos.png)
 
 Esta edad fue una excepción en la paulatina degradación del hombre en las diferentes edades. Estos hombres fueron mejores que los anteriores pero, la descendencia de los héroes no les igualó y terminaron extinguiéndose también.
 

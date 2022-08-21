@@ -6,7 +6,7 @@ order: 3
 
 No sabemos mucho de Jenófanes. No nos ha llegado ninguna obra completa. Solamente 120 versos. Sabemos que nació sobre el 575 a. C. en Colofón (Asia menor) pero por la inestabilidad de la zona emigró a Elea (Magna Grecia)
 
-![Jeno%CC%81fanes%20de%20Colofo%CC%81n%20bce054fe7f2048d69485a7cbf7995677/Map_Ciudades_Antiguas_Asia_Menor_-_Colofon__ciudad__-_Wikipedia__la_enciclopedia_libre.png](Jeno%CC%81fanes%20de%20Colofo%CC%81n%20bce054fe7f2048d69485a7cbf7995677/Map_Ciudades_Antiguas_Asia_Menor_-_Colofon__ciudad__-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Jeno%CC%81fanes%20de%20Colofo%CC%81n%20bce054fe7f2048d69485a7cbf7995677/Map_Ciudades_Antiguas_Asia_Menor_-_Colofon__ciudad__-_Wikipedia__la_enciclopedia_libre.png)
 
 Se pensaba que Jenófanes era el fundador de la escuela filosófica de Elea y maestro de Parménides. Parece que no. Parménides conocía a Jenófanes pero su pensamiento era original.
 
@@ -18,7 +18,7 @@ Se dice que para Jenófanes el arjé era la tierra. Quizás por completismo (Tal
 
 El arjé no le preocupaba mucho. Centró todo su pensamiento en criticar a Hesíodo y Homero, considerados los fundadores de la civilización, de la cultura y creadores de los principales mitos.
 
-![Jeno%CC%81fanes%20de%20Colofo%CC%81n%20bce054fe7f2048d69485a7cbf7995677/Jenofanes_-_Buscar_con_Google.png](Jeno%CC%81fanes%20de%20Colofo%CC%81n%20bce054fe7f2048d69485a7cbf7995677/Jenofanes_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Jeno%CC%81fanes%20de%20Colofo%CC%81n%20bce054fe7f2048d69485a7cbf7995677/Jenofanes_-_Buscar_con_Google.png)
 
 Para Jenófanes los dioses son perfectos y la descripción que hacían Homero y Hesíodo de estos dista mucho de la perfección.
 
@@ -36,7 +36,7 @@ Jenófanes llegó a la conclusión que solo podía existir un único dios. Es po
 
 Para Jenófanes un ser perfecto como un dios no puede tener los defectos de los seres humanos. Ni parecerse a ellos. Para Jenófanes dios es omnipresente, omnisciente (lo sabe todo) y omnipotente (controla el universo). También es inmóvil, inengendrado y eterno.
 
-![Jeno%CC%81fanes%20de%20Colofo%CC%81n%20bce054fe7f2048d69485a7cbf7995677/_Frases_y_citas_celebres_de_Jenofanes_.png](Jeno%CC%81fanes%20de%20Colofo%CC%81n%20bce054fe7f2048d69485a7cbf7995677/_Frases_y_citas_celebres_de_Jenofanes_.png)
+![Untitled]({{site.baseurl}}/images/Jeno%CC%81fanes%20de%20Colofo%CC%81n%20bce054fe7f2048d69485a7cbf7995677/_Frases_y_citas_celebres_de_Jenofanes_.png)
 
 "Hay un dios, el más grande de entre los hombres, ni en figura ni en pensamiento semejante a los mortales"
 

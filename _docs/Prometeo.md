@@ -20,7 +20,7 @@ Le encargó esta tarea a Prometeo y Prometeo creo el hecatombe, o sacrificio sag
 
 Que venía a ser matar 100 bueyes, despiezarlos y dividir el resultado en dos partes (el pacma no existía por laque entonces)
 
-![Prometeo%2068daefd462b04abcba2f69dcc2d0f7b6/Mastos_Cretan_bull_Louvre_F475_-_Sacrificios_religiosos_de_la_Antigua_Grecia_-_Wikipedia__la_enciclopedia_libre.png](Prometeo%2068daefd462b04abcba2f69dcc2d0f7b6/Mastos_Cretan_bull_Louvre_F475_-_Sacrificios_religiosos_de_la_Antigua_Grecia_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Prometeo%2068daefd462b04abcba2f69dcc2d0f7b6/Mastos_Cretan_bull_Louvre_F475_-_Sacrificios_religiosos_de_la_Antigua_Grecia_-_Wikipedia__la_enciclopedia_libre.png)
 
 En una parte puso los huesos del buey rodeados de una capa de grasa (con una pinta muy apetecible).
 
@@ -40,7 +40,7 @@ Prometeo, que tenía una gran predilección por los hombres (y poca con Zeus) in
 
 Sube al monte Olimpo y roba el fuego de la forja del dios del fuego (Éfeso) y se lo entrega a los hombres.
 
-[Prometeo%2068daefd462b04abcba2f69dcc2d0f7b6/untitled](Prometeo%2068daefd462b04abcba2f69dcc2d0f7b6/untitled)
+![Untitled]({{site.baseurl}}/images/Prometeo%2068daefd462b04abcba2f69dcc2d0f7b6/untitled)
 
 Esto mosquea enormemente a Zeus (que ya tenía cruzado a Prometeo)
 
@@ -48,11 +48,11 @@ Crea la caja de Pandora como castigo a los hombres (pero esto es otra historia)
 
 A Prometeo le tiene reservado un castigo muy top. Le lleva al Caucaso y Efeso le encadena a una roca
 
-[Prometeo%2068daefd462b04abcba2f69dcc2d0f7b6/untitled%201](Prometeo%2068daefd462b04abcba2f69dcc2d0f7b6/untitled%201)
+![Untitled]({{site.baseurl}}/images/Prometeo%2068daefd462b04abcba2f69dcc2d0f7b6/untitled%201)
 
 donde un águila le devora el hígado durante el día hasta muerte.
 
-![Prometeo%2068daefd462b04abcba2f69dcc2d0f7b6/ERxtS1qWsAEHDs2_jpeg.png](Prometeo%2068daefd462b04abcba2f69dcc2d0f7b6/ERxtS1qWsAEHDs2_jpeg.png)
+![Untitled]({{site.baseurl}}/images/Prometeo%2068daefd462b04abcba2f69dcc2d0f7b6/ERxtS1qWsAEHDs2_jpeg.png)
 
 Como Prometeo es inmortal se regenera, pero el águila vuelve al día siguiente y comienza el ciclo de nuevo.
 
@@ -62,7 +62,7 @@ Un día Heracles, que vuelve a casa de sus trabajos (ya con su armadura confecci
 
 Mata al águila con una flecha libera a Prometo de sus cadenas.
 
-[Prometeo%2068daefd462b04abcba2f69dcc2d0f7b6/untitled%202](Prometeo%2068daefd462b04abcba2f69dcc2d0f7b6/untitled%202)
+![Untitled]({{site.baseurl}}/images/Prometeo%2068daefd462b04abcba2f69dcc2d0f7b6/untitled%202)
 
 Desde entonces Zeus, como señal de sumisión, le hace llevar un anillo fabricado con las cadenas y la roca a la que había permanecido atado.
 

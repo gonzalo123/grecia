@@ -8,11 +8,11 @@ Sémele era una mortal hija del rey de Tebas. Zeus se encapricha de ella y la de
 
 Sémele le pide a su amante que le conceda un deseo (sin concretarlo). Zeus jura sobre las aguas de la laguna Estigia (el juramento más sagrado) y Sémele le pide que se muestre como realmente es. Zeus tiene que cumplir lo prometido. Sémele muera al ver al dios con todo su poder.
 
-![Dioniso%202358a712e24c4ee9aaadd75f07dd5f7d/Semele___Mitos_y_Relatos.png](Dioniso%202358a712e24c4ee9aaadd75f07dd5f7d/Semele___Mitos_y_Relatos.png)
+![Untitled]({{site.baseurl}}/images/Dioniso%202358a712e24c4ee9aaadd75f07dd5f7d/Semele___Mitos_y_Relatos.png)
 
 Zeus para salvar al niño (Sémele estaba embarazada) saca al bebé del vientre, se abre la pierna y se lo mete dentro. Termina de gestarlo en su pierna y da a luz. El niño Dioniso sale de su muslo (¿?). 
 
-![Dioniso%202358a712e24c4ee9aaadd75f07dd5f7d/__Fichas_de_mitologia__Dioniso.png](Dioniso%202358a712e24c4ee9aaadd75f07dd5f7d/__Fichas_de_mitologia__Dioniso.png)
+![Untitled]({{site.baseurl}}/images/Dioniso%202358a712e24c4ee9aaadd75f07dd5f7d/__Fichas_de_mitologia__Dioniso.png)
 
 Es por esto que la deidad de Dioniso está en entredicho. Es hijo de dios y mortal, pero Zeus es su padre y madre a la vez, por lo que es inmortal. Posteriormente Dioniso viajó al inframundo, rescató a su madre Sémele y la convirtió en inmortal.
 
@@ -26,7 +26,7 @@ Como el corazón de Dioniso no ha sido devorado por los Titanes Zeus resucita a 
 
 Zeus entregó a Dioniso a unas ninfas para que lo criaran. Un día jugando en el jardín aplastó unas uvas y dejó el jugo unos días por olvido. Cuando regresó descubre que el jugo se había convertido en un líquido muy apetecible. Había descubierto el vino.
 
-![Dioniso%202358a712e24c4ee9aaadd75f07dd5f7d/Que_sabes_sobre_el_vino_que_se_elabora_en_Grecia__-_CataDelVino_com.png](Dioniso%202358a712e24c4ee9aaadd75f07dd5f7d/Que_sabes_sobre_el_vino_que_se_elabora_en_Grecia__-_CataDelVino_com.png)
+![Untitled]({{site.baseurl}}/images/Dioniso%202358a712e24c4ee9aaadd75f07dd5f7d/Que_sabes_sobre_el_vino_que_se_elabora_en_Grecia__-_CataDelVino_com.png)
 
 El vino era un elemento esencial en la vida griega. Presidiendo los banquetes donde más que comer (se mal comía) se compartía la bebida. El vino tiene efectos contradictorios. Por un lado da alegría y por otro violencia. Estas ambivalencias son también la naturaleza de Dioniso.
 
@@ -48,13 +48,13 @@ Un día Dioniso fue a Tebas. Allí organizó unas fiestas donde acudían fundame
 
 Recordemos que la mujer griega "decente" era recatada y prácticamente no salía de su casa. Las mujeres tebanas terminan desmembrando y matando a Penteo.
 
-![Dioniso%202358a712e24c4ee9aaadd75f07dd5f7d/Bacantes_de_Euripides__Prodavinci.png](Dioniso%202358a712e24c4ee9aaadd75f07dd5f7d/Bacantes_de_Euripides__Prodavinci.png)
+![Untitled]({{site.baseurl}}/images/Dioniso%202358a712e24c4ee9aaadd75f07dd5f7d/Bacantes_de_Euripides__Prodavinci.png)
 
 El culto a Dioniso generó una especie de secta denominada Orfismo. Hay que entender que el concepto de religión no era como lo que conocemos hoy. La religión "oficial" era un conjunto de ritos muy ligados a la vida social. No se elegía. Era parte del día a día.
 
 Los ritos órficos, por el contrario, se elegían voluntariamente y eran compatibles con la vida social y la religión "oficial", que era politeista. En el Orfismo el origen del mundo está en un huevo cósmico engendrado por el tiempo.
 
-![Dioniso%202358a712e24c4ee9aaadd75f07dd5f7d/Orphic-egg_-_Fanes_-_Wikipedia__la_enciclopedia_libre.png](Dioniso%202358a712e24c4ee9aaadd75f07dd5f7d/Orphic-egg_-_Fanes_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Dioniso%202358a712e24c4ee9aaadd75f07dd5f7d/Orphic-egg_-_Fanes_-_Wikipedia__la_enciclopedia_libre.png)
 
 Los seres humanos se esfuerzan por desprenderse de la parte titánica (el mal) y mantener a dionisaca (el bien). Las almas se van purificando mediante sucesivas reencarnaciones. Dado que se podían reencarnar en personas o animales, los órficos eran vegetarianos.
 

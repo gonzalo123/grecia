@@ -14,7 +14,7 @@ Los cargos duraban un año, aunque hubo excepciones (Pericles fue elegido varios
 
 Estaba la Asambea donde los ciudadanos se reunían (unas 40 veces al año). En teoría asistían todos pero el máximo número del que se tiene constancia es de 6k (había unos 40k ciudadanos). Es la Asamblea se proponían leyes.
 
-![Pericles%208defe44e665f425bb6d04593da0fefe3/La_democracia_ateniense_del_siglo_V_a_C___caracteristicas_y_funcionamiento.png](Pericles%208defe44e665f425bb6d04593da0fefe3/La_democracia_ateniense_del_siglo_V_a_C___caracteristicas_y_funcionamiento.png)
+![Untitled]({{site.baseurl}}/images/Pericles%208defe44e665f425bb6d04593da0fefe3/La_democracia_ateniense_del_siglo_V_a_C___caracteristicas_y_funcionamiento.png)
 
 Luego está el consejo o Bulé formado por 500 miembros (50 por cada tribu). Estos también eran elegidos por sorteo. En la Bulé se aprobaban las leyes y se vigilaban a los magistrados.
 
@@ -22,13 +22,13 @@ Hay que recordar que, a diferencia de las democracias modernas que son represent
 
 La vida en Atenas era una vida sin muchos lujos. Vivían fundamentalmente del comercio marítimo. Las principales fiestas eran las Panateneas (en honor a Atenea). Eran unas fiestas anuales en Julio aunque cada 4 años se celebraban las Grandes Panateneas.
 
-![Pericles%208defe44e665f425bb6d04593da0fefe3/Elgin_marbles_frieze_-_Panateneas_-_Wikipedia__la_enciclopedia_libre.png](Pericles%208defe44e665f425bb6d04593da0fefe3/Elgin_marbles_frieze_-_Panateneas_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Pericles%208defe44e665f425bb6d04593da0fefe3/Elgin_marbles_frieze_-_Panateneas_-_Wikipedia__la_enciclopedia_libre.png)
 
 Estas fiestas (muy prestigiosas y apreciadas) eran similares a los Juegos Olímpicos. Eran una mezcla de fiesta religiosa, artística y deportiva. Había competiciones solo para atenienses pero otras estaban abiertas a todos los griegos.
 
 Consistían en carreras (diaulo o carrera corta y dólico o carrera larga), carreras de hombres armados, carreras de cuádrigas, ... También había competiciones de música, recitado e incluso concursos de belleza masculina.
 
-![Pericles%208defe44e665f425bb6d04593da0fefe3/Greek_vase_with_runners_at_the_panathenaic_games_530_bC_-_Panateneas_-_Wikipedia__la_enciclopedia_libre.png](Pericles%208defe44e665f425bb6d04593da0fefe3/Greek_vase_with_runners_at_the_panathenaic_games_530_bC_-_Panateneas_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Pericles%208defe44e665f425bb6d04593da0fefe3/Greek_vase_with_runners_at_the_panathenaic_games_530_bC_-_Panateneas_-_Wikipedia__la_enciclopedia_libre.png)
 
 Los niños se educaban en casa hasta los 7 años que acudían a la escuela. En la escuela, además de aprender a leer, escribir, matemáticas y demás tenían una una importante educación física (para un futuro servicio militar). A los 18 años servían en la armada.
 
@@ -42,7 +42,7 @@ Los servicios de las heteras no eran exclusivamente sexuales. De hecho el sexo n
 
 La opinión de las heteras era tomada en cuenta y se trataba de personas muy influyentes, en situación de igualdad con los hombres. Heteras famosas fueran Aspasia de Mileto (que se casó con Perícles) y Friné (modelo habitual de Praxíteles)
 
-![Pericles%208defe44e665f425bb6d04593da0fefe3/Fine_praxiteles_-_Busqueda_de_Google.png](Pericles%208defe44e665f425bb6d04593da0fefe3/Fine_praxiteles_-_Busqueda_de_Google.png)
+![Untitled]({{site.baseurl}}/images/Pericles%208defe44e665f425bb6d04593da0fefe3/Fine_praxiteles_-_Busqueda_de_Google.png)
 
 El siglo de Perícles fue el siglo de oro en el arte. Atenas, que había sido destruida por los persas en las guerras médicas, fue reconstruida alcanzando su mayor esplendor. Destaca el gran escultor Fidias (responsable de la reconstrucción de la Acrópolis de Atenas).
 
@@ -52,6 +52,6 @@ Los pueblos de la liga de Delos terminaron sintiéndose sometidos por Atenas y q
 
 El período de liderazgo de Atenas llegaba a su fin. Esparta vence la guerra del Peloponeso dejando a Atenas muy debilitada. Tanto que poco después Filipo II de Macedonia les venció en el año 338 a. C. y terminó sometiéndola.
 
-![Pericles%208defe44e665f425bb6d04593da0fefe3/Filipo_II_-_Busqueda_de_Google.png](Pericles%208defe44e665f425bb6d04593da0fefe3/Filipo_II_-_Busqueda_de_Google.png)
+![Untitled]({{site.baseurl}}/images/Pericles%208defe44e665f425bb6d04593da0fefe3/Filipo_II_-_Busqueda_de_Google.png)
 
 Luego Filipo II tuvo un hijo. Este hijo se convirtió en posiblemente el griego más importante en la historia de la Antigua Grecia. Pero esto es otra historia.

@@ -12,7 +12,7 @@ Había dos tipos de teatro: La tragedia y la comedia. Sobre el teatro hay que an
 
 Por otro lado y dado al carácter competitivo de los griegos, el teatro era una competición. Durante las Dionisias, festividades en honor a Dionisio que se celebraban en el mes de Poseidón (diciembre), se representaban durante varios días obras de teatro (todos los días varias). 
 
-![Cursor_and_File_Athen_Theatre_of_Dionysus_BW_2017-10-09_14-29-49_jpg_-_Wikimedia_Commons.png](Comedia%20d0b84eaed03f4acf8bdddb522eb7aa48/Cursor_and_File_Athen_Theatre_of_Dionysus_BW_2017-10-09_14-29-49_jpg_-_Wikimedia_Commons.png)
+![Untitled]({{site.baseurl}}/images/Comedia%20d0b84eaed03f4acf8bdddb522eb7aa48/Cursor_and_File_Athen_Theatre_of_Dionysus_BW_2017-10-09_14-29-49_jpg_-_Wikimedia_Commons.png)
 
 Estas obras competían entre sí. También había competiciones de teatro en las Antesterias (otras fiestas en honor a Dionisio) que se celebraban el mes del Antesterión (finales de febrero y al principio de marzo)
 
@@ -40,7 +40,7 @@ El autor de comedias del que más obras conservamos es Aristófanes (creo que el
 
 Abundaban las referencias soeces, insultos y alusiones sexuales. Era algo normal mezclar lenguaje elevado y vulgar. Los actores solían llevar, además de las máscaras características del teatro griego, disfraces grotescos como pechos de mujer e incluso prótesis con penes erectos.
 
-![La_comedia_de_Aristófanes___Fernando_García_Romero_-_YouTube_🔊.png](Comedia%20d0b84eaed03f4acf8bdddb522eb7aa48/La_comedia_de_Aristofanes___Fernando_Garcia_Romero_-_YouTube_.png)
+![Untitled]({{site.baseurl}}/images/Comedia%20d0b84eaed03f4acf8bdddb522eb7aa48/La_comedia_de_Aristofanes___Fernando_Garcia_Romero_-_YouTube_.png)
 
 El insulto era algo muy arraigado en la Antigua Grecia. Ya en la procesión a Eleusis (principal culto mistérico en Atenas) existía un momento llamado gefyrismos (el paso del puente) en el que los espectadores insultaban a los participantes de la procesión. 
 
@@ -50,7 +50,7 @@ Como digo, el insulto y las referencias sexuales estaban muy relacionadas con ri
 
 No existía una comedia "blanca".  El público, en el que había niños, estaba acostumbrado a estas obras. Hasta que llegó Aristóteles no se veía nada raro en que los niños asistieran a estas obras. Aristóteles recomienda que solo los mayores de edad puedan asistir al teatro.
 
-![Antigua_Grecia___List_view.png](Comedia%20d0b84eaed03f4acf8bdddb522eb7aa48/Antigua_Grecia___List_view.png)
+![Untitled]({{site.baseurl}}/images/Comedia%20d0b84eaed03f4acf8bdddb522eb7aa48/Antigua_Grecia___List_view.png)
 
 Parece claro que los actores eran siempre hombres (aunque representaran a papeles femeninos) pero el acceso de las mujeres al teatro no está tan claro. Muchas de estas cosas las sacamos de los propios textos de las comedias.
 
@@ -60,7 +60,7 @@ Hay textos en los que parece entenderse que las mujeres no asistían al teatro p
 
 Lo que sí parece saberse es que los espectadores se situaban en el teatro de manera parecida a donde vivían en la ciudad, por lo que se encontraban con sus vecinos y conocidos.
 
-![La_comedia_de_Aristófanes___Fernando_García_Romero_-_YouTube_🔊.png](Comedia%20d0b84eaed03f4acf8bdddb522eb7aa48/La_comedia_de_Aristofanes___Fernando_Garcia_Romero_-_YouTube_%201.png)
+![Untitled]({{site.baseurl}}/images/Comedia%20d0b84eaed03f4acf8bdddb522eb7aa48/La_comedia_de_Aristofanes___Fernando_Garcia_Romero_-_YouTube_%201.png)
 
 Los autores de comedia era muy mordaces y era normal que se metieran e hicieran chistes con los políticos e incluso con los autores de tragedias. Representaban los problemas día día pero sin aportar una solución. El desenlace solía ser algo esperpéntico e irreal.
 
@@ -84,7 +84,7 @@ Según la ley de Solón, todo ateniense de 30 años podía juzgar. Muchos atenie
 
 En la comedia de "Las avistas" de Aristófanes, que transcurre en plena guerra del Peloponeso (en el noveno año de la guerra) se satiriza sobre esto. 
 
-![Cursor_and_Aristofanes_-_Aristófanes_-_Wikipedia__la_enciclopedia_libre.png](Comedia%20d0b84eaed03f4acf8bdddb522eb7aa48/Cursor_and_Aristofanes_-_Aristofanes_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Comedia%20d0b84eaed03f4acf8bdddb522eb7aa48/Cursor_and_Aristofanes_-_Aristofanes_-_Wikipedia__la_enciclopedia_libre.png)
 
 Filocleón (que quiere decir: Amigo de Cleón). No quiere renunciar a su paga y su hijo Bdelicleón (que quiere decir "enemigo de Cleón") le retiene en casa para curar la "adicción" de su padre a asistir a los juicios para obtener su paga.
 

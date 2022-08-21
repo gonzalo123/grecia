@@ -10,13 +10,13 @@ Las Erinias, perseguían a los culpables en ciertos crímenes. Son 3: Alecto (la
 
 Pero hoy no hablaremos de las Erinias. La historia de hoy tiene más que ver con la política y el arte. Pues esto que María de Hungría encargó a Tiziano unos cuadros para su palacio a las afueras de Bruselas.
 
-![Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Mary__15051558___Queen_of_Hungary_-_Maria_de_Hungria__1505-1558__-_Wikipedia__la_enciclopedia_libre.png](Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Mary__15051558___Queen_of_Hungary_-_Maria_de_Hungria__1505-1558__-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Mary__15051558___Queen_of_Hungary_-_Maria_de_Hungria__1505-1558__-_Wikipedia__la_enciclopedia_libre.png)
 
 Concretamente 4 cuadros con 4 personajes concretos: Ticio, Tántalo, Sísifo e Ixión. 4 personajes de mitología griega que terminaron condenados en el Hades (inframundo) por haber desafiado a los dioses.
 
 El objetivo de este encargo era tremendamente político. Cada uno de los personajes se identificaba con príncipes alemanes que se habían alzado contra su hermano Carlos V, que los había derrotado un año antes en la batalla de Mülhberg (la del cuadro famoso de Tiziano también)
 
-![Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Carlos_V_en_Muhlberg__by_Titian__from_Prado_in_Google_Earth_-_Batalla_de_Muhlberg_-_Wikipedia__la_enciclopedia_libre.png](Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Carlos_V_en_Muhlberg__by_Titian__from_Prado_in_Google_Earth_-_Batalla_de_Muhlberg_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Carlos_V_en_Muhlberg__by_Titian__from_Prado_in_Google_Earth_-_Batalla_de_Muhlberg_-_Wikipedia__la_enciclopedia_libre.png)
 
 Vamos, que fue una forma de decir: Os pudrís en el e infierno, pero contratando a Tiziano. Tiziano, plasmó el dolor y el sufrimiento (que era lo que quería María de Hungría).
 
@@ -32,7 +32,7 @@ Además de todo esto un día Tántalo mató a su hijo, Pélope, y lo sirvió est
 
 Su castigo fue estar sumergido en un lago hasta la barbilla, bajo un árbol de ramas bajas repletas de frutas. Pero cada vez que tenía hambre o sed las frutas y el agua desaparecían. Además tenía una roca oscilante encima que amenazaba con aplastarlo.
 
-![Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Tantalus_Gioacchino_Assereto_circa1640s_-_Tantalo__mitologia__-_Wikipedia__la_enciclopedia_libre.png](Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Tantalus_Gioacchino_Assereto_circa1640s_-_Tantalo__mitologia__-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Tantalus_Gioacchino_Assereto_circa1640s_-_Tantalo__mitologia__-_Wikipedia__la_enciclopedia_libre.png)
 
 También tenemos a Sísifo, rey de Éfira. Cuando le llegó su hora Tánatos fue a buscarle, pero Sísifo le puso unos grilletes a la muerte y nadie murió hasta que Ares liberó a Tánatos. Al final lo llevaron al Hades.
 
@@ -40,11 +40,11 @@ Pero antes de morir le dijo a su esposa que no ofreciera el sacrificio habitual 
 
 Por esto fue condenado a empujar una piedra enorme por una ladera, pero antes de llegar a la cima la piedra caería hacia abajo y Sísifo tendría que empezar de nuevo. El castigo de Sísifo se usa para representar el absurdo de la vida humana.
 
-![Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Punishment_sisyph_-_Sisifo_-_Wikipedia__la_enciclopedia_libre.png](Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Punishment_sisyph_-_Sisifo_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Punishment_sisyph_-_Sisifo_-_Wikipedia__la_enciclopedia_libre.png)
 
 Por último tenemos a Ixión, rey de Tesalia y padre de los centauros. Cuando se casó prometió a su suegro un regalo, pero no cumplió su promesa y terminó matando a su suegro arrojándolo a unas brasas. Zeus le perdona e incluso le invita a comer en el Olimpo.
 
-![Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Ixion_by_Jusepe_de_Ribera__1632__-_Ixion_-_Wikipedia__la_enciclopedia_libre.png](Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Ixion_by_Jusepe_de_Ribera__1632__-_Ixion_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Ixion_by_Jusepe_de_Ribera__1632__-_Ixion_-_Wikipedia__la_enciclopedia_libre.png)
 
 Pero para colmo intentó violar a Hera, la esposa de Zeus. Por esto fue condenado a ser atado a una rueda ardiente que giraría eternamente.
 

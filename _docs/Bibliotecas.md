@@ -16,7 +16,7 @@ Lo que está escrito en Lineal B no son obras literarias. Son listas de personas
 
 Aunque no tengan mucho valor literario si que nos dan una idea de como era la vida en la antigüedad. Ponen cosas "Para el fabricante un vellón teñido", o "tanto aceite para el rey"
 
-![Untitled](Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/Untitled.png)
 
 Ni siquiera dice quien era el rey. Son registros que los escribas usaban para sus registros (ellos ya sabían quien era el rey). Además tras su uso se destruían y se creaban nuevas.
 
@@ -42,7 +42,7 @@ Duraban unos 100 años. Es por esto que muchas de las obras literarias se han pe
 
 Existían varios dialectos en griego, cada dialecto pertenecía a una de las diferentes tribus que habitaban la hélade (dorios, jonios, eolios, ...) aunque en el helenismo triunfó un dialecto que había evolucionado del ático llamado Koiné.
 
-![Untitled](Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/Untitled%201.png)
 
 En la literatura muchas veces se usaba un dialecto u otro dependiendo del género de la obra más que la ubicación geográfica del autor.
 
@@ -52,7 +52,7 @@ Las obras de Homero eran algo especial y usaban un dialéctico denominado homér
 
 En la época arcaica ya tenemos autores muy importantes e influyentes, como es el caso de la poetisa Safo, de la que hablamos en un hilo. De Safo no nos ha llegado casi nada. Un poema completo y el resto fragmentos. 
 
-![Untitled](Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/Untitled%202.png)
 
 Sabemos de su importancia por las referencias a ella que hay en otros autores que perduran muchos años después de su muerte.
 
@@ -68,7 +68,7 @@ Con la Alejandro Magno el mundo griego cambió. Pasó de ser una pequeña zona d
 
 Cuando muere Alejandro (sin una descendencia clara) sus generales se reparten el imperio estableciendo unas nuevas monarquías dejando atrás la autonomía de las polis (la democracia ateniense es ya un reducto del pasado). 
 
-![Untitled](Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/Untitled%203.png)
+![Untitled]({{site.baseurl}}/images/Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/Untitled%203.png)
 
 Este periodo, denominado helenismo, es un cambio muy fuerte en el tablero del mundo heleno. Atenas intenta recuperar su poder pero cae derrotada. 
 
@@ -86,7 +86,7 @@ Uno de sus principales acciones es la creación de biblioteca de Alejandría don
 
 Uno de los primeros intelectuales que atrae el patrocinio de Alejandro fue Euclides que hizo una serie de tratados fundamentales en las matemáticas y geometría. 
 
-![Teorema-de-euclides_org__jpeg__660×310_.png](Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/Teorema-de-euclides_org__jpeg__660310_.png)
+![Untitled]({{site.baseurl}}/images/Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/Teorema-de-euclides_org__jpeg__660310_.png)
 
 Tambíen está Eratóstenes, el geógrafo que calculó el radio de la tierra con un palo y unas cuerdas (se equivocó en 80 km), que fue uno de los directores de la biblioteca.
 
@@ -96,7 +96,7 @@ Cuando un papiro se deteriorara mucho había que transcribirlo para conservarlo.
 
 Hasta el siglo III a. C. era habitual lo que se denomina scripto continua. Lo que viene a ser una forma de escribir sin espacios entre palabras, solo en mayúsculas y sin signos de puntuación. Algo que dificulta enormemente la lectura.
 
-![Cursor_and_escritura-griega-museo-pergamo-berlin__DSC8921_1200px_jpg__1200×796_.png](Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/Cursor_and_escritura-griega-museo-pergamo-berlin__DSC8921_1200px_jpg__1200796_.png)
+![Untitled]({{site.baseurl}}/images/Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/Cursor_and_escritura-griega-museo-pergamo-berlin__DSC8921_1200px_jpg__1200796_.png)
 
 Los gramáticos de la biblioteca de Alejandría codificaron los textos poniendo signos gráficos que facilitaran la lectura y la comprensión del griego. Aunque con esto también alteraban las obras originales.
 
@@ -106,13 +106,13 @@ Este proceso de copia era muy costoso y hacía que se tuvieran que seleccionar l
 
 No solo estaba la biblioteca de Alejandría. Otras ciudades también fueron relevantes en la época. Filetero, otro general macedonio de Alejadro, se estableció en Pérgamo creando otro potente centro político y cultural rivalizando con Alejandría con la dinastía de los Atálidas. 
 
-![Antigua_Grecia___List_view.png](Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/Antigua_Grecia___List_view.png)
+![Untitled]({{site.baseurl}}/images/Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/Antigua_Grecia___List_view.png)
 
 Pérgamo también trató de atraer a máximos exponentes de la cultura y creó otra gran biblioteca, la biblioteca de Pérgamo. 
 
 En Pérgamo crearon los máximos exponentes del arte helenístico con el famoso altar de Pérgamo, que se puede ver en todo su esplendor en el museo de Pérgamo (que está en Alemania)
 
-![altar_pergamo_apertura_jpg__550×367_.png](Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/altar_pergamo_apertura_jpg__550367_.png)
+![Untitled]({{site.baseurl}}/images/Bibliotecas%20366255ffc1bd45b5b3a06a3769451a52/altar_pergamo_apertura_jpg__550367_.png)
 
 Las bibliotecas crean una paraguas que fomenta la cultura y creación literaria. Esto es bueno y malo a la vez. Por un lado permite que muchos autores creen y se conserven las obras pero por otro lado los autores más irreverentes y alternativos se quedan fuera de este protectorado. 
 

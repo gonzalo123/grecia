@@ -8,7 +8,7 @@ Esparta era una polis "diferente" a sus vecinas en el Peloponeso (Corinto, Micen
 
 Esparta llegó a controlar la región de la Laconia conquistando territorios y esclavizando a los derrotados. Uno de los primeros esclavizados fue Helo. El término Ilota (los habitantes de Helo) se terminó usando para referirse a todos los esclavos de Esparta.
 
-![Esparta%200d2d11a1e8494b0b80dea5752a032808/7c569637172dc9036256a6edc743ba91_jpg__650541_.png](Esparta%200d2d11a1e8494b0b80dea5752a032808/7c569637172dc9036256a6edc743ba91_jpg__650541_.png)
+![Untitled]({{site.baseurl}}/images/Esparta%200d2d11a1e8494b0b80dea5752a032808/7c569637172dc9036256a6edc743ba91_jpg__650541_.png)
 
 El pueblo de Esparta era un pueblo tremendamente guerrero. Lo único digno para un espartano era la guerra y el gobierno. También tenían algunos comerciantes (periecos) pero no pintaban nada en la política.
 
@@ -20,19 +20,19 @@ Esparta creció en poder y relegó a Argos a una pequeña parte de la Argólide.
 
 Esparta era un pueblo con un potente ejército terrestre. El entrenamiento militar era especialmente duro. Recordemos que el soldado griego (hoplita) estaba fuertemente armado con una pesada armadura. Como parte del entrenamiento tenían que matar a un Ilota.
 
-![Esparta%200d2d11a1e8494b0b80dea5752a032808/Los_cinco_secretos_que_convertian_a_los_ninos_espartanos_en_los_soldados_mas_letales_de_Grecia.png](Esparta%200d2d11a1e8494b0b80dea5752a032808/Los_cinco_secretos_que_convertian_a_los_ninos_espartanos_en_los_soldados_mas_letales_de_Grecia.png)
+![Untitled]({{site.baseurl}}/images/Esparta%200d2d11a1e8494b0b80dea5752a032808/Los_cinco_secretos_que_convertian_a_los_ninos_espartanos_en_los_soldados_mas_letales_de_Grecia.png)
 
 Los niños espartanos eran examinados al nacer. Si presentaban algún defecto físico o debilidad que les impidiera ser buenos soldados se les abandonaba y se les dejaba morir.
 
 El entrenamiento militar empezaba a los 7 años y era especialmente duro. Los hombres espartanos se dedicaban exclusivamente al ejército. El trabajo de la tierra era para los esclavos (Ilotas)
 
-![Esparta%200d2d11a1e8494b0b80dea5752a032808/GUERESP3_jpg__660330_.png](Esparta%200d2d11a1e8494b0b80dea5752a032808/GUERESP3_jpg__660330_.png)
+![Untitled]({{site.baseurl}}/images/Esparta%200d2d11a1e8494b0b80dea5752a032808/GUERESP3_jpg__660330_.png)
 
 Este potente ejército le hizo considerarse durante un tiempo la principal potencia de Grecia y era considerado el "lider" del mundo heleno.
 
 De todas formas a Esparta no le interesaba liderar nada. Solo le interesaba su territorio. A diferencia de otras polis como Atenas, que nos dejó una cultura, arte, ... la aportación de Esparta a la cultura fue nula. Su lenguaje era breve y conciso (de ahí el término "lacónico")
 
-![Esparta%200d2d11a1e8494b0b80dea5752a032808/La_Lambda_en_los_escudos_espartanos___Los_Escondrijos.png](Esparta%200d2d11a1e8494b0b80dea5752a032808/La_Lambda_en_los_escudos_espartanos___Los_Escondrijos.png)
+![Untitled]({{site.baseurl}}/images/Esparta%200d2d11a1e8494b0b80dea5752a032808/La_Lambda_en_los_escudos_espartanos___Los_Escondrijos.png)
 
 Los demás pueblos de Grecia se lanzaron al comercio e implantaron el uso de la moneda. Esto provocó inestabilidades. Esparta, gracias a su conservadurismo, no sufrió esto (prohibió el uso de la moneda, la importación de artículos de lujo, ...)
 
@@ -40,7 +40,7 @@ Cuando los pueblos jonios se revelan contra la dominación Persa, Atenas fue en 
 
 Darío se enfada con los griegos por esto y decide invadirlos. Manda a un emisario a Esparta para exigir la tierra y el agua (símbolo de la supremacía persa por tierra y mar). Los Espartanos arrojan al emisario a un pozo diciendo: "Ahí tienes ambas" (eran de pocas palabras).
 
-![Esparta%200d2d11a1e8494b0b80dea5752a032808/300_-_ESPARTA_EN_EL_CINE_-_EL_FANCINE_-_CINE_BELICO_-_ANTENA_HISTORIA_-_LA_CARTELERA_-_ESTO_ES_ESPARTA_-_ALVAROGP_-_COPYWRITER_-_CONTENT_MANAGER__2847_29_jpg__1323542_.png](Esparta%200d2d11a1e8494b0b80dea5752a032808/300_-_ESPARTA_EN_EL_CINE_-_EL_FANCINE_-_CINE_BELICO_-_ANTENA_HISTORIA_-_LA_CARTELERA_-_ESTO_ES_ESPARTA_-_ALVAROGP_-_COPYWRITER_-_CONTENT_MANAGER__2847_29_jpg__1323542_.png)
+![Untitled]({{site.baseurl}}/images/Esparta%200d2d11a1e8494b0b80dea5752a032808/300_-_ESPARTA_EN_EL_CINE_-_EL_FANCINE_-_CINE_BELICO_-_ANTENA_HISTORIA_-_LA_CARTELERA_-_ESTO_ES_ESPARTA_-_ALVAROGP_-_COPYWRITER_-_CONTENT_MANAGER__2847_29_jpg__1323542_.png)
 
 Luego, cuando Darío desembarca en Maratón, Atenas pide ayuda a Esparta pero estos, aferrados a sus tradiciones, se niegan a moverse ya no debían comenzar ninguna acción hasta la luna llena.
 
@@ -48,7 +48,7 @@ Esto hizo que Atenas se enfrentara sola a las tropas de Darío. La victoria de A
 
 La mujer en Esparta gozaba de un poder y relevancia superior a otras polis. Estaban excluidas del ejercito y la política (no eran ciudadanos) pero dado que daban a luz soldados espartanos tenían una gran consideración. Podían participar en la pruebas deportivas.
 
-![Esparta%200d2d11a1e8494b0b80dea5752a032808/10986952_727714150676027_4348137766331750858_n_jpg__647320_.png](Esparta%200d2d11a1e8494b0b80dea5752a032808/10986952_727714150676027_4348137766331750858_n_jpg__647320_.png)
+![Untitled]({{site.baseurl}}/images/Esparta%200d2d11a1e8494b0b80dea5752a032808/10986952_727714150676027_4348137766331750858_n_jpg__647320_.png)
 
 Dado que los hombres espartanos estaban todo el día en la guerra, las mujeres son las que dirigían las propiedades (que eran trabajadas por los Ilotas).
 

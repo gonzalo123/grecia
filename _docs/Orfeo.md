@@ -10,7 +10,7 @@ Calíope fue la encargada de dirimir la disputa de Perséfone y Afrodita por Ado
 
 Apolo regaló a Orfeo su lira (que le había regalado su hermano Hermes). Se decía que cuando tocaba la lira las fieras se calmaban y los hombres se reunían para escucharle.
 
-![Orfeo%20a3b2a8059d624afdad62bcdaa0e27f86/ORFEO-Y-EURIDICE-5-1024x632_jpg__1024632_.png](Orfeo%20a3b2a8059d624afdad62bcdaa0e27f86/ORFEO-Y-EURIDICE-5-1024x632_jpg__1024632_.png)
+![Untitled]({{site.baseurl}}/images/Orfeo%20a3b2a8059d624afdad62bcdaa0e27f86/ORFEO-Y-EURIDICE-5-1024x632_jpg__1024632_.png)
 
 Orfeo participó en la expedición de los Argonautas. Se dice que el centauro Quirón dijo a Jasón que la música de Orfeo les ayudaría a pasar por las islas donde cantaban las sirenas. La música de Orfeo tapó los cantos de sirenas evitando que se precipitaran sobre las rocas.
 
@@ -18,13 +18,13 @@ Con su lira enamoró a la joven Eurídice. Un día esta, paseando, fue mordida p
 
 Orfeo consigue entrar en el inframundo calmando a Cerbero con su lira. Luego Hades y Perséfone (dioses del inframundo) acceden a que Eurídice regrese pero con una condición: Para salir, él tenía que ir delante y no mirar atrás hasta que los rayos del sol bañaran a Eurídice.
 
-![Orfeo%20a3b2a8059d624afdad62bcdaa0e27f86/El_mito_de_Orfeo_y_Euridice_o_el_amor_mas_alla_de_la_muerte__Revista_Gurb.png](Orfeo%20a3b2a8059d624afdad62bcdaa0e27f86/El_mito_de_Orfeo_y_Euridice_o_el_amor_mas_alla_de_la_muerte__Revista_Gurb.png)
+![Untitled]({{site.baseurl}}/images/Orfeo%20a3b2a8059d624afdad62bcdaa0e27f86/El_mito_de_Orfeo_y_Euridice_o_el_amor_mas_alla_de_la_muerte__Revista_Gurb.png)
 
 Orfeo cumplió. No miró atrás pero cuando estaba a punto de salir miró a su amada. Esta no estaba cubierta completamente por el sol y se desvaneció para siempre. Orfeo desolado intentó regresar pero el barquero Caronte se negó que cruzara el Aqueronte.
 
 Orfeo, desolado, decidió que no quería saber nada de las mujeres. Esto enfadó mucho a las mujeres tracias que terminaron matándolo y despedazándolo. Hay varias versiones de la muerte de Orfeo (como casi siempre en la mitología griega).
 
-![Orfeo%20a3b2a8059d624afdad62bcdaa0e27f86/Bin_Orpheus_-_La_muerte_de_Orfeo_-_Wikipedia__la_enciclopedia_libre.png](Orfeo%20a3b2a8059d624afdad62bcdaa0e27f86/Bin_Orpheus_-_La_muerte_de_Orfeo_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Orfeo%20a3b2a8059d624afdad62bcdaa0e27f86/Bin_Orpheus_-_La_muerte_de_Orfeo_-_Wikipedia__la_enciclopedia_libre.png)
 
 Se dice también que la ménades (ninfas de Dionisio) se enfurecieron con Orfeo por rechazar a las mujeres y le cortaron la cabeza. La cabeza de Orfeo acabó en la isla de Lesbos. La lira terminó como constelación y Orfeo se encontró (ya muerto) con su amada en los campos elíseos.
 
@@ -38,7 +38,7 @@ Hay que recordar que la sociedad de la Antigua Grecia era tremendamente machista
 
 La relación de Orfeo con la muerte (recordemos que fue al inframundo y regresó) le hace aparecer muchas veces como mediador entre el mundo de los muertos y los vivos.
 
-![Orfeo%20a3b2a8059d624afdad62bcdaa0e27f86/Anfora_de_Orfeo_-___Ministerio_de_Cultura_y_Deporte.png](Orfeo%20a3b2a8059d624afdad62bcdaa0e27f86/Anfora_de_Orfeo_-___Ministerio_de_Cultura_y_Deporte.png)
+![Untitled]({{site.baseurl}}/images/Orfeo%20a3b2a8059d624afdad62bcdaa0e27f86/Anfora_de_Orfeo_-___Ministerio_de_Cultura_y_Deporte.png)
 
 A Orfeo se le atribuyen una serie de poemas que tratan sobre una historia en la que Zeus decide dar su poder a Dionisio, lo titanes se enfadan por esto y se comen a Dionisio y Zeus los fulmina con un rayo. Las cenizas de los titanes se mezclan con la tierra y surgen los hombres.
 

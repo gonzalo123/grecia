@@ -10,7 +10,7 @@ A la boda estaban invitados todos los dioses del Olimpo.
 
 Bueno, todos no. Todos menos Eris. La diosa de discordia (por lo que sea)
 
-![Juicio%20de%20Paris%2089a1c377fd594efea943b709a407e379/0703F640-F873-47F2-B64B-CC024C3C1FEB.png](Juicio%20de%20Paris%2089a1c377fd594efea943b709a407e379/0703F640-F873-47F2-B64B-CC024C3C1FEB.png)
+![Untitled]({{site.baseurl}}/images/Juicio%20de%20Paris%2089a1c377fd594efea943b709a407e379/0703F640-F873-47F2-B64B-CC024C3C1FEB.png)
 
 En la manzana ponía una inscripción: "Para la más bella"
 
@@ -18,13 +18,13 @@ Este regalo generó un problema. Todas las diosas querían el regalo. Sobre todo
 
 Zeus tenía un problema (una de ellas era su mujer). Optó por no mojarse y dejar que otro decidiera para quién era la manzana.
 
-![Juicio%20de%20Paris%2089a1c377fd594efea943b709a407e379/7583D0A4-4462-4060-AD04-06579A90727F.png](Juicio%20de%20Paris%2089a1c377fd594efea943b709a407e379/7583D0A4-4462-4060-AD04-06579A90727F.png)
+![Untitled]({{site.baseurl}}/images/Juicio%20de%20Paris%2089a1c377fd594efea943b709a407e379/7583D0A4-4462-4060-AD04-06579A90727F.png)
 
 Eligieron un alma pura. Un pastor de Troya llamado Paris (que luego resultó ser parte de la realeza, pero entonces no lo sabía).
 
 Las diosas le sobornaron. Hera le ofreció el poder sobre toda Asia, Atenea le ofreció la victoria en todos los combates y Afrodita el amor de la mujer mas hermosa del mundo.
 
-![Juicio%20de%20Paris%2089a1c377fd594efea943b709a407e379/F3C7C626-19D2-4CD9-AB1D-5D1315D18958.png](Juicio%20de%20Paris%2089a1c377fd594efea943b709a407e379/F3C7C626-19D2-4CD9-AB1D-5D1315D18958.png)
+![Untitled]({{site.baseurl}}/images/Juicio%20de%20Paris%2089a1c377fd594efea943b709a407e379/F3C7C626-19D2-4CD9-AB1D-5D1315D18958.png)
 
 Y Paris eligió a Afrodita.
 
@@ -34,7 +34,7 @@ Luego Paris viajó a Esparta, conoció al rey de Esparta (Menéalo) y a su espos
 
 Todas los cuadros que he puesto representan lo que se denomina “El juicio de Paris”. Pero el que más me gusta es este:
 
-![Juicio%20de%20Paris%2089a1c377fd594efea943b709a407e379/3A68EAEC-2D52-4B8C-8C92-3F99BCE84766.png](Juicio%20de%20Paris%2089a1c377fd594efea943b709a407e379/3A68EAEC-2D52-4B8C-8C92-3F99BCE84766.png)
+![Untitled]({{site.baseurl}}/images/Juicio%20de%20Paris%2089a1c377fd594efea943b709a407e379/3A68EAEC-2D52-4B8C-8C92-3F99BCE84766.png)
 
 Es de Rubens y se puede ver en el Museo de Prado
 

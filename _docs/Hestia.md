@@ -18,7 +18,7 @@ Hestia, por el contrario, era una diosa de carácter pacífico y conciliador, co
 
 Se dice que Poseidón y Apolo la pretendían pero Hestia, para evitar una disputa entre los dioses, juró sobre la cabeza de Zeus que no se entregaría a ninguno de los dos. Incluso que permanecería virgen eternamente.
 
-![Hestia%208a4c8ee45fe14bd2bc39898d371964d0/apolo_y_hestia_-_Buscar_con_Google.jpg](Hestia%208a4c8ee45fe14bd2bc39898d371964d0/apolo_y_hestia_-_Buscar_con_Google.jpg)
+![Untitled]({{site.baseurl}}/images/Hestia%208a4c8ee45fe14bd2bc39898d371964d0/apolo_y_hestia_-_Buscar_con_Google.jpg)
 
 Zeus le agradeció este gesto concediéndole la primera víctima en todos los sacrificios. Incluso en los banquetes se le hacían ofrendas a ella antes incluso que al mismo Zeus.
 
@@ -28,13 +28,13 @@ De hecho el mito principal no es griego sino que viene de la copia romana (la di
 
 Es por esto que Vesta está muy ligada a la ciudad de Roma. Sus sacerdotisas, las vestales, eran las encargadas de custodiar el fuego sagrado de Vesta (que simbolizaba el hogar de todos los romanos)
 
-![Hestia%208a4c8ee45fe14bd2bc39898d371964d0/Vestales__las_guardianas_del_fuego_sagrado_en_Roma.jpg](Hestia%208a4c8ee45fe14bd2bc39898d371964d0/Vestales__las_guardianas_del_fuego_sagrado_en_Roma.jpg)
+![Untitled]({{site.baseurl}}/images/Hestia%208a4c8ee45fe14bd2bc39898d371964d0/Vestales__las_guardianas_del_fuego_sagrado_en_Roma.jpg)
 
 No solía salir casi nunca de su casa, cuidando del fuego sagrado. Es por esto que se la considera diosa del hogar. Justo salía para atender al Oráculo de Delfos, que fue templo suyo antes de ser consagrado al dios Apolo.
 
 Se la representaba con una túnica, un largo velo y con antorchas. Cuando se fundaba una ciudad se encendía una antorcha sagrada en su honor en un templo (el pritaneo). Si se apagaba tenían que encenderla de nuevo siguiendo un ritual especial.
 
-![Hestia%208a4c8ee45fe14bd2bc39898d371964d0/Hestia_Giustiniani_-_Hestia_-_Wikipedia__la_enciclopedia_libre.jpg](Hestia%208a4c8ee45fe14bd2bc39898d371964d0/Hestia_Giustiniani_-_Hestia_-_Wikipedia__la_enciclopedia_libre.jpg)
+![Untitled]({{site.baseurl}}/images/Hestia%208a4c8ee45fe14bd2bc39898d371964d0/Hestia_Giustiniani_-_Hestia_-_Wikipedia__la_enciclopedia_libre.jpg)
 
 Se llevaba bien con todos los dioses. Especialmente con Hermes, su sobrino favorito. Con la única que no congeniaba mucho era con Afrodita, todo lo opuesto a la virginal Hestia.
 
@@ -46,11 +46,11 @@ Priapo era un hijo de Dionisio y Afrodita. Bueno según el mito hijo de una infi
 
 Hera condenó esta infidelidad de Afrodita castigando a su hijo Priapo con un pene enorme que tenía siempre erecto.
 
-![Hestia%208a4c8ee45fe14bd2bc39898d371964d0/Priapo_-_Buscar_con_Google.jpg](Hestia%208a4c8ee45fe14bd2bc39898d371964d0/Priapo_-_Buscar_con_Google.jpg)
+![Untitled]({{site.baseurl}}/images/Hestia%208a4c8ee45fe14bd2bc39898d371964d0/Priapo_-_Buscar_con_Google.jpg)
 
 Hay que mencionar que en la antigua Grecia los penes pequeños eran algo codiciado, símbolo de los machos alfa. Un pene grande era sinónimo de vulgar y salvaje. Es por esto que las estatuas griegas siempre mostraban penes pequeños.
 
-![Hestia%208a4c8ee45fe14bd2bc39898d371964d0/Esta_es_la_razon_de_porque_las_estatuas_tienen_penes_pequenos.jpg](Hestia%208a4c8ee45fe14bd2bc39898d371964d0/Esta_es_la_razon_de_porque_las_estatuas_tienen_penes_pequenos.jpg)
+![Untitled]({{site.baseurl}}/images/Hestia%208a4c8ee45fe14bd2bc39898d371964d0/Esta_es_la_razon_de_porque_las_estatuas_tienen_penes_pequenos.jpg)
 
 Como digo era una de los 12 dioses olímpicos, pero dejó su puesto en consejo para dedicarse por completo a atender el fuego sagrado y las familias. Zeus elige entonces a Dionisio para ocupar el lugar de Hestia entre los 12.
 

@@ -6,7 +6,7 @@ order: 3
 
 Parménides de Elea nació sobre el año 520 a. C. en Elea (Magna Grecia, e sur de Italia), donde se creó una importante escuela filosófica denominada "la escuela de Elea o Eliática". Es uno de los filósofos anteriores a Sócrates denominados presocráticos
 
-![Parme%CC%81nides%20de%20Elea%20446fa30313a14b889de389c753dfa2a1/Magna_Graecia_ancient_colonies_and_dialects-es_-_Velia_-_Wikipedia__la_enciclopedia_libre.png](Parme%CC%81nides%20de%20Elea%20446fa30313a14b889de389c753dfa2a1/Magna_Graecia_ancient_colonies_and_dialects-es_-_Velia_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Parme%CC%81nides%20de%20Elea%20446fa30313a14b889de389c753dfa2a1/Magna_Graecia_ancient_colonies_and_dialects-es_-_Velia_-_Wikipedia__la_enciclopedia_libre.png)
 
 Solo se conserva una obra. Un poema llamado "sobre la naturaleza". El poema está dividido en 3 partes: Un proemio o canto de apertura, el discurso de la verdad y el discurso de la opinión.
 
@@ -22,7 +22,7 @@ Que nadie se asuste si no entiende bien lo que se refiere Parménides. Ni siquie
 
 Esto parece obvio pero, según Parménides, los mortales nos comportamos como si lo que es no fuera y que no es, es. No somos conscientes de verdad que nos ofrece la diosa. La lógica del ser es la lógica del pensamiento.
 
-![Parme%CC%81nides%20de%20Elea%20446fa30313a14b889de389c753dfa2a1/Parmenides_jpg__283370_.png](Parme%CC%81nides%20de%20Elea%20446fa30313a14b889de389c753dfa2a1/Parmenides_jpg__283370_.png)
+![Untitled]({{site.baseurl}}/images/Parme%CC%81nides%20de%20Elea%20446fa30313a14b889de389c753dfa2a1/Parmenides_jpg__283370_.png)
 
 La vía de la opinión implica conocer lo que no es. La nada. El no ser no existe y no es posible ser comprendido. Es por esto que esta vía es impracticable ya que parte de un conocimiento imposible.
 
@@ -34,7 +34,7 @@ Este pensamiento, negando el cambio, rompe con el pensamiento anterior de los fi
 
 La diosa sabe que esto es difícil de entender para los mortales y nos anima a guiarnos exclusivamente por la razón y dejar de confiar en los sentidos que nos engañan. 
 
-![Parme%CC%81nides%20de%20Elea%20446fa30313a14b889de389c753dfa2a1/La_scuola_di_Atene_jpeg.png](Parme%CC%81nides%20de%20Elea%20446fa30313a14b889de389c753dfa2a1/La_scuola_di_Atene_jpeg.png)
+![Untitled]({{site.baseurl}}/images/Parme%CC%81nides%20de%20Elea%20446fa30313a14b889de389c753dfa2a1/La_scuola_di_Atene_jpeg.png)
 
 Parménides atribuye al ser una serie de características: Es único, indivisible e inmutable. Ya que lo contrario significaría aceptar que no ser, sea. Para que existan múltiples seres tiene que haber diferencias y esto es una aceptación del no ser.
 

@@ -10,17 +10,17 @@ En otro hilo hablamos de la figura de Sir Arthur Evans, el hombre que descubrió
 
 Hoy nos centraremos en uno de los lugares más importantes del palacio de Cnosos. El salón del trono.
 
-![Untitled](Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled.png)
 
 En el corazón del palacio, al oeste del patio central, Evans encuentra un trono de piedra. Es el trono más antiguo que se conserva del mundo egeo. 
 
-![Untitled](Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled%201.png)
 
 El trono se encuentra en una sala formada por una estructura de cámara y antecámara. Parece ser que el complejo era para albergar ceremonias y podía albergar, según estimaciones de Evans, a unas 30 personas.
 
 El complejo también tenía una cámara subterránea. Estas cámaras subterráneas estaban destinadas, posiblemente, a la diosa del inframundo. Frente al trono hay una pila de baño denominada baño lustral.
 
-![Untitled](Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled%202.png)
 
 Todo esto hizo que Evans se decantara por el uso religioso del salón del trono. Podemos ver otros salones del trono similares en otros palacios, incluso palacios más antiguos que el palacio de Cnosos, como el palacio de Mari, en el Éufrates. 
 
@@ -30,11 +30,11 @@ Existen evidencias que sugieren que el palacio del rey Zimri-Lim en Mari fue un 
 
 Evans enseguida identifica el trono de piedra como el trono del rey Minos. Recordemos que, en cuanto descubre el palacio de Cnosos, enseguida asegura que se trataba del palacio del famoso rey mitológico Minos de Creta.
 
-![Untitled](Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled%203.png)
+![Untitled]({{site.baseurl}}/images/Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled%203.png)
 
 Parece ser que Minos fue el primer gran rey de la zona. Te todas formas el salón del trono es un cámara ligeramente modesta. ¿Cómo una cámara tan modesta pudo ser el salón de audiencias de un gran rey? 
 
-![Untitled](Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled%204.png)
+![Untitled]({{site.baseurl}}/images/Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled%204.png)
 
 Otros autores posteriores proponen una solución diferente para el enigma del trono. Sugieren que el salón del trono era un santuario destinado a una divinidad femenina. Para decir esto se basan en dos premisas.
 
@@ -48,13 +48,13 @@ Esta representación ritual podría encajar con el salón del trono de Cnosos, d
 
 Todas estas cosas, como si era el rey el que sentaba en el trono, era la reina, ambos a turnos o ninguno, dejando el trono vacío para el dios, son conjeturas que se obtienen a partir de los restos y de los sellos y anillos minoicos encontrados.
 
-![Untitled](Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled%206.png)
+![Untitled]({{site.baseurl}}/images/Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled%206.png)
 
 Lo que parece claro es que la sala del trono era el santuario principal de la deidad del palacio, donde el rey o la reina, hacían ofrendas y establecían sus relaciones con la deidad. La presencia de estos tronos en los santuarios destinados a los dioses, era algo habitual en el próximo oriente y en Egipto.
 
 En el respaldo del trono podemos ver contornos ondulados, que representan montañas. Las montañas son las residencias de los dioses. 
 
-![Untitled](Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled%207.png)
+![Untitled]({{site.baseurl}}/images/Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled%207.png)
 
 La alta montaña que contemplaste, cuya cima es como el trono de Dios
 Libro de Enoc
@@ -65,7 +65,7 @@ Esto es un concepto tanto egipcio como mesopotámico. En Egipto la palmera era c
 
 Los grifos también están relacionados con el sol. Es por esto que se puede considera a la deidad del salón del trono de Cnosos como una deidad solar. Con esto podemos ver la relación directa que había en la cultura minoica entre la realeza y los dioses. Divinidades que vivían en palacio y compartían residencia con los reyes.
 
-![Untitled](Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled%208.png)
+![Untitled]({{site.baseurl}}/images/Trono%20de%20Minos%2002ceb7bc868f4b6a910afa8884f5c81d/Untitled%208.png)
 
 Dado que solo había un trono no queda claro quien se sentaba, el rey o la reina. La reina, como suma sacerdotisa (algo típico en la cultura minoica), es difícil que se pudiera sentar y ejercer de sacerdotisa (realizando ofrendas y rituales a la diosa). 
 
@@ -76,9 +76,8 @@ El culto al sol estaba también muy presente en la cultura minoica. De cree que 
 Con la misteriosa desaparición de la civilización minoica, luego los micénicos y posteriormente la Antigua Grecia, fueron abandonando las monarquías y las realezas, de manera que el culto a deidades solares, principales patrocinadoras de los reyes, fueron cayendo en la marginalidad
 
 > Un rey-sacerdote minoico puede haberse sentado en el trono de Cnosos, el sol adoptado por la Gran Madre Tierra, en los misterios de su isla.
-
-Sir Arthur Evans, El palacio de Minos
 > 
+> Sir Arthur Evans, El palacio de Minos
 
 La diosa del sol y la realeza en la Antigua Creta
 

@@ -6,7 +6,7 @@ order: 3
 
 Las Cícladas son un archipiélago de unas 200 islas e islotes que se halla en el mar Egeo, entre el Peloponeso y Anatolia.
 
-![Untitled](Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled.png)
 
 El origen de su nombre es dudoso, como todo en esos años tan remotos. Parece ser que viene de la forma de círculo (kyklos) en torno a la isla de Delos (la brillante). También hay quien piensa que el origen del nombre son los arrecifes que la rodean.
 
@@ -16,7 +16,7 @@ Como vimos en el hilo de Apolo, Delos era la isla flotante en la que Leto dio a 
 
 A pesar que en la actualidad los recursos mineros de las islas son muy escasos, en la antigüedad eran muy ricas en algunos minerales, como es el caso de la obsidiana.
 
-![Untitled](Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%201.png)
 
 La obsidiana es un material muy duro. El de mayor dureza conocido hasta la aparición de los metales. Se han encontrado restos de obsidiana de las islas Cícladas en yacimientos prehistóricos de Italia y Egipto, lo que parece indicar que existían unas rutas comerciales del mineral.
 
@@ -44,17 +44,17 @@ Andros, isla consagrada a Dioniso quien, en sus celebraciones, hacía brotar vin
 
 Ios y Amorgos, donde se han encontrado muchos ídolos y puñales de bronce. Paros, con su apreciado mármol, con el que se tallaron grandes obras como la Niké de Samotracia y el Hermes de de Praxíteles. 
 
-![Untitled](Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%202.png)
 
-![Untitled](Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%203.png)
+![Untitled]({{site.baseurl}}/images/Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%203.png)
 
 Sifnos, con sus minas de plata y su gran tesoro que se encuentra en Delos. Melos (hoy Milo), con sus minas de obsidiana, famosa hoy por la famosa estatua de la Afrodita de Milo.
 
-![Untitled](Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%204.png)
+![Untitled]({{site.baseurl}}/images/Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%204.png)
 
 También tenemos la isla de Théra. En esta isla se produjo una gran erupción volcánica que cambió totalmente la isla en el 2000 a. C. enterrando en cenizas la ciudad de Akrotiri. Hoy esta isla recibe el nombre de Santorini.
 
-![Untitled](Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%205.png)
+![Untitled]({{site.baseurl}}/images/Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%205.png)
 
 La abundancia en metales en la zona desarrolló una importante civilización en la Edad del Bronce llamada civilización cicládica, que se divide en tres periodos.
 
@@ -62,7 +62,7 @@ El primer periodo, el Grotta-Pelos (3k2-2k8 a. C.) se caracteriza por las tumbas
 
 En este periodo aparecen una pequeñas figuras de mármol, muy esquemáticas, denominadas ídolos violín (asociados a rituales de fertilidad). Estos ídolos resaltaban el torso y el vientre de la divinidad y evitaban la representación del rostro. 
 
-![Untitled](Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%206.png)
+![Untitled]({{site.baseurl}}/images/Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%206.png)
 
 En el siguiente periodo, el Keros-Syros (2k8-2k3 a. C.), aparecen necrópolis más grandes que llegaron a contener 20 cuerpos.
 
@@ -74,25 +74,25 @@ La tipología del ídolo femenino varía según las islas pero, en general, resp
 
 Las obras más famosas son el Arpista de Keros, que representa un músico tocando el arpa en una posición que rompe con la rigidez del arte cicládico. Se trata de una de las representaciones más antigua de un músico que se conoce (2k5 a. C.)
 
-![Untitled](Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%207.png)
+![Untitled]({{site.baseurl}}/images/Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%207.png)
 
 También tenemos el ídolo de Amorgos (2k5 a. C.). Esta es una escultura grande (1.5 metros) que representa a una mujer (aparentemente embarazada) con los brazos cruzados. Se halló en una tumba con la piernas y el cuello cortados para cupiera dentro
 
-![Untitled](Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%208.png)
+![Untitled]({{site.baseurl}}/images/Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%208.png)
 
 También hay muestras de cerámica cicládica muy variadas. Especialmente destacan dos tipos. Están los kernos, unos recipientes que se sostienen sobre un pie común y que, posiblemente, tenía una función religiosa. 
 
-![Untitled](Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%209.png)
+![Untitled]({{site.baseurl}}/images/Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%209.png)
 
 Ojo que en los restos arqueológicos, cuando algo no se sabe para que servía, siempre se recurre al comodín de la “función religiosa”.
 
 También están las famosas sartenes cicládicas. No se sabe si eran platos, espejos, objetos rituales... Hay de dos tipos: Las Kampos (con un mango) y la Syros (con dos mangos). 
 
-![Untitled](Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%2010.png)
+![Untitled]({{site.baseurl}}/images/Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%2010.png)
 
 Abundan las decoraciones de soles, que representa a una deidad femenina símbolo de la muerte y el nacimiento, y genitales femeninos simbolizando la fertilidad. También se pueden ver representaciones de barcos.
 
-![Untitled](Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%2011.png)
+![Untitled]({{site.baseurl}}/images/Ci%CC%81cladas%2067af5a421db940829365da13696340d7/Untitled%2011.png)
 
 En el transcurso del 2k a. C. los carios invadieron las islas Cícladas. Eatas se integraron en el imperio del rey Minos y formaron parte, por consiguiente, de la civilización minóica.
 

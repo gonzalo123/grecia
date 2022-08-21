@@ -8,7 +8,7 @@ La historia comienza con la guerra de Troya ya terminada. Todos han regresado a 
 
 Parece ser que Poseidón está muy enfadado con él ya qué este ha dejado ciego a su hijo, el cíclope Polifemo. Atenea pide a Zeus que permita a Odiseo que regrese a casa pero este no lo tiene claro por el enfado de su hermano Poseidón. Que verá lo que puede hacer.
 
-![Odiseo_Calipso_jpg__311×243_.png](Odisea%20bf133d573393420b85f36e852fd87a8f/Odiseo_Calipso_jpg__311243_.png)
+![Untitled]({{site.baseurl}}/images/Odisea%20bf133d573393420b85f36e852fd87a8f/Odiseo_Calipso_jpg__311243_.png)
 
 Atenea, transformada en peregrino, va al palacio de Odiseo y se encuentra que una multitud de pretendientes acosan a la mujer de Odiseo, Penélope. 
 
@@ -20,7 +20,7 @@ Que ya no es un niño y tiene que demostrar su valor, como hizo Orestes (hijo de
 
 Telémaco pide a los pretendientes que se vayan pero estos se niegan. Dicen que Penélope les lleva 3 años engañando. Les dijo que elegiría pretendiente cuando terminara un telar pero por las noches deshace lo que ha tejido durante el día. 
 
-![Penelope_cerámica_-_Buscar_con_Google.png](Odisea%20bf133d573393420b85f36e852fd87a8f/Penelope_ceramica_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Odisea%20bf133d573393420b85f36e852fd87a8f/Penelope_ceramica_-_Buscar_con_Google.png)
 
 Telémaco parte a Pilo para hablar con Néstor. Néstor le dice a Telémaco que no sabe nada de su padre. Sabe que tras la guerra, Agamenón y Menelao discutieron formándose dos grupos. 
 
@@ -42,7 +42,7 @@ Allí Odiseo conoce a Nausícaa (hija de Alcínoo, rey de los feacios) que se en
 
 Odiseo les dice que es mortal y que quiere volver a casa (aunque sin desvelar su identidad). Alcínoo, que quería que se casara con su hija, accede a ayudarle.
 
-![Fauvista_daltónico_en_Twitter_____Nausícaa_con__Ulises__es_ampliamente_usado_como_tema_en_el__arte__especialmente_en_la_pintura__Ella_es_el_personaje_femenino_más_puro_de_la__Odisea__en_contraposición_con__Calipso__su_personaje_más_misterio.png](Odisea%20bf133d573393420b85f36e852fd87a8f/Fauvista_daltonico_en_Twitter_____Nausicaa_con__Ulises__es_ampliamente_usado_como_tema_en_el__arte__especialmente_en_la_pintura__Ella_es_el_personaje_femenino_mas_puro_de_la__Odisea__en_contraposicion_con__Calipso__su_personaje_mas_misterio.png)
+![Untitled]({{site.baseurl}}/images/Odisea%20bf133d573393420b85f36e852fd87a8f/Fauvista_daltonico_en_Twitter_____Nausicaa_con__Ulises__es_ampliamente_usado_como_tema_en_el__arte__especialmente_en_la_pintura__Ella_es_el_personaje_femenino_mas_puro_de_la__Odisea__en_contraposicion_con__Calipso__su_personaje_mas_misterio.png)
 
 En la fiesta de despedida Odiseo cuenta a Alcínoo todas sus aventuras desde el fin de la guerra. Le cuenta como llegaron a Cicones y a la tierra de los lotófagos, un pueblo muy peculiar que solo se alimentaba de flores de loto. 
 
@@ -56,13 +56,13 @@ Odiseo piensa matar a Polifemo mientras duerme, pero eso es un problema. Luego n
 
 Este, mientras bebe, le pregunta a Odiseo cómo se llama. Odiseo dice que se llama "nadie". Polifemo dice que a "nadie" se lo comerá último y al resto antes. Cuando este se queda dormido Odiseo y sus hombres, con una estaca, cortan el ojo del cíclope dejándolo ciego. 
 
-![Arqueología_en_mi_jardín__Ulises_y_Polifemo.png](Odisea%20bf133d573393420b85f36e852fd87a8f/Arqueologia_en_mi_jardin__Ulises_y_Polifemo.png)
+![Untitled]({{site.baseurl}}/images/Odisea%20bf133d573393420b85f36e852fd87a8f/Arqueologia_en_mi_jardin__Ulises_y_Polifemo.png)
 
 Polifemo grita y los demás cíclopes, que escuchan los gritos de Polifemo, acuden a la cueva. Le preguntan quién ha sido y Polifemo les dice que "nadie" ha sido. 
 
 Odiseo y sus hombres consiguen salir de cueva metiéndose debajo de las ovejas evitando que Polifemo los detectara. El cíclope, ciego, iba palpando las ovejas al s salir de la cueva.
 
-![20220421_071812.jpg](Odisea%20bf133d573393420b85f36e852fd87a8f/20220421_071812.jpg)
+![Untitled]({{site.baseurl}}/images/Odisea%20bf133d573393420b85f36e852fd87a8f/20220421_071812.jpg)
 
 Ya fuera de la cueva consiguen llegar al barco y huir. Cuando están lejos de la orilla (Polifemo les tiraba piedras) Odiseo le grita a Polifemo.
 
@@ -74,7 +74,7 @@ Odiseo sigue contango sus aventuras, en la isla de Eolia y en la isla de Lestrig
 
 Hermes ayuda a Odiseo diciéndole como vencer a Circe. Le dice que cuando esta le ofrezca su lecho que lo rehúse y le haga jurar que no le hará daño. Odiseo hace todo lo que Hermes le dice y consigue que Circe quite el hechizo a sus hombres. 
 
-![circeyulises_jpg__280×282_.png](Odisea%20bf133d573393420b85f36e852fd87a8f/circeyulises_jpg__280282_.png)
+![Untitled]({{site.baseurl}}/images/Odisea%20bf133d573393420b85f36e852fd87a8f/circeyulises_jpg__280282_.png)
 
 Se quedan un año disfrutando del palacio de Circe. Antes de partir Circe le dice a Odiseo que tiene que ir al inframundo a hablar con el espíritu del adivino Tiresias, antes de regresar a Ítaca.
 
@@ -84,7 +84,7 @@ Además de Tiresias se encuentra con otros espíritus, como Aquiles, que le dice
 
 Después prosigue su viaje. Pasan por la isla de las sirenas pero, gracias a los consejos de Circe (que había insistido que no tenían que escuchar sus cánticos), consiguen avanzar. Tras otras aventuras con monstruos marinos llegan a la isla de Trinacria (la isla del dios Helios). 
 
-![998_jpg_webp__750×732_.png](Odisea%20bf133d573393420b85f36e852fd87a8f/998_jpg_webp__750732_.png)
+![Untitled]({{site.baseurl}}/images/Odisea%20bf133d573393420b85f36e852fd87a8f/998_jpg_webp__750732_.png)
 
 Tiresias y Circe les habían dicho que no comieran su ganado bajo ningún concepto. Odiseo se duerme y sus hombres, hambrientos, se los comen. Helios le pide a Zeus que castigue a Odiseo por esto. Si no lo hace amenaza con ir al inframundo y alumbrar con el sol a los muertos. 
 
@@ -114,7 +114,7 @@ Penélope dice que pretende hacer un certamen para elegir marido. Pondrá 12 hac
 
 Odiseo tensa el arco (ningún otro pretendiente, ni siquiera Telémaco lo había conseguido) y pasa la flecha por las hachas. Tras esto, Odiseo se quita el disfraz empieza a matar pretendientes con el arco. 
 
-![620px-Mnesterophonia_Louvre_CA7124_jpg__620×499_.png](Odisea%20bf133d573393420b85f36e852fd87a8f/620px-Mnesterophonia_Louvre_CA7124_jpg__620499_.png)
+![Untitled]({{site.baseurl}}/images/Odisea%20bf133d573393420b85f36e852fd87a8f/620px-Mnesterophonia_Louvre_CA7124_jpg__620499_.png)
 
 Estos se defienden. Odiseo pide ayuda a Atenea pero esta se niega. Le pregunta si ha perdido el valor de Troya. Odiseo sigue con la carnicería.
 

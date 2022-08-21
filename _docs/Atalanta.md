@@ -18,7 +18,7 @@ Otro día Artemisa envió un monstruo para devastar la región de Calidón. El c
 
 En su cacería participaron mucho héroes: Castor, Polux, Admeto, Jason, Peleo y nuestra amiga Atalanta (la única mujer) entre otros. Muchos héroes no estaban de acuerdo en que una mujer participara en la cacería.
 
-![Atalanta%20f771471b9db14d72bcd6cd33e251a1a4/HEROES_GRIEGOS__LA_CACERIA_DE_CALIDON.jpg](Atalanta%20f771471b9db14d72bcd6cd33e251a1a4/HEROES_GRIEGOS__LA_CACERIA_DE_CALIDON.jpg)
+![Untitled]({{site.baseurl}}/images/Atalanta%20f771471b9db14d72bcd6cd33e251a1a4/HEROES_GRIEGOS__LA_CACERIA_DE_CALIDON.jpg)
 
 También se dice que Atalanta quiso participar en la expedición de los Argonautas pero se lo impidieron por ser mujer.
 
@@ -36,7 +36,7 @@ En unos juegos fúnebres en honor a Pelias (el rey e hijo de Poseidón que envi�
 
 Para mantener su virginidad (y por lo de la profecía) dijo que solo se casaría con aquel que le venciera en una carrera (incluso les daba ventaja), pero mataría a los perdedores. Ella era muy rápida.
 
-![Atalanta%20f771471b9db14d72bcd6cd33e251a1a4/File_Atalanta_Lepautre_Louvre_MR1804_jpg_-_Wikimedia_Commons.jpg](Atalanta%20f771471b9db14d72bcd6cd33e251a1a4/File_Atalanta_Lepautre_Louvre_MR1804_jpg_-_Wikimedia_Commons.jpg)
+![Untitled]({{site.baseurl}}/images/Atalanta%20f771471b9db14d72bcd6cd33e251a1a4/File_Atalanta_Lepautre_Louvre_MR1804_jpg_-_Wikimedia_Commons.jpg)
 
 Hipómenes desafió a Atalanta, pero este tenía un as bajo la manga. Tenía unas manzanas doradas del jardín de las Hespérides (un regalo de Afrodita). Cada vez que Atalanta le daba caza tiraba una manzana y esta se paraba a recogerla.
 
@@ -48,10 +48,10 @@ Además Zeus hizo que estos leones nunca se pudieran mirar el uno al otro. De es
 
 Estos 2 leones son los leones que podemos ver en la entrada del congreso de los diputados de Madrid. Cada uno mirando a un lado, por culpa del castigo de Zeus.
 
-![Atalanta%20f771471b9db14d72bcd6cd33e251a1a4/La_historia_de_Hipomenes_y_Atalanta__el_leon_y_la_leona_que_custodian_el_Congreso.jpg](Atalanta%20f771471b9db14d72bcd6cd33e251a1a4/La_historia_de_Hipomenes_y_Atalanta__el_leon_y_la_leona_que_custodian_el_Congreso.jpg)
+![Untitled]({{site.baseurl}}/images/Atalanta%20f771471b9db14d72bcd6cd33e251a1a4/La_historia_de_Hipomenes_y_Atalanta__el_leon_y_la_leona_que_custodian_el_Congreso.jpg)
 
 Como dato curioso se puede ver que, a pesar de ser los dos leones macho, uno tiene genitales masculinos y otro no, ya que uno es Hipómenes y el otro Atalanta.
 
 Estos leones también aparecen tirando del carro de diosa Cibeles en la famosa plaza de Cibeles en Madrid.
 
-![Atalanta%20f771471b9db14d72bcd6cd33e251a1a4/Fuente_de_Cibeles_-_04_-_Fuente_de_Cibeles_-_Wikipedia__la_enciclopedia_libre.jpg](Atalanta%20f771471b9db14d72bcd6cd33e251a1a4/Fuente_de_Cibeles_-_04_-_Fuente_de_Cibeles_-_Wikipedia__la_enciclopedia_libre.jpg)
+![Untitled]({{site.baseurl}}/images/Atalanta%20f771471b9db14d72bcd6cd33e251a1a4/Fuente_de_Cibeles_-_04_-_Fuente_de_Cibeles_-_Wikipedia__la_enciclopedia_libre.jpg)

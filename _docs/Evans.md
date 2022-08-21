@@ -6,7 +6,7 @@ order: 3
 
 Sir Arthur Evans nace en Nash Mills (Inglaterra) en el 1851 dentro de una familia acomodada. Su padre era un anticuario y su abuelo y profesor de Historia y lengua clásica.
 
-![Untitled](Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled.png)
 
 Estudia en Oxford y Gotinga aunque nunca fue un brillante estudiante. Fundamentalmente por su miopía añadido a que nunca quiso llevar gafas. Dado su problema de visión siempre llevaba su famoso bastón, Prodger, que usaba como un tercer brazo.
 
@@ -16,25 +16,25 @@ Se casa con la hija de un profesor de Historia. Su mujer, Margaret, se convierte
 
 Al morir su esposa, Evans, viaja a Atenas y se empieza a interesar por una serie de sellos con unos extraños signos que enseguida consideró como un sistema de escritura. Llego a establecer incluso una clasificación de estos aunque nunca consiguió descifrarlos.
 
-![Untitled](Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%201.png)
 
 Le llamaban también la atención unas piedras llamadas galópetres (piedras de leche). Eran una especie de amuleto asociado a la lactancia que portaban algunas mujeres. Adquiere todas las que puede a pesar de la resistencia de sus propietarias a vendérselas, incluso cuando Evans les pagaba bien por sus amuletos.
 
 Adquiere unos terrenos en el norte de Creta para iniciar unas excavaciones pero los violentos conflictos entre Turquía y Creta en el 1896 hacen que Evans tenga que regresar a Inglaterra. Regresa en 1899 y comienza con las excavaciones.
 
-![Untitled](Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%202.png)
 
 Empieza a descubrir miles de tablillas escritas y muchos restos arquitectónicos. Teniendo en cuenta la importancia de los restos hallados enseguida piensa que había encontrado los restos de un gran palacio. Había descubierto el palacio de Cnosos.
 
-![Untitled](Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%203.png)
+![Untitled]({{site.baseurl}}/images/Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%203.png)
 
 Dado que en textos griegos antiguos se menciona a un gran rey en Creta llamado Minos pensó que había descubierto el palacio del rey. Se trataba de un gran edifico de 4 plantas en torno a un patio central. Se llegaron a contar unas mil habitaciones y se calcula que en su interior vivían unas 10k personas. 
 
-![Untitled](Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%204.png)
+![Untitled]({{site.baseurl}}/images/Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%204.png)
 
 Los restos eran diferentes y anteriores a los que Schliemann (otro arqueólogo, descubridor de Micenas y Troya, que se merece otro hilo) había descubierto en Micenas. Esto hace entender a Evans que sen encontraba una civilización anterior a la micénica y que denominó minoica, en honor al rey Minos.
 
-![Untitled](Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%205.png)
+![Untitled]({{site.baseurl}}/images/Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%205.png)
 
 No era el primer asentamiento de la edad del bronce que se descubría pero quizás sí el más impresionante. Con un avanzado sistema de canalización de aguas y otras cosas que no se habían visto con esa magnitud en esos yacimientos.
 
@@ -50,13 +50,13 @@ Es entonces cuando toma una controvertida y muy criticada decisión. Coloca un s
 
 A pesar de todo, Evans trató de ser lo más fiel posible al original, tomando como modelo los elementos arquitectónicos que aparecían en los restos y en la pinturas.
 
-![Untitled](Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%206.png)
+![Untitled]({{site.baseurl}}/images/Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%206.png)
 
-![Untitled](Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%207.png)
+![Untitled]({{site.baseurl}}/images/Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%207.png)
 
 Con los restos de los frescos encontrados hizo también algo que muy muy criticado y controvertido. Contrató a uno pintores para que, a partir de unos muy escasos en ocasiones restos, reconstruyeran los frescos.
 
-![Untitled](Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%208.png)
+![Untitled]({{site.baseurl}}/images/Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%208.png)
 
 Evans muere el 11 de julio de 1941 en Inglaterra a los 90 años. Totalmente arruinado por sus trabajos en Cnosos pero satisfecho por su labor y a pesar de las críticas recibidas.
 

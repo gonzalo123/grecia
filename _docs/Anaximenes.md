@@ -6,13 +6,13 @@ order: 3
 
 Anaxímenes nace en Mileto en el 586 a. C. Pertenece a la llamada escuela milesia (también llamada escuela jónica), junto a Tales y Anaximandro. Estos tres filósofos (todos en el mismo siglo) hacen de Mileto el centro del mundo intelectual en al época.
 
-![Untitled](Anaxi%CC%81menes%20de%20Mileto%208bf00aae25004bbe90232527269241e1/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Anaxi%CC%81menes%20de%20Mileto%208bf00aae25004bbe90232527269241e1/Untitled.png)
 
 La palabra filosofía viene de la palabra griega physis que quiere decir “naturaleza”. La primera vez que aparece la palabra physis es el la Odisea cuando el dios Hermes ayuda a Odiseo a protegerse de los hechizos de la bruja Circe. 
 
 Hermes extrae una raíz negra del suelo, se la da a Odiseo y le muestra su “physis”. Hermes le muestra a Odiseo algo esencial pero que no es visible y solo los dioses conocen. Los primeros filósofos pertenecen a la escuela milesia y se les denomina filósofos de la physis o físicos. 
 
-![Untitled](Anaxi%CC%81menes%20de%20Mileto%208bf00aae25004bbe90232527269241e1/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/Anaxi%CC%81menes%20de%20Mileto%208bf00aae25004bbe90232527269241e1/Untitled%201.png)
 
 Anaxímenes continua su investigación ontológica (el estudio del ser y de sus propiedades) continuando los trabajos Tales y Anaximandro. Se dice que es discípulo de Anaximandro aunque esto no está claro. 
 
@@ -36,7 +36,7 @@ Anaxímenes postula que la tierra es plana y que flota en el aire como lo hace u
 
 Aire es sinónimo de aliento vital (aire en griego es “pneuma” que quiere decir también aliento). El alma está vinculada a este aliento vital y abarca la naturaleza entera. 
 
-![Untitled](Anaxi%CC%81menes%20de%20Mileto%208bf00aae25004bbe90232527269241e1/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Anaxi%CC%81menes%20de%20Mileto%208bf00aae25004bbe90232527269241e1/Untitled%202.png)
 
 Anaxímenes aporta un novedad sustancial al pensamiento de sus antecesores (Tales y Anaximandro). Algo que luego se convertirá en un punto clave de la filosofía: El cambio y los mecanismos del cambio. 
 

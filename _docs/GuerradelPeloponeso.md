@@ -10,7 +10,7 @@ La victoria de Esparta en la primera guerra Mesenia generó conflictos con sus v
 
 Finalmente Esparta vence a Argos en una victoria que Esparta terminó celebrando anualmente con la fiesta de Gymnopaides.
 
-![Untitled](Guerra%20del%20Peloponeso%20bd1682a064cf4496a9c5a00c6b0ef570/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Guerra%20del%20Peloponeso%20bd1682a064cf4496a9c5a00c6b0ef570/Untitled.png)
 
 Poco a poco Esparta se convierte en una potencia en la zona esclavizando a todo lo que podía y estableciendo alianzas con el resto. Así nace la Liga del Peloponeso. 
 
@@ -18,7 +18,7 @@ Para legitimar de alguna manera su posición dominante, Esparta dijo que el orá
 
 Orestes es el hijo de Agamenón, rey de Micenas y líder de los aqueos junto a su hermano Menelao, rey de Esparta, en la guerra de Troya. 
 
-![Untitled](Guerra%20del%20Peloponeso%20bd1682a064cf4496a9c5a00c6b0ef570/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/Guerra%20del%20Peloponeso%20bd1682a064cf4496a9c5a00c6b0ef570/Untitled%201.png)
 
 Pues encontraron los restos y los llevaron a Esparta. De esta manera los restos de Orestes (símbolo de un Peloponeso pre-dorio) se convierten en uno de los primeros ejemplos de veneración de reliquias en la antigüedad.
 
@@ -34,7 +34,7 @@ Los conflictos con los ilotas (muy superiores en número a los espartiatas) fuer
 
 Por ejemplo en el retraso al enviar tropas a Maratón para contener a Darío (en la primera guerra médica), se justificaron por un motivo religiosos (fiestas de Apolo Carneo) pero en realidad Esparta estaba ocupada sofocando la enésima sublevación de los ilotas.
 
-![Untitled](Guerra%20del%20Peloponeso%20bd1682a064cf4496a9c5a00c6b0ef570/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Guerra%20del%20Peloponeso%20bd1682a064cf4496a9c5a00c6b0ef570/Untitled%202.png)
 
 A pesar de su papel dominante Esparta nunca consiguió unificar la península del Peloponeso ya que estaban más preocupados de contener los idiotas, obligando a sus aliados de la liga ayudarles, que en dominar la zona. 
 
@@ -60,7 +60,7 @@ El punto de partida era el siguiente: Todo el Peloponeso apoyaba a Esparta. Todo
 
 Beocia y otras polis de la Grecia central estaban con Atenas. La zona del Egeo (zona jonia con colonias Atenienses) estaban también con Atenas. Todas salvo Melas y Tera (actual Santorini) que estaban con Esparta.
 
-![Untitled](Guerra%20del%20Peloponeso%20bd1682a064cf4496a9c5a00c6b0ef570/Untitled%203.png)
+![Untitled]({{site.baseurl}}/images/Guerra%20del%20Peloponeso%20bd1682a064cf4496a9c5a00c6b0ef570/Untitled%203.png)
 
 Tras años de guerras y conflictos, en los que ni Atenas ni Esparta participaban directamente, estalla la guerra del Peloponeso. La guerra dura 27 años y tiene dos fases muy diferenciadas. 
 

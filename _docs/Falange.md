@@ -24,13 +24,13 @@ Esta admiración por la excelencia fue la llama que hizo florecer, en esta peque
 
 La necesidad de proteger a su ciudad frente a los constantes peligros provenientes de las otras polis hace surgir una nueva unidad militar de ciudadanos-soldaos denominados hoplitas.
 
-![Untitled](Falange%2041f6bfefd7d14c44a69d308296290054/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Falange%2041f6bfefd7d14c44a69d308296290054/Untitled.png)
 
 En otras culturas, como es el caso de los persas, el ejercito estaba formado por soldados muchas veces esclavos. No estaban tan fuertemente armados y preparados y su principal baza es su número. Eran tantos que muchas veces no tenían ni que luchar.
 
 El término hoplita viene de la palabra hoplites, con la que se hacía referencia a la unidad militar de la infantería pesada. Es común ver que el nombre de hoplita provine de la palabra hoplón, que era el escudo circular característico.
 
-![Untitled](Falange%2041f6bfefd7d14c44a69d308296290054/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/Falange%2041f6bfefd7d14c44a69d308296290054/Untitled%201.png)
 
 El grueso del ejército hoplita estaba formado por los trabajadores del campo. Pequeños propietarios de sus tierras que luchaban para defender sus posesiones. Estos soldados tenían una buena condición física dada a las duras condiciones del campo.
 
@@ -46,7 +46,7 @@ Es por esto que los jóvenes llegaban a la mayoría de edad en una excelente con
 
 Los hoplitas griegos se costeaban su propio equipo y armas, decorándolos a su gusto. Dependiendo de su nivel adquisitivo podían tener lujosas decoraciones y era normal heredar las armas y el equipo de padres a hijos.
 
-![Untitled](Falange%2041f6bfefd7d14c44a69d308296290054/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Falange%2041f6bfefd7d14c44a69d308296290054/Untitled%202.png)
 
 Los más pudientes tenían sirvientes que les ayudaban a cargar con el equipo. Estaba el cargador del escudo (hypastistés), el cargador de las armas (skeuóphoros) y ayudantes auxiliares (akólouthos y hyperetés), que viajaba junto al hoplita. 
 
@@ -76,7 +76,7 @@ En terrenos abiertos las falanges eran tremendamente eficaces (las batallas sol�
 
 La finalidad de la falange era arrasar con la primera línea del enemigo y arrollarla generando el caos y haciendo que se dispersaran y huyeran.
 
-![Untitled](Falange%2041f6bfefd7d14c44a69d308296290054/Untitled%203.png)
+![Untitled]({{site.baseurl}}/images/Falange%2041f6bfefd7d14c44a69d308296290054/Untitled%203.png)
 
 Las batallas solían seguir los siguientes pasos: Primero se hacían una serie de sacrificios (sphagía) a los dioses. Después, con el sonido de trompetas y flautas se atacaba. El primer contacto era crucial y generaba el mayor número de bajas. 
 
@@ -96,9 +96,9 @@ El transporte de heridos también era un problema. Se hacía con carros de anima
 
 Una de las más antiguas representaciones de una batalla de hoplitas es el famoso Olpe Chigi (640 a. C.). Esta jarra de asa alta del pintor Chigi (denominada Olpe, similar al Enócoe que tiene el asa más baja), es un vaso de cerámica protocorintio con estilo orientazante.
 
-![Untitled](Falange%2041f6bfefd7d14c44a69d308296290054/Untitled%204.png)
+![Untitled]({{site.baseurl}}/images/Falange%2041f6bfefd7d14c44a69d308296290054/Untitled%204.png)
 
-![Untitled](Falange%2041f6bfefd7d14c44a69d308296290054/Untitled%205.png)
+![Untitled]({{site.baseurl}}/images/Falange%2041f6bfefd7d14c44a69d308296290054/Untitled%205.png)
 
 Tiene tres frisos con escenas de caza y guerra, con figuras con la típica posición de torso de frente y la cabeza de perfil. Muestra a hoplitas completamente equipados y en posición de ataque.
 

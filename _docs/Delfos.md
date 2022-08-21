@@ -6,7 +6,7 @@ order: 3
 
 Originariamente el oráculo de Delfos estaba custodiado por la serpiente Pitón que vivía en una gruta cerca de Delfos. El dios Apolo mató a la serpiente y desde entonces se quedó con el culto del santuario. Es por esto que a Apolo a veces se le llama "Apolo Pitio"
 
-![Delfos%2067a586ee316a4e478a01716b1e904b8c/Escultura_de_Apolo_de_Belvedere__rincondelpasado.png](Delfos%2067a586ee316a4e478a01716b1e904b8c/Escultura_de_Apolo_de_Belvedere__rincondelpasado.png)
+![Untitled]({{site.baseurl}}/images/Delfos%2067a586ee316a4e478a01716b1e904b8c/Escultura_de_Apolo_de_Belvedere__rincondelpasado.png)
 
 Entonces Apolo se dispone a buscar sacerdotes para su templo. Para esto se transforma en delfín y salta sobre un barco ofreciendo el puesto de sacerdote a los marineros. El nombre de Delfos viene de este delfín.
 
@@ -14,7 +14,7 @@ Para celebrar la victoria sobre Pitón se crean los juegos píticos, que se cele
 
 Estos juegos, junto con los Olímpicos (en honor a Zeus), los Istmicos (en el istmo de Corinto, en honor a Poseidón) y los Nemeos (en honor a la primera prueba de Heracles, el león de Nemea), eran los 4 juegos más importantes de Grecia. Denominados los cuatro Juegos Panhelénicos.
 
-![Delfos%2067a586ee316a4e478a01716b1e904b8c/Juegospiticos_jpg__320218_.png](Delfos%2067a586ee316a4e478a01716b1e904b8c/Juegospiticos_jpg__320218_.png)
+![Untitled]({{site.baseurl}}/images/Delfos%2067a586ee316a4e478a01716b1e904b8c/Juegospiticos_jpg__320218_.png)
 
 Recordemos que Grecia como tal no existía. Eran un conjunto de ciudades estado (con sus guerras, alianzas, ...) independientes, pero que tenían un sentimiento común cimentado por el idioma (todos hablaban griego, con sus dialectos pero griego) y la religión.
 
@@ -22,13 +22,13 @@ Los juegos eran un punto de encuentro entre los diferentes pueblos helenos. Incl
 
 Recordemos también que la educación física era muy importante en la Antigua Grecia. El soldado griego (hoplita) llevaba una pesada armadura. Necesitaba estar en una buena forma física. Es por esto que los niños, desde pequeños, participaban en pruebas atléticas.
 
-![Delfos%2067a586ee316a4e478a01716b1e904b8c/Hoplita_-_Wikiwand.png](Delfos%2067a586ee316a4e478a01716b1e904b8c/Hoplita_-_Wikiwand.png)
+![Untitled]({{site.baseurl}}/images/Delfos%2067a586ee316a4e478a01716b1e904b8c/Hoplita_-_Wikiwand.png)
 
 Delfos era considerado el centro del mundo griego. Se dice que Zeus hizo volar dos águilas desde los puntos opuestos del universo. Las águilas se encontraron en Delfos, que se considera el ombligo del mundo
 
 El oráculo estaba formado por una sacerdotisa ("pitonisa" por lo de Pitón) que se purificaba con un baño y sentaba sobre un trípode forrado con la piel de Pitón, masticaba laurel (árbol consagrado a Apolo) y entraba en trance al respirar unos vapores que surgían de la tierra.
 
-![Delfos%2067a586ee316a4e478a01716b1e904b8c/pitonisa_-_Buscar_con_Google.png](Delfos%2067a586ee316a4e478a01716b1e904b8c/pitonisa_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Delfos%2067a586ee316a4e478a01716b1e904b8c/pitonisa_-_Buscar_con_Google.png)
 
 En el trance la pitonisa formulaba palabras inconexas. Entonces un sacerdote extraía un proverbio de estas palabras y generaba unas predicciones. Las predicciones tenían diferentes interpretaciones. Se decía que el oráculo nunca fallaba. Lo que fallaban eran las interpretaciones.
 
@@ -46,7 +46,7 @@ También se consultó al oráculo en las guerras médicas. Ante la inminente lle
 
 Arístides interpretó que el oráculo se refería a que tenían que construir una muralla de madera en Atenas. Temístocles, por el contrario, decía que se refería a que tenían que construir un flota de barcos de madera (trirremes).
 
-![Delfos%2067a586ee316a4e478a01716b1e904b8c/El_trirreme_griego_-_Historico_Digital.png](Delfos%2067a586ee316a4e478a01716b1e904b8c/El_trirreme_griego_-_Historico_Digital.png)
+![Untitled]({{site.baseurl}}/images/Delfos%2067a586ee316a4e478a01716b1e904b8c/El_trirreme_griego_-_Historico_Digital.png)
 
 Se convocó una votación de otracismo entre Arístides y Temístocles. Ganó Temístocles y Arístides fue desterrado. La flota de trirremes fue decisiva el la victoria de Atenas ante Jerjes en Salamina.
 
@@ -54,12 +54,12 @@ Delfos sigue en pie incluso con la llegada de Roma pero su poder de influencia d
 
 Delfos desapareció literalmente. Se creo una ciudad encima usando el mármol del santuario para construir otras edificaciones. En le siglo XVII ya nadie recordaba el santuario ni su ubicación. Empezaron a excavar donde suponían que podía haber estado el santuario.
 
-![Delfos%2067a586ee316a4e478a01716b1e904b8c/5f15f352c5ebb_jpeg__544653_.png](Delfos%2067a586ee316a4e478a01716b1e904b8c/5f15f352c5ebb_jpeg__544653_.png)
+![Untitled]({{site.baseurl}}/images/Delfos%2067a586ee316a4e478a01716b1e904b8c/5f15f352c5ebb_jpeg__544653_.png)
 
 Suponían el lugar porque encontraron unas piedras con la inscripción "Delphi". El problema era que no podían excavar ya que había una ciudad literalmente encima (Castri). Decidieron obligar a la gente a mudarse a una ciudad nueva que llamaron Delfi (en honor a Delfos).
 
 Al final encontraron las ruinas del santuario, junto con otras obras como la "Esfinge de los Naxios" y "El auriga de Delfos". Hoy es un destino turístico. Ya nadie va a Delfos con preguntas para el oráculo. Solo a sacar fotos.
 
-![Delfos%2067a586ee316a4e478a01716b1e904b8c/El_auriga_de_Delfos_-_Buscar_con_Google.png](Delfos%2067a586ee316a4e478a01716b1e904b8c/El_auriga_de_Delfos_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Delfos%2067a586ee316a4e478a01716b1e904b8c/El_auriga_de_Delfos_-_Buscar_con_Google.png)
 
-![Delfos%2067a586ee316a4e478a01716b1e904b8c/028MAD_Sphinx_-_Esfinge_de_Naxos_-_Wikipedia__la_enciclopedia_libre.png](Delfos%2067a586ee316a4e478a01716b1e904b8c/028MAD_Sphinx_-_Esfinge_de_Naxos_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Delfos%2067a586ee316a4e478a01716b1e904b8c/028MAD_Sphinx_-_Esfinge_de_Naxos_-_Wikipedia__la_enciclopedia_libre.png)

@@ -10,15 +10,15 @@ Bueno, pues esto que el titán Cronos estaba en el poder tras haber matado a su 
 
 Entonces Cronos hace lo que todo buen padre hace cuando alguien le dice esto en un sueño: Se come a todos sus hijos. Su esposa, y hermana a la vez, Rea (Cibeles en la copia romana) estaba embarazada de su último hijo.
 
-![Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/Cibeles_con_Palacio_de_Linares_closeup_-_Cibeles_-_Wikipedia__la_enciclopedia_libre.png](Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/Cibeles_con_Palacio_de_Linares_closeup_-_Cibeles_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/Cibeles_con_Palacio_de_Linares_closeup_-_Cibeles_-_Wikipedia__la_enciclopedia_libre.png)
 
 Cuando da a luz y visto lo que su esposo hacía con sus hijos, lo engaña. Esconde al niño y le entrega a Cronos una piedra envuelta en unos paños. Cronos se come la piedra pensando que se comía su hijo. El niño era Zeus.
 
-![Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/Francisco_de_Goya__Saturno_devorando_a_su_hijo__1819-1823__-_Saturno_devorando_a_su_hijo_-_Wikipedia__la_enciclopedia_libre.png](Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/Francisco_de_Goya__Saturno_devorando_a_su_hijo__1819-1823__-_Saturno_devorando_a_su_hijo_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/Francisco_de_Goya__Saturno_devorando_a_su_hijo__1819-1823__-_Saturno_devorando_a_su_hijo_-_Wikipedia__la_enciclopedia_libre.png)
 
 Rea escondió a Zeus en una cueva del monte Ida en Creta donde fue criado por unas cabras y Amaltea, una ninfa-cabra. Amaltea amamantaba a Zeus. La constelación de Capricornio viene de la cabra Amaltea.
 
-![Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/Jakob_Jordaens_006_-_Amaltea__mitologia__-_Wikipedia__la_enciclopedia_libre.png](Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/Jakob_Jordaens_006_-_Amaltea__mitologia__-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/Jakob_Jordaens_006_-_Amaltea__mitologia__-_Wikipedia__la_enciclopedia_libre.png)
 
 También estaban los Coribantes, bailarines armados, que gritaban y daban palmadas para hacer ruido evitando que Cronos escuchara los llantos de su hijo Zeus.
 
@@ -28,7 +28,7 @@ Zeus se hace mayor y crece en él un sentimiento de odio a su padre (por lo que 
 
 Cronos vomita también la piedra que Rea le había dado en lugar de Zeus. Esta piedra es el Ónfalo (que quiere decir ombligo) y fue depositada en Delfos, considerado el "ombligo del mundo".
 
-![Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/Onfalosdelfoslou_-_Onfalo_-_Wikipedia__la_enciclopedia_libre.png](Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/Onfalosdelfoslou_-_Onfalo_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/Onfalosdelfoslou_-_Onfalo_-_Wikipedia__la_enciclopedia_libre.png)
 
 Con sus hermanos liberados se dispone a buscar más ayuda. Zeus libera a los Hecatónquiros y los Cíclopes que Cronos tenía encerrados en el inframundo. Los Cíclopes, en agradecimento, crean una armas para ayudar en la batalla.
 
@@ -36,7 +36,7 @@ A Poseidón le dan el tridente que provocaba terremotos y tsunamis, a Hades el c
 
 Gea (diosa madre tierra y madre de los Titantes, Cíclopes y demás) contenta porque Zeus ha liberado a sus hijos del inframundo pide a los Titanes que no luchen y obedezcan a Zeus. Algunos aceptan, pero otros no. Comienza la batalla.
 
-![Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/File_Cornelis_Cornelisz__van_Haarlem_002_jpg_-_Wikimedia_Commons.png](Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/File_Cornelis_Cornelisz__van_Haarlem_002_jpg_-_Wikimedia_Commons.png)
+![Untitled]({{site.baseurl}}/images/Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/File_Cornelis_Cornelisz__van_Haarlem_002_jpg_-_Wikimedia_Commons.png)
 
 A esta batalla se le da el nombre de Titanomaquia. Por un lado Cronos y los Titanes fieles, capitaneados por Atlas y por otro lado Zeus, sus hermanos, los Cíclopes y los Hecatónquiros.
 
@@ -46,6 +46,6 @@ A los Titanes que obedecieron a Gea y no lucharon en la Titanomaquia les permiti
 
 A Atlas le puso un castigo ejemplar. Le condenó a soportar la cúpula celestial, que había quedado tocada durante la guerra, por toda la eternidad. Luego fue convertido en piedra por Perseo, dando lugar a la cordillera del Atlas.
 
-![Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/MAN_Atlante_fronte_1040572_-_Atlas__mitologia__-_Wikipedia__la_enciclopedia_libre.png](Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/MAN_Atlante_fronte_1040572_-_Atlas__mitologia__-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Titanomaquia%20d6516e9b5f834564893a2f9d119e71b6/MAN_Atlante_fronte_1040572_-_Atlas__mitologia__-_Wikipedia__la_enciclopedia_libre.png)
 
 Zeus y sus hermanos se establecieron en le monte Olimpo. Los dioses Olímpicos eran 12: Zeus, Hera, Poseidón, Afrodita, Ares, Atenea, Hermes, Apolo, Artemisa, Hefesto, Deméter y Hestia. Tiempo después Hestia cederá su plaza a Dioniso.

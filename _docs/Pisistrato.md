@@ -6,7 +6,7 @@ order: 3
 
 Pisístrato nace en el 607 a. C. en Braurón (en el Ática. Cerca de Atenas) y es hijo un filósofo y profesor llamado Hipócrates en una familia perteneciente a la aristocracia ateniense y cercana al legislador Solón (era su tío).
 
-![Google_Maps.png](Pisi%CC%81strato%201a2e6d8693fd477391aaab76f9740398/Google_Maps.png)
+![Untitled]({{site.baseurl}}/images/Pisi%CC%81strato%201a2e6d8693fd477391aaab76f9740398/Google_Maps.png)
 
 En una polis que avanza en el camino a la democracia, las reformas de Solón, que había permitido entre otras cosa que todos los ciudadanos (no solo los nobles) participen en la política, habían creado discrepancias entre la aristocracia y la burguesía.
 
@@ -16,7 +16,7 @@ Pisístrato, a pesar de pertenecer a la aristocracia, entiende que la democracia
 
 Pisístrato termina siendo jefe del partido de la Montaña. En la democracia ateniense de la época (tras la legislación de Solón) existían 3 partidos políticos:
 
-![pisistrato_jpg__340×328_.png](Pisi%CC%81strato%201a2e6d8693fd477391aaab76f9740398/pisistrato_jpg__340328_.png)
+![Untitled]({{site.baseurl}}/images/Pisi%CC%81strato%201a2e6d8693fd477391aaab76f9740398/pisistrato_jpg__340328_.png)
 
 El partido de la Llanura o *pediakoi.* Conservador y de derechas donde se encontraba los latifundistas eupátridas (”de buenos padres” aka la aristocracia).
 
@@ -60,7 +60,7 @@ Aristogitóny Harmonio deciden matar a Hiparco pero para encubrir su delito lo h
 
 Hispias sobrevive al asesinato (su hermano no) y llega al poder convirtiéndose en un tirano auténtico, no tan moderado como su padre.
 
-![Cursor_and_Stamnos_with_death_of_the_tyrant_Hipparchus__Syriskos_Painter__Athens__475-470_BC__L_515_-_Martin_von_Wagner_Museum_-_Würzburg__Germany_-_DSC05785_-_Hiparco_de_Atenas_-_Wikipedia__la_enciclopedia_libre.png](Pisi%CC%81strato%201a2e6d8693fd477391aaab76f9740398/Cursor_and_Stamnos_with_death_of_the_tyrant_Hipparchus__Syriskos_Painter__Athens__475-470_BC__L_515_-_Martin_von_Wagner_Museum_-_Wurzburg__Germany_-_DSC05785_-_Hiparco_de_Atenas_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Pisi%CC%81strato%201a2e6d8693fd477391aaab76f9740398/Cursor_and_Stamnos_with_death_of_the_tyrant_Hipparchus__Syriskos_Painter__Athens__475-470_BC__L_515_-_Martin_von_Wagner_Museum_-_Wurzburg__Germany_-_DSC05785_-_Hiparco_de_Atenas_-_Wikipedia__la_enciclopedia_libre.png)
 
 La popularidad de Hispias no era la misma que la de su padre (no goza del apoyo popular). En un enfrentamiento con Esparta, Hispias termina exiliado y Clístenes toma el poder, retornando la democracia a Atenas.
 
@@ -72,17 +72,6 @@ Eliminar los latifundios y dar tierras al pueblo (convertidos en ciudadanos comp
 
 El asesinato del hijo de Pisístrato, Hiparco, por Aristogitón (con su amante Harmodio) es el tema de una de las obras más representativas de la escultura del estilo severo con la obra “Los tiranicidas”
 
-![tiranicidas_-_Buscar_con_Google.png](Pisi%CC%81strato%201a2e6d8693fd477391aaab76f9740398/tiranicidas_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Pisi%CC%81strato%201a2e6d8693fd477391aaab76f9740398/tiranicidas_-_Buscar_con_Google.png)
 
 El estilo severo (típico del final del periodo arcaico) se caracteriza por dejar atrás las poses estáticas y la ley de la frontalidad y hacer un amago de dinamismo aunque la pose sigue siendo estática, cosa que se abandona en el clasicismo.
-
-- Draco
-    - Ley por escrito
-- Solón
-    - Permite que todos los ciudadanos participien en la política.
-- Pisistrato
-    - Elimina grandes latifundios y reparte tierras
-- Clístenes
-    - isonomía aka todos los ciudadanos son iguales ante la ley
-- Pericles
-    - mistoforía (pago de dietas a los políticos para evitar que solo los ricos se puedan dedicar de pleno a la vida pública)

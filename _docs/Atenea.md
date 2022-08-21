@@ -18,7 +18,7 @@ Un día Zeus tenía un fuerte dolor de cabeza y su hijo Hefesto (dios del fuego)
 
 De la herida en la cabeza de Zeus nace Atenea (que había nacido de la Metis embarazada que se había comido. Sórdido, ¿no?)
 
-![Atenea%201d0933c3a7c1474aa43426646f22901c/athenes_foedsel_gif__470329_.png](Atenea%201d0933c3a7c1474aa43426646f22901c/athenes_foedsel_gif__470329_.png)
+![Untitled]({{site.baseurl}}/images/Atenea%201d0933c3a7c1474aa43426646f22901c/athenes_foedsel_gif__470329_.png)
 
 De la herida en la cabeza de Zeus nace Atenea (que había nacido de la Metis embarazada que se había comido. Sórdido, ¿no?)
 
@@ -26,7 +26,7 @@ La otra historia de su nacimiento es que es hija del gigante alado Palas (hijo d
 
 Palas intentó agredirla y Atenea lo mata. Además con la piel de Palas se hace una coraza (la égida) que se le puede ver en mucha obras.
 
-![Atenea%201d0933c3a7c1474aa43426646f22901c/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___pbs_twimg_com_media_EAWP1ZWXoAMbTuO_jpg.png](Atenea%201d0933c3a7c1474aa43426646f22901c/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___pbs_twimg_com_media_EAWP1ZWXoAMbTuO_jpg.png)
+![Untitled]({{site.baseurl}}/images/Atenea%201d0933c3a7c1474aa43426646f22901c/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___pbs_twimg_com_media_EAWP1ZWXoAMbTuO_jpg.png)
 
 Además se pone las alas de Palas en los tobillos (también se le suele representar con estas alas)
 
@@ -38,19 +38,19 @@ Siempre (o casi siempre) aparece vestida y con su indumentaria característica:
 
 Un casco elevado sobre la frente, mostrando su rostro pacífico
 
-![Atenea%201d0933c3a7c1474aa43426646f22901c/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___mitosyrelatos_com_wp-content_uploads_atenea-ares_jpg.png](Atenea%201d0933c3a7c1474aa43426646f22901c/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___mitosyrelatos_com_wp-content_uploads_atenea-ares_jpg.png)
+![Untitled]({{site.baseurl}}/images/Atenea%201d0933c3a7c1474aa43426646f22901c/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___mitosyrelatos_com_wp-content_uploads_atenea-ares_jpg.png)
 
 La égida
 
-![Atenea%201d0933c3a7c1474aa43426646f22901c/Athena_aigis_Cdm_Paris_254_-_Egida_-_Wikipedia__la_enciclopedia_libre.png](Atenea%201d0933c3a7c1474aa43426646f22901c/Athena_aigis_Cdm_Paris_254_-_Egida_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Atenea%201d0933c3a7c1474aa43426646f22901c/Athena_aigis_Cdm_Paris_254_-_Egida_-_Wikipedia__la_enciclopedia_libre.png)
 
 Una vara dorada y un escudo con la cabeza de Medusa que Perseo le regaló (pero esta es otra historia)
 
-![Atenea%201d0933c3a7c1474aa43426646f22901c/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___pbs_twimg_com_media_DLSUubIXcAAZmQR_jpg.png](Atenea%201d0933c3a7c1474aa43426646f22901c/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___pbs_twimg_com_media_DLSUubIXcAAZmQR_jpg.png)
+![Untitled]({{site.baseurl}}/images/Atenea%201d0933c3a7c1474aa43426646f22901c/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___pbs_twimg_com_media_DLSUubIXcAAZmQR_jpg.png)
 
 A veces un mochuelo (que es el símbolo de la filosofía)
 
-![Atenea%201d0933c3a7c1474aa43426646f22901c/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___www_descubrecreta_com_wp-content_uploads_2016_08_atenea_jpg.png](Atenea%201d0933c3a7c1474aa43426646f22901c/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___www_descubrecreta_com_wp-content_uploads_2016_08_atenea_jpg.png)
+![Untitled]({{site.baseurl}}/images/Atenea%201d0933c3a7c1474aa43426646f22901c/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___www_descubrecreta_com_wp-content_uploads_2016_08_atenea_jpg.png)
 
 Una serpiente, por el mito de Erictoinio
 
@@ -80,8 +80,8 @@ Ambas tejen un tapiz. El de Aracne es mejor pero elige una temática que Atenea 
 
 Como castigo convierte a Aracne en Araña para que teja una tela eternamente.
 
-![Atenea%201d0933c3a7c1474aa43426646f22901c/Veronese__Paolo_-_Arachne_or_Dialectics_-_1520_-_Aracne_-_Wikipedia__la_enciclopedia_libre.png](Atenea%201d0933c3a7c1474aa43426646f22901c/Veronese__Paolo_-_Arachne_or_Dialectics_-_1520_-_Aracne_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Atenea%201d0933c3a7c1474aa43426646f22901c/Veronese__Paolo_-_Arachne_or_Dialectics_-_1520_-_Aracne_-_Wikipedia__la_enciclopedia_libre.png)
 
 En el cuadro "Las hilanderas" de Velázquez (que se puede ver en el museo de Prado) hay una referencia a esto en el tapiz del fondo, donde se ve a Atenea discutiendo con Aracne
 
-![Atenea%201d0933c3a7c1474aa43426646f22901c/Velazquez-las_hilanderas_-_Aracne_-_Wikipedia__la_enciclopedia_libre.png](Atenea%201d0933c3a7c1474aa43426646f22901c/Velazquez-las_hilanderas_-_Aracne_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Atenea%201d0933c3a7c1474aa43426646f22901c/Velazquez-las_hilanderas_-_Aracne_-_Wikipedia__la_enciclopedia_libre.png)
