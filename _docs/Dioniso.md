@@ -16,7 +16,9 @@ Zeus para salvar al niño (Sémele estaba embarazada) saca al bebé del vientre,
 
 Es por esto que la deidad de Dioniso está en entredicho. Es hijo de dios y mortal, pero Zeus es su padre y madre a la vez, por lo que es inmortal. Posteriormente Dioniso viajó al inframundo, rescató a su madre Sémele y la convirtió en inmortal.
 
-"y la cadmea Sémele, igualmente en trato amoroso con él [Zeus], dio a luz un ilustre hijo, el muy risueño Dioniso, un inmortal siendo ella mortal. Ahora ambos son dioses" (Hesíodo. Teogonía, 940-942)
+> y la cadmea Sémele, igualmente en trato amoroso con él [Zeus], dio a luz un ilustre hijo, el muy risueño Dioniso, un inmortal siendo ella mortal. Ahora ambos son dioses
+>
+> (Hesíodo. Teogonía, 940-942)
 
 El niño Dioniso parece destinado a suceder a Zeus. Esto enfada a los Titanes, que le engañan y se lo comen. Zeus los fulmina con un rayo. De las cenizas, mezcladas con la tierra surgen los hombres, con su parte mortal (cuerpo, por las cenizas) e inmortal (alma, por los Titanes y Dioniso)
 
