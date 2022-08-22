@@ -1,5 +1,5 @@
 ---
-title: 
+title: Las furias
 category: Arte
 order: 3
 ---
@@ -24,7 +24,7 @@ Empecemos por Ticio. De Ticio hablamos en un hilo. Fue enviado por Hera para vio
 
 Ticio fue castigado a yacer con las extremidades atadas y estiradas, mientras unas águilas le devoraban el hígado durante toda la eternidad.
 
-![Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Tityus1_-_Ticio__Tiziano__-_Wikipedia__la_enciclopedia_libre.png](Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Tityus1_-_Ticio__Tiziano__-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Las%20furias%2037f4f7410a954bdc8925ef50478cb1cb/Tityus1_-_Ticio__Tiziano__-_Wikipedia__la_enciclopedia_libre.png)
 
 Luego tenemos a Tántalo, Hijo de Zeus, que fue invitado a la mesa de los dioses y robó la Ambrosía (la comida de los dioses). También negó la divinidad de Apolo y rapto a Ganimedes (amante de Zeus)
 
