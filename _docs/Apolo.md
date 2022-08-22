@@ -6,7 +6,7 @@ order: 3
 
 Apolo era dios de muchas cosas. Fundamentalmente de la belleza (masculina) y de la música. También se le relacionaba con el sol (suplantando a Helios). Las misiones Apolo de la nasa se llaman así por esto.
 
-![Apolo%20d153d2851f294e48a7e060949f95769b/Apolo__dios_de_la_belleza___Web_de_Mitologia_Clasica.png](Apolo%20d153d2851f294e48a7e060949f95769b/Apolo__dios_de_la_belleza___Web_de_Mitologia_Clasica.png)
+![Untitled]({{site.baseurl}}/images/Apolo%20d153d2851f294e48a7e060949f95769b/Apolo__dios_de_la_belleza___Web_de_Mitologia_Clasica.png)
 
 Es hijo de Zeus y Leto (hija de los titanes Ceo y Febe) y hermano mellizo de la diosa Artemisa. Su nacimiento fue muy tortuoso.
 
