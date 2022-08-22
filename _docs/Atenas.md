@@ -12,11 +12,11 @@ Cécrope era un ser mitad hombre mitad serpiente. Era conocido como el rey serpi
 
 Era una ciudad nueva que buscaba la protección de un dios (como era la tradición).
 
-La ciudad se la disputaban dos dioses: Poseidón y Atenea (que se sentía madre de Ericnonio, aunque esto es otra historia).
+La ciudad se la disputaban dos dioses: Poseidón y Atenea (que se sentía madre de Ericnonio, aunque esto es otra historia).
 
 Como no se ponen de acuerdo Zeus interviene en la disputa y dicta que sean los habitantes de la ciudad los que elijan a su protector.
 
-Poseidón y Atenea hacen campaña. Poseidón hace brotar una fuente de agua salada y Atenea regala un olivo. En otras versiones de la historia Poseidón regala un caballo a los hombres.
+Poseidón y Atenea hacen campaña. Poseidón hace brotar una fuente de agua salada y Atenea regala un olivo. En otras versiones de la historia Poseidón regala un caballo a los hombres.
 
 ![Untitled]({{site.baseurl}}/images/Atenas%209b8f4301e52242ed828ff55537e57642/MITOLOGICAS__LA_FUNDACION_DE_ATENAS__MITO_.png)
 

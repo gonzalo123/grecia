@@ -46,7 +46,7 @@ Esparta tenía un culto diferente. Los lacedemonios (habitantes de Lacedemonia, 
 
 ![Untitled]({{site.baseurl}}/images/Samotracia%20ebfb8364b26a4f179572675fa2cf98af/Control_Centre_and_File_Relief_Samothrace_Louvre_Ma697_jpg_-_Wikimedia_Commons.png)
 
-Los dioses Cabiros o Cabirios raramente eran considerados individualmente. Se referían a ellos como "grandes dioses". Se suelen representar como 2 personas: 
+Los dioses Cabiros o Cabirios raramente eran considerados individualmente. Se referían a ellos como "grandes dioses". Se suelen representar como 2 personas: 
 
 Un hombre viejo (Axiocerso) y su hijo (Cadmilo) pero como otros cultos mistéricos no tenemos muchos datos sobre ellos e incluso a veces se incluía una pareja femenina (Axíero y Axiocersa). 
 
@@ -54,7 +54,7 @@ Tambíen a dos jóvenes gemelos que muchas se les confundía con los dioscuros (
 
 [https://twitter.com/gonzalo123/status/1335570432565645314](https://twitter.com/gonzalo123/status/1335570432565645314)
 
-Estos grandes dioses no pertenecen al panteón oficial de los dioses griegos aunque muchas veces terminan identificandose. Por ejemplo Cadmilo se asocia a Hermes y se represnenta con la cabeza de un carnero. Axiokersos y Axiokersa con Hades y Perséfone.
+Estos grandes dioses no pertenecen al panteón oficial de los dioses griegos aunque muchas veces terminan identificandose. Por ejemplo Cadmilo se asocia a Hermes y se represnenta con la cabeza de un carnero. Axiokersos y Axiokersa con Hades y Perséfone.
 
 ![Untitled]({{site.baseurl}}/images/Samotracia%20ebfb8364b26a4f179572675fa2cf98af/Control_Centre_and_Samothraki_Arsinoe_rotunda_2_jpg__1024693_.png)
 

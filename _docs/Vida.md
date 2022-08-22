@@ -28,7 +28,7 @@ Los niños ricos iban a la escuela acompañados de un esclavo que les ayudaban. 
 
 El ejercicio físico también era muy importante. Los ciudadanos tenían la obligación de defender a su ciudad. El ejercicio físico desde muy jóvenes hacía que se incorporaran al ejercito a los 18 años en una excelente forma física lo que les permitía soportar la pesada armadura del hoplita griego
 
-![Vida%20dadeb29bd4de487982f24be6617613a1/Screenshot_11_7_21__15_14.png](Vida%20dadeb29bd4de487982f24be6617613a1/Screenshot_11_7_21__15_14.png)
+![Untitled]({{site.baseurl}}/images/Vida%20dadeb29bd4de487982f24be6617613a1/Screenshot_11_7_21__15_14.png)
 
 Los esclavos o douloi eran una parte importante de la sociedad (entre el 15 y el 40%). Eran adquiridos a través de la guerra, conquistas o compra. También había una esclavitud por deudas. Si tenías deudas altas podías pagarlas convirtiéndote en esclavo.
 
@@ -38,7 +38,7 @@ Esto generó una gran desigualdad entre ricos y pobres y fue fuente de grandes p
 
 La vida del esclavo era muy dura. Especialmente en Esparta. Esparta tenía una población de esclavos (Ilotas) muy grande que generó importantes revueltas. Uno de los motivos por los que Esparta tenía un potente ejercito era para contener a los ilotas.
 
-![Vida%20dadeb29bd4de487982f24be6617613a1/Screenshot_11_7_21__15_07.png](Vida%20dadeb29bd4de487982f24be6617613a1/Screenshot_11_7_21__15_07.png)
+![Untitled]({{site.baseurl}}/images/Vida%20dadeb29bd4de487982f24be6617613a1/Screenshot_11_7_21__15_07.png)
 
 También estaban los extranjeros (o metecos). Para poder ser ciudadano y participar en la política había que haber nacido en la polis. Los metecos estaban un escalón por debajo de los ciudadanos. Podían tener posesiones y pagaban impuestos pero no podían votar.
 
@@ -58,11 +58,11 @@ Solían tener un patio descubierto donde hacían la vida cotidiana y cocinaban. 
 
 Existía una habitación especial llamada gineceo solo para mujeres. Los hombres no entraban ahí. No tenían mucha decoración. Los vasos los colgaban de las paredes que hacían las veces de decoración.
 
-![Vida%20dadeb29bd4de487982f24be6617613a1/Screenshot_11_7_21__15_04.png](Vida%20dadeb29bd4de487982f24be6617613a1/Screenshot_11_7_21__15_04.png)
+![Untitled]({{site.baseurl}}/images/Vida%20dadeb29bd4de487982f24be6617613a1/Screenshot_11_7_21__15_04.png)
 
 Las mujeres vestían un vestido rectangular atado por la cintura llamado peplo. También vestían adornos como collares y tobilleras. Usaban un strophion que eran unas bandas anchas de lana que envolvían los pechos y se ataban a la espalda, que hacía las veces de sujetador.
 
-![Vida%20dadeb29bd4de487982f24be6617613a1/Screenshot_11_7_21__15_23.png](Vida%20dadeb29bd4de487982f24be6617613a1/Screenshot_11_7_21__15_23.png)
+![Untitled]({{site.baseurl}}/images/Vida%20dadeb29bd4de487982f24be6617613a1/Screenshot_11_7_21__15_23.png)
 
 Los hombres llevaban túnicas lisas de lana (los más ricos usaban lino y seda) llamadas quitón. Esta prenda era unisex. La llevaban hombres y mujeres. También estaba en himatión que se vestía solo o sobre el quitón. Si se llevaba solo se llamaba aquitón
 
@@ -70,4 +70,4 @@ Los hombres llevaban túnicas lisas de lana (los más ricos usaban lino y seda) 
 
 Los hombres cuando viajaban usaban un sombrero  para protegerse del sol llamado pétaso. Siempre que veamos este sombrero se trata de algún viajero.
 
-![Vida%20dadeb29bd4de487982f24be6617613a1/Screenshot_10_7_21__20_35.png](Vida%20dadeb29bd4de487982f24be6617613a1/Screenshot_10_7_21__20_35.png)
+![Untitled]({{site.baseurl}}/images/Vida%20dadeb29bd4de487982f24be6617613a1/Screenshot_10_7_21__20_35.png)

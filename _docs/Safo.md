@@ -108,7 +108,7 @@ siendo yo la más vieja.
 
 (Safo)
 
-Su poesía fue tan importante que incluso dio nombre a un tipo de estrofa: La estrofa sáfica, de cuatro versos, tres endecasílabos y un pentasílabo. Safo es considerada una de las mujeres más importantes de la Antigua Grecia
+Su poesía fue tan importante que incluso dio nombre a un tipo de estrofa: La estrofa sáfica, de cuatro versos, tres endecasílabos y un pentasílabo. Safo es considerada una de las mujeres más importantes de la Antigua Grecia
 
 Para las bellas
 
@@ -120,7 +120,7 @@ nunca es mudable.
 
 (Safo)
 
-*Inmortal Afrodita ****la del trono pintado,*
+*Inmortal Afrodita ****la del trono pintado,*
 
 *la hija de Zeus, tejedora de engaños, te lo ruego:*
 

@@ -14,9 +14,9 @@ Esto de los sacrificios humanos le terminó por molar mucho. Tanto que llego a s
 
 Esto presentaba un problemilla. Mas que el echo de matar personas, el de violar la sagrada ley de la bendita hospitalidad.
 
-Lo que venía a ser la Xenía o vínculo de hospitalidad, amistad entre huéspedes.
+Lo que venía a ser la Xenía o vínculo de hospitalidad, amistad entre huéspedes.
 
-La Xenía era algo sagrado. Zeus era el protector de la hospitalidad y castigaba a aquellos que quebrantasen la Xenía.
+La Xenía era algo sagrado. Zeus era el protector de la hospitalidad y castigaba a aquellos que quebrantasen la Xenía.
 
 Zeus se entera de estos sacrificios humanos de huéspedes y decide comprobar si es cierto.
 

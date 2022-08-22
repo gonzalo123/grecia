@@ -38,7 +38,7 @@ Por lo tanto se pusieron a tirar piedras por detrás de la espalda.
 
 ![Untitled]({{site.baseurl}}/images/Pirra%20fd4cf79ae82a41b49c2d112dba6f7577/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___content3_cdnprado_net_imagenes_Documentos_imgsem_1f_1fd5_1fd515fb-54fb-497c-a51f-6360df0df389_1771dc2a-9231-42ca-84b1-5776289d2282_jpg.png)
 
-De las piedras que tiró Pirra surgieron las mujeres. De las que tiró Deucalión surgieron los hombres.
+De las piedras que tiró Pirra surgieron las mujeres. De las que tiró Deucalión surgieron los hombres.
 
 ![Untitled]({{site.baseurl}}/images/Pirra%20fd4cf79ae82a41b49c2d112dba6f7577/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___upload_wikimedia_org_wikipedia_commons_c_cd_Giovanni_Maria_Bottalla_-_Deucali_C3_A3o_e_Pirra_jpg.png)
 

@@ -22,7 +22,7 @@ De todas formas lo de la representarla como ciega con una venda es de modernos (
 
 Temis construyó el Oráculo de Delfos y ella misma era pitonisa.
 
-El contrapunto a Temis es Némesis La diosa de la solidaridad, venganza, equilibrio, fortuna y la justicia retributiva.
+El contrapunto a Temis es Némesis La diosa de la solidaridad, venganza, equilibrio, fortuna y la justicia retributiva.
 
 La justicia retributiva viene a ser que el infractor tiene un castigo similar al daño cometido (lo que viene a ser el ojo por ojo).
 

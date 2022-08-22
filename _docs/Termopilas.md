@@ -12,7 +12,7 @@ No está claro si ocurrió el 7 de agosto o el 10 septiembre del 480 a. C. Lo qu
 
 La mayoría de lo que sabemos sobre la batalla de las Termópilas y las guerras médicas vienen de los escritos del historiador Heródoto de Halicarnaso, considerado padre de la historiografía.
 
-![Untitled]({{site.baseurl}}/images/Termo%pilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/Cropped-removebg-herodotus-historian_png__400623__.png)
+![Untitled]({{site.baseurl}}/images/Termopilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/Cropped-removebg-herodotus-historian_png__400623__.png)
 
 Si bien las obras de Heródoto están llenas de detalles, los números que proporciona es posible que estén un poco exagerados. Además su visión es totalmente partidista (los griegos son siempre los buenos)
 
@@ -22,11 +22,11 @@ El ejercito terrestre cruza el Helesponto. Para esto construye un puente formado
 
 Incluso manda a sus hombres flagelar al mar ya que había cometido una ofensa personal contra él.
 
-![Untitled]({{site.baseurl}}/images/Termo%pilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/Xerxes_lash_sea_-_Flagelacion_del_Helesponto_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Termopilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/Xerxes_lash_sea_-_Flagelacion_del_Helesponto_-_Wikipedia__la_enciclopedia_libre.png)
 
 Un segundo puente de barcos (unos 600) consigue hacer que las tropas crucen el estrecho y entre en Grecia por la zona de Tracia (región vasalla de Persia)
 
-![Untitled]({{site.baseurl}}/images/Termo%pilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/Donde-ocurrio-la-Batalla-de-las-Termo_CC_81pilas_jpg__481489_.png)
+![Untitled]({{site.baseurl}}/images/Termopilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/Donde-ocurrio-la-Batalla-de-las-Termo_CC_81pilas_jpg__481489_.png)
 
 El ejercito terrestre de Jerjes tenía como su principal arma los arqueros. Además tenía una guardia personal llamada "los inmortales". 10.000 soldados de élite con una coraza de escamas. Cuando un inmortal caía era reemplazado por otro (siempre eran 10.000)
 
@@ -42,21 +42,21 @@ Este tabú religioso hacía complicado que se unieran para frenar el avance de J
 
 Por un lado mandan una avanzadilla de su flota al cabo Artemisio para retener a la flota persa. Los persas, muy superiores en número, sufren bajas en su flota por culpa de tormentas (el elevado número de barcos hacía imposible que se refugiaran en ningún puerto).
 
-![Untitled]({{site.baseurl}}/images/Termo%pilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/Google_Maps.png)
+![Untitled]({{site.baseurl}}/images/Termopilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/Google_Maps.png)
 
 Las tormentas tomaron un papel importante. Esto fue usado por los griegos para decir que los dioses estaban de su parte destruyendo navíos persas.
 
 Luego estaba la parte terrestre. El plan era retenerlos en el paso de las Termópilas. Las Termópilas, que se llaman así (puertas calientes) por sus manantiales de aguas calientes, eran el único paso natural que permitía pasar de Tesalia a Beocia y al Ática (una zona muy rocosa)
 
-![Untitled]({{site.baseurl}}/images/Termo%pilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/400px-Ancient_Regions_Mainland_Greece2-es_svg_png__400383_.png)
+![Untitled]({{site.baseurl}}/images/Termopilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/400px-Ancient_Regions_Mainland_Greece2-es_svg_png__400383_.png)
 
 Era un paso estrecho (de unos 100 metros de ancho) con la cordillera del Calídromo a un lado y acantilados al mar al otro. Hoy en día los sedimentos de los ríos han formado una zona más ancha (en la que hay autopistas), pero en la época era muy estrecho.
 
-![Untitled]({{site.baseurl}}/images/Termo%pilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/Cursor_and_File_Thermopylae_ancient_coastline_large_jpg_-_Wikimedia_Commons.png)
+![Untitled]({{site.baseurl}}/images/Termopilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/Cursor_and_File_Thermopylae_ancient_coastline_large_jpg_-_Wikimedia_Commons.png)
 
 Era el sitio ideal para establecer una posición defensiva. Esparta mandó a 300 soldados de élite comandados por Leónidas, uno de sus reyes (Esparta era un diarquía con 2 reyes). 
 
-![Untitled]({{site.baseurl}}/images/Termo%pilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/Antigua_Grecia___List_view.png)
+![Untitled]({{site.baseurl}}/images/Termopilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/Antigua_Grecia___List_view.png)
 
 Esparta sabía que la defensa del paso aunque posible era complicada y mandó solo a soldados con descendencia, ya que morir sin descendencia era algo malo en Esparta (lo principal era dar hijos futuros soldados a Esparta). Leónidas, además, era ya "mayor" (tenía 60 años).
 
@@ -64,13 +64,13 @@ Hay que remarcar que las tropas griegas no solo eran los 300. Además estaban lo
 
 En la zona ya existía un pequeño murete (el muro focense) que los griegos reforzaron para hacer frente a la inminente llegada de Jerjes, proporcionándoles una posición elevada que les facilitaba la defensa.
 
-![Untitled]({{site.baseurl}}/images/Termo%pilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/800px-Xerxes_all_ethnicities_jpg__800392_.png)
+![Untitled]({{site.baseurl}}/images/Termopilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/800px-Xerxes_all_ethnicities_jpg__800392_.png)
 
 Cuando Jerjes llega a la zona establece un campamento al norte del rio Aspergeo. Espera que los griegos, al ver el imponente ejército, desistan la defensa del paso y se vayan. Jerjes espera 4 días a que se retiren, pero los griegos no lo hacen.
 
 A Jerjes se le termina la paciencia, y el tiempo. Se acercaba el fin del verano. La campaña militar tenía que terminar en verano y le quedaba mucho por avanzar hasta Atenas. Manda sus tropas a atacar pero los Espartanos resisten. 
 
-![Untitled]({{site.baseurl}}/images/Termo%pilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/_Persia__Jerjes_I_-_Jerjes_I_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Termopilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/_Persia__Jerjes_I_-_Jerjes_I_-_Wikipedia__la_enciclopedia_libre.png)
 
 Caen muchos persas pero estos tenían muchos recambios. Los hoplitas espartanos eran unos soldados fuertemente armados, con una pesada armadura, un gran escudo y una larga lanza. Las tropas persas no estaban acostumbradas a luchar contra una infantería tan pesada.
 
@@ -100,7 +100,7 @@ Leónidas tenía además muy presente un oráculo que decía que para que Espart
 
 Se cuenta que un esclavo le dice a un soldado espartano (Diéneces. Considerado el más valiente de los soldados espartanos) que los persas lanzarán tantas flechas que taparán el sol. Diéneces responde que mejor. Pelearemos a la sombra. 
 
-Llevan 3 días de batalla y Leónidas sabe que van a morir. Les dice a sus hombres la famosa frase: "Tomad un buen desayuno, puesto que hoy cenaremos en el Hades (el inframundo)". 
+Llevan 3 días de batalla y Leónidas sabe que van a morir. Les dice a sus hombres la famosa frase: "Tomad un buen desayuno, puesto que hoy cenaremos en el Hades (el inframundo)". 
 
 Los espartanos, de pocas palabras y solo dedicados a la guerra, tenían fama de estas frases lapidarias y efectivas. Es una muestra del llamado laconismo espartano (lacónico viene de Laconia, la provincia donde está Esparta)
 
@@ -136,7 +136,7 @@ Además esa visión del hoplita griego luchando a pecho descubierto dista mucho 
 
 Sí que tenían pelo largo (que lo cuidaban mucho) y largas barbas, aunque se solían afeitar el bigote. El pelo largo es lo que diferenciaba a los ciudadanos espartanos de los esclavos (que les afeitaban la cabeza)
 
-![Untitled]({{site.baseurl}}/images/Termo%pilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/_Grecia__Leonidas_I_de_Esparta_-_Leonidas_I_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Termopilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/_Grecia__Leonidas_I_de_Esparta_-_Leonidas_I_-_Wikipedia__la_enciclopedia_libre.png)
 
 La peli de 300, incluso su precuela, aunque reinventan la historia y cambian muchas cosas, están plagadas de detalles y referencias a la historia original (o lo que nos ha llegado de Heródoto)
 

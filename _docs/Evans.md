@@ -36,7 +36,7 @@ Los restos eran diferentes y anteriores a los que Schliemann (otro arqueólogo, 
 
 ![Untitled]({{site.baseurl}}/images/Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%205.png)
 
-No era el primer asentamiento de la edad del bronce que se descubría pero quizás sí el más impresionante. Con un avanzado sistema de canalización de aguas y otras cosas que no se habían visto con esa magnitud en esos yacimientos.
+No era el primer asentamiento de la edad del bronce que se descubría pero quizás sí el más impresionante. Con un avanzado sistema de canalización de aguas y otras cosas que no se habían visto con esa magnitud en esos yacimientos.
 
 La consolidación de las ruinas se convierte en su obsesión. Renuncia a todo tipo de ayuda oficial y asume personalmente todo gasto de la excavación, que se convierte en su vida. Se construye una casa junto al palacio a la que llama “villa Ariadna”, en honor a la princesa cretense, hija de Minos, que ayudó a Teseo contra el minotauro en Creta.
 

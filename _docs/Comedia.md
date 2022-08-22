@@ -32,7 +32,7 @@ Como digo las tragedias trataban siempre sobre temas que el espectador ya conoc�
 
 Es por esto que los comienzos de las comedias solían tener una introducción mayor para captar la atención del espectador. Además, como pasa hoy, el espectador de una tragedia estaba más predispuesto a ver a obra, mientras que en una comedia el ambiente era más distendido. 
 
-La estructura de una comedia griega solía ser: párodo, agón y parábasis (los antecedentes de nuestro “planteamiento-nudo-desenlace”). 
+La estructura de una comedia griega solía ser: párodo, agón y parábasis (los antecedentes de nuestro “planteamiento-nudo-desenlace”). 
 
 En le párodo entraba el coro y presentaba la obra, en el agón se daba un debate cómico entre los personajes y en la parábasis el coro se dirigía al público para a sacar conclusiones.
 

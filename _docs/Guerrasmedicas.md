@@ -12,7 +12,7 @@ De todas formas tenían en común una serie de cosas que los unían como eran: L
 
 En el período clásico (del 499 al 323 a. C.). Dario I, rey persa, dominaba varias ciudades estado griegas en el mediterráneo oriental. Un día se produjo una serie de revueltas en estas ciudades.
 
-![Untitled]({{site.baseurl}}/images/Guerras%20me%dicas%201665967899854f67ab29a08e0c0661f0/Dario_I_-_Busqueda_de_Google.png)
+![Untitled]({{site.baseurl}}/images/Guerras%20medicas%201665967899854f67ab29a08e0c0661f0/Dario_I_-_Busqueda_de_Google.png)
 
 Se generó un confederación militar de ciudades griegas contra el dominio Persa dando origen a la primera guerra médica (al imperio persa se le llamaba comúnmente imperio medo o Media).
 
@@ -26,13 +26,13 @@ Famosa es la anécdota del soldado griego que corrió los 40 km que separan Mara
 
 Años más tarde el hijo de Darío, Jerjes, reanudó la guerra dando lugar a la segunda guerra médica. Jerjes fue con todo su ejercito contra Atenas. Los pueblos griegos se unieron (no todos), fundamentalmente Atenas y Esparta.
 
-![Untitled]({{site.baseurl}}/images/Guerras%20me%dicas%201665967899854f67ab29a08e0c0661f0/_Persia__Jerjes_I_-_Jerjes_I_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Guerras%20medicas%201665967899854f67ab29a08e0c0661f0/_Persia__Jerjes_I_-_Jerjes_I_-_Wikipedia__la_enciclopedia_libre.png)
 
 Los espartanos, comandados por Leónidas, mandaron un puñado de hombres para frenar el avance del ejercito Persa, consiguiendo contenerlos durante varios días en el paso de las Termópilas.
 
 Las Termópilas era un pequeño estrecho que permitía contrarrestar en parte la de la diferencia de hombres (900 persas por cada espartano).
 
-![Untitled]({{site.baseurl}}/images/Guerras%20me%dicas%201665967899854f67ab29a08e0c0661f0/File_Leonidas_en_las_Termopilas__por_Jacques-Louis_David_jpg_-_Wikimedia_Commons.png)
+![Untitled]({{site.baseurl}}/images/Guerras%20medicas%201665967899854f67ab29a08e0c0661f0/File_Leonidas_en_las_Termopilas__por_Jacques-Louis_David_jpg_-_Wikimedia_Commons.png)
 
 Finalmente Jerjes aplastó a Leónidas pero esos días que los espartanos aguantaros permitió a los Atenienses evacuar Atenas y reagrupar a sus tropas. Jerjes llegó a Atenas y la arrasó (lo que quedaba ya que había sido evacuada). 
 
@@ -42,21 +42,21 @@ El Hoplita era un soldado moderno equipado con escudo (Hoplón), un casco, una l
 
 Los hoplitas eran hombres libres que se compraba su traje y lo adornaba según sus gustos (y dinero), por lo que la vestimenta del ejército griego no era uniforme.
 
-![Untitled]({{site.baseurl}}/images/Guerras%20me%dicas%201665967899854f67ab29a08e0c0661f0/File_Lekythos_hoplite_Petit_Palais_ADUT01575_jpg_-_Wikimedia_Commons.png)
+![Untitled]({{site.baseurl}}/images/Guerras%20medicas%201665967899854f67ab29a08e0c0661f0/File_Lekythos_hoplite_Petit_Palais_ADUT01575_jpg_-_Wikimedia_Commons.png)
 
 También tenían una flota moderna formada for Trirremes, un avanzado barco de guerra muy potente equipado con tres filas de remos a cada lado y un espolón de bronce con el que embestían a sus enemigos.
 
-![Untitled]({{site.baseurl}}/images/Guerras%20me%dicas%201665967899854f67ab29a08e0c0661f0/Trireme_-_Trirreme_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Guerras%20medicas%201665967899854f67ab29a08e0c0661f0/Trireme_-_Trirreme_-_Wikipedia__la_enciclopedia_libre.png)
 
 Los atenienses, comandados por Temistocles, quisieron hacer algo similar a lo que Leónidas había hecho en las Termópilas. Pero Jerjes no era tonto. No caería 2 veces en el mismo error.
 
-![Untitled]({{site.baseurl}}/images/Guerras%20me%dicas%201665967899854f67ab29a08e0c0661f0/Temistocles_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Guerras%20medicas%201665967899854f67ab29a08e0c0661f0/Temistocles_-_Wikipedia__la_enciclopedia_libre.png)
 
 Temístocles le tendió una trampa. Mandó un emisario haciéndose pasar por desertor y le hizo creer a Jerjes que los griegos estaban divididos y le aconsejaba bloquear el estrecho de Salamina y aplastarlos.
 
 Artemisia (una de los generales de Jerjes), le aconsejó esperar a que los griegos se rindieran y no atacar pero el resto de generales incitó a Jerjes a aplastarlos.
 
-![Untitled]({{site.baseurl}}/images/Guerras%20me%dicas%201665967899854f67ab29a08e0c0661f0/Artemisia_I_-_Caria_png__399407_.png)
+![Untitled]({{site.baseurl}}/images/Guerras%20medicas%201665967899854f67ab29a08e0c0661f0/Artemisia_I_-_Caria_png__399407_.png)
 
 Jerjes, que venía de una victoria apabullante en las Termópilas, cae en la trampa y se dirige con toda su tropa a Salamina. 
 

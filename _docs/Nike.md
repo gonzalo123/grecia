@@ -6,7 +6,7 @@ order: 3
 
 En la mitología griega la diosa de la victoria es la diosa Niké
 
-Es hija del titan Palas y de la oceánide Éstige. Hermana, entre otros, de Kratos, personalización de la fuerza y del poder (sí, el del videojuego)
+Es hija del titan Palas y de la oceánide Éstige. Hermana, entre otros, de Kratos, personalización de la fuerza y del poder (sí, el del videojuego)
 
 Luchó junto a Zeus en la titanomaquia donde tuvo un papel fundamental ayudando a Zeus en su combate con Tifón.
 
@@ -22,7 +22,7 @@ Atenea y Niké suelen aparecer juntas mucho. Incluso hay un templo en la Acropol
 
 Niké significa victoria. Se dice que el soldado Filípides corrió los 40 km que separaban la ciudad de Maratón de Atenas para anunciar la victoria ante el ejercito persa. Cuando llegó gritó: ¡Nike! ¡Nike! Y se murió
 
-Simboliza en triunfo y elegía a los victoriosos en las competiciones deportivas poniéndoles la corona de laurel en la cabeza. Desde el año 1928 aparece en el reverso del as medallas olímpicas.
+Simboliza en triunfo y elegía a los victoriosos en las competiciones deportivas poniéndoles la corona de laurel en la cabeza. Desde el año 1928 aparece en el reverso del as medallas olímpicas.
 
 ![Untitled]({{site.baseurl}}/images/Nike%200585202216644958a0a94a4e321f0d36/medalla_jpg__300247_.png)
 
