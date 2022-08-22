@@ -8,7 +8,7 @@ Este mito es la trama de la tragedia de Eurípides "Hipólito" estrenada el cuar
 
 Eurípides es uno de los 3 poetas de tragedia más importantes (junto a Esquilo y Sófocles). Nació en Salamina y emigró a Atenas por la segunda guerra médica. Escribió casi 100 obras pero solo nos han llegado una docena. Del resto solo tenemos referencias y fragmentos sueltos.
 
-![Untitled]({{site.baseurl}}/images/Hipo%lito%201acaa39622354082b7e38c0c0386d6a4/Euripides_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Hipolito%201acaa39622354082b7e38c0c0386d6a4/Euripides_-_Buscar_con_Google.png)
 
 Esto es algo común en las obras literarias griegas. Primero, los griegos no les gustaba mucho escribir. Preferían recitar sus poemas. Los escribían porque no les quedaba otra. Además escribían en papiros y estos eran delicados (duraban unos 100 años). 
 
@@ -44,17 +44,17 @@ Teseo ayudó a Heracles en su trabajo del cinturón de Hipólita (hilo). En esta
 
 Teseo entonces se casa con la hija del rey Minos de Creta (Fedra). Hay muchas versiones de esto: Que si la amazona es Hipólita, que no muere y lo abandona, ... Lo que está claro es que Teseo se casa con Fedra y tiene un hijo de su anterior pareja (la amazona) llamado Hipólito.
 
-![Untitled]({{site.baseurl}}/images/Hipo%lito%201acaa39622354082b7e38c0c0386d6a4/Teseo_y_Fedra___Miradas.png)
+![Untitled]({{site.baseurl}}/images/Hipolito%201acaa39622354082b7e38c0c0386d6a4/Teseo_y_Fedra___Miradas.png)
 
 Aquí comienza la tragedia de Eurípides. Afrodita esta enfadada con Hipólito ya que este quiere ser casto y no se quiere casar. Vive centrado en la caza por el monte y rinde culto a Artemisa (diosa virgen de la caza). Por esto decide castigar a Hipólito con un rebuscado plan.
 
 Hace que Fedra se enamore perdidamente de su hijastro. Fedra enferma por este amor Nadie sabe lo que le pasa. Una nodriza consigue sonsacarle el motivo de su mal: La pasión irrefrenable hacia Hipólito.
 
-![Untitled]({{site.baseurl}}/images/Hipo%lito%201acaa39622354082b7e38c0c0386d6a4/Alexandre_Cabanel_Phedre_-_Fedra_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Hipolito%201acaa39622354082b7e38c0c0386d6a4/Alexandre_Cabanel_Phedre_-_Fedra_-_Wikipedia__la_enciclopedia_libre.png)
 
 Fedra sabe que esta pasión no puede llevarle más que a la muerte. Habla con Hipólito, declara su amor y este le rechaza (a ella y a todas las mujeres). Fedra no puede soportar este rechazo y termina suicidándose.
 
-![Untitled]({{site.baseurl}}/images/Hipo%lito%201acaa39622354082b7e38c0c0386d6a4/El_mito_de_Fedra__Descubrir_la_Historia.png)
+![Untitled]({{site.baseurl}}/images/Hipolito%201acaa39622354082b7e38c0c0386d6a4/El_mito_de_Fedra__Descubrir_la_Historia.png)
 
 En esto que llega Teseo (el marido de Fedra) de un viaje a Delfos y se encuentra a su mujer muerta (ahorcada) sin saber porqué (la nodriza había jurado no decir nada). Pero Fedra tiene una tablilla en la mano con una nota explicando el motivo de su suicidio.
 
@@ -62,13 +62,13 @@ La nota dice que se ha suicidado por el acoso de Hipólito hacia ella (todo lo c
 
 Cuando Hipólito parte en carro al destierro un rayo le alcanza y le deja muy mal herido. Teseo ve a su hijo agonizando, Artemisa se les aparece y les cuenta la verdad de la muerte y enfermedad de Fedra.
 
-![Untitled]({{site.baseurl}}/images/Hipo%lito%201acaa39622354082b7e38c0c0386d6a4/monstrous-sea-creature-terrifying-hippolytus-horses-rubens_jpg__682478_.png)
+![Untitled]({{site.baseurl}}/images/Hipolito%201acaa39622354082b7e38c0c0386d6a4/monstrous-sea-creature-terrifying-hippolytus-horses-rubens_jpg__682478_.png)
 
 Afrodita había sido rechazada por Hipólito y la diosa había hecho que Fedra se enamorara de este por venganza. Les cuenta también que Hipólito había rechazado a Fedra y esta se había suicidado dejando esa nota falsa como despecho. 
 
 Hipólito en su larga agonía termina perdonando a Teseo y muere. Teseo se queda desolado y termina la tragedia.
 
-![Untitled]({{site.baseurl}}/images/Hipo%lito%201acaa39622354082b7e38c0c0386d6a4/Archivo_Sarcofago_13_di_fedra_e_ippolito_riutilizzato_per_beatrice_di_lotaringia__fine_II_sec____01_JPG_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Hipolito%201acaa39622354082b7e38c0c0386d6a4/Archivo_Sarcofago_13_di_fedra_e_ippolito_riutilizzato_per_beatrice_di_lotaringia__fine_II_sec____01_JPG_-_Wikipedia__la_enciclopedia_libre.png)
 
 Esta resolución final en la que un dios aparece en el escenario y cuenta el desenlace de la trama es muy típico en las tragedias griegas. Es un giro de guión que se llama "Deux ex machina" que significa literalmente "dios sobre una máquina"
 
@@ -79,45 +79,3 @@ Por ejemplo en la escena final de Parque Jurásico (ojo spoiler) los protas est�
 Como decía en machismo que subyace en muchas de estas obras es grande. En esta, por ejemplo, muestra a la mujer (Fedra) como la causante de todos los males aunque influenciada por los dioses (algo parecido que en el mito de Pandora)
 
 La obra de Hipólito traslada el comportamiento de dos diosas arquetípicas a los personajes principales: Afrodita (la diosa del amor y la lujuria que influencia a Fedra) y Artemisa (la diosa casta que se proyecta en Hipólito). Diosas que representan cosas totalmente opuestas.
-
----
-
-“Soberana, soberana muy venerable, nacida de Zeus, te saludo, te saludo, oh Ártemis, hija de Leto y de Zeus, la más hermosa con mucho de las doncellas, tú que habitas en el extenso cielo el palacio de un ilustre padre, la áurea morada de Zeus” (Hipólito 65 Eurípides)
-
-“¡Ojalá pueda doblar el límite de mi vida como la he comenzado!” (Hipólito 85 Eurípides)
-
-“HIPÓLITO. —Cada uno tiene sus preferencias entre los dioses y entre los hombres.
-
-SIRVIENTE. —Te deseo buena fortuna, teniendo la sensatez que debes.
-
-HIPÓLITO. —Ninguno de los dioses venerados de noche me agrada.
-
-SIRVIENTE. —Hay que honrar a todos los dioses, hijo mío.” (Hipólito 105 Eurípides)
-
-“¡Vamos, niña querida, olvidemos las dos nuestras palabras de antes y muéstrate más agradable, despejando el ceño fruncido y el camino de tu mente!” (Hipólito 290 Eurípides)
-
-“NODRIZA. —¿Tus manos están puras de sangre, niña?
-
-FEDRA. —Mis manos están puras, mi corazón es el que está contaminado.”
-
-(Hipólito 315 Eurípides)
-
-“FEDRA. — ¡Oh madre desgraciada, qué amor te sedujo!
-
-NODRIZA. —El que tuvo del toro. ¿A qué dices esto?” (Hipólito 335 Eurípides)
-
-“No; hay que analizarlo de este modo. Sabemos y comprendemos lo que está bien, pero no lo ponemos en práctica, unos por indolencia, otros por preferir cualquier clase de placer al bien” (Hipólito 380 Eurípides)
-
-**“¡Ay, ay! ¡Qué bella es siempre la sabiduría, donde quiera que se encuentre y cómo recoge entre los mortales el fruto de la buena fama!” (Hipólito 430 Eurípides)**
-
-“Odio a la mujer inteligente: ¡que nunca haya en mi casa una mujer más inteligente de lo que es preciso! Pues en ellas Cipris prefiere infundir la maldad; la mujer de cortos alcances, por el contrario, debido a su misma cortedad, es preservada del deseo insensato” (Hipólito 640 Eurípides)
-
-**“Muy hábil debe ser aquel que es capaz de obligar a ser sensatos a los que no lo son. Pero no es momento de sutilezas, padre, temo que tu lengua desvaría a causa de tus desgracias.” (Hipólito 920 Eurípides)**
-
-“Continúa ufanándote ahora y vendiendo la mercancía de que no comes carne y, según tu señor Orfeo, ponte fuera de ti, honrando el humo de innumerables libros. ¡Estás atrapado!” (Hipólito 955 Eurípides)
-
-“Esta tablilla que tengo en mis manos, que no admite interpretaciones ambiguas, te acusa de un modo seguro; en cuanto a las aves que revolotean por encima de nuestras cabezas las mando a paseo” (Hipólito 1055 Eurípides)
-
-"Mi lengua ha jurado, pero no mi corazón" (Hipólito 611 Eurípides)
-
-"Mi lengua ha jurado, pero elegiré a Esquilo" (Las ranas de Aristófanes 1469)

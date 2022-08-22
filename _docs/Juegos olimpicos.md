@@ -18,25 +18,25 @@ Pueblos como Esparta, en los que el ejercito era lo más importante, llevaban la
 
 Existían 4 juegos principales en la Antigua Grecia. Juegos en los que participaban atletas de todas las polis (siempre que hablaran griego). Estaban los juegos Píticos (en honor a Apolo) en Delfos. A los vencedores se les ponía una corona de laurel (el árbol de Apolo)
 
-![Untitled]({{site.baseurl}}/images/Juegos%20oli%mpicos%20887f63ff900546aea11816b340ca8c25/Delfos_-_Google_Maps.png)
+![Untitled]({{site.baseurl}}/images/Juegos%20olimpicos%20887f63ff900546aea11816b340ca8c25/Delfos_-_Google_Maps.png)
 
 También estaban los juegos Nemeos que se celebraban en el santuario de Zeus en Nemea y recordaban a la primera prueba de los 12 trabajos de Heracles: Despellejar al león de Nemea.
 
-![Untitled]({{site.baseurl}}/images/Juegos%20oli%mpicos%20887f63ff900546aea11816b340ca8c25/Nemea_-_Google_Maps.png)
+![Untitled]({{site.baseurl}}/images/Juegos%20olimpicos%20887f63ff900546aea11816b340ca8c25/Nemea_-_Google_Maps.png)
 
 Luego estaban los juegos Ístmicos que se celebraban en el istmo de Corinto en honor a Poseidón. En todos los juegos, además de pruebas atléticas había rituales religiosos e incluso competiciones de poesía y música.
 
-![Untitled]({{site.baseurl}}/images/Juegos%20oli%mpicos%20887f63ff900546aea11816b340ca8c25/Corinto_-_Google_Maps.png)
+![Untitled]({{site.baseurl}}/images/Juegos%20olimpicos%20887f63ff900546aea11816b340ca8c25/Corinto_-_Google_Maps.png)
 
 Los más importantes y los que han perdurado a día de hoy eran los juegos Olímpicos que se celebraban en la ciudad de Olimpia (no en el monte Olimpo) en honor a Zeus.
 
-![Untitled]({{site.baseurl}}/images/Juegos%20oli%mpicos%20887f63ff900546aea11816b340ca8c25/Olimpo_-_Google_Maps.png)
+![Untitled]({{site.baseurl}}/images/Juegos%20olimpicos%20887f63ff900546aea11816b340ca8c25/Olimpo_-_Google_Maps.png)
 
 La leyenda dice que Heracles y sus 4 hermanos corrieron en Olimpia para entretener a Zeus (la carrera la ganó Herácles) y esto fue el inicio de los Juegos Olímpicos.
 
 Los primeros Juegos Olímpicos de los que hay constancia son en el el 776 a. C. y con esto da inicio la llamada edad arcaica. Olimpia tenía el templo de Zeus más importante con la estatua crisoelefantina (oro y marfil) del dios obra de Fidias. 
 
-![Untitled]({{site.baseurl}}/images/Juegos%20oli%mpicos%20887f63ff900546aea11816b340ca8c25/Cursor_and_06-seven-wonders-olympia_df87f173_1200x630_jpg__1200630_.png)
+![Untitled]({{site.baseurl}}/images/Juegos%20olimpicos%20887f63ff900546aea11816b340ca8c25/Cursor_and_06-seven-wonders-olympia_df87f173_1200x630_jpg__1200630_.png)
 
 Durante los JJOO se establecía una tregua militar llamada ékécheiria que permitía a los atletas, provenientes de toda la hélade, acudir a los juegos sin problemas (eran tiempos difíciles y moverse por el mundo era peligroso)
 
@@ -46,15 +46,15 @@ Los juegos duraban 5 días. El primero era la ceremonia de apertura. También ce
 
 Es por esto que se dio el caso que Cinisca (hija del rey de Esparta) fue campeona olímpica 2 veces por ser la propietaria de los caballos, a pesar de no poder entrar en el estadio por ser mujer.
 
-![Untitled]({{site.baseurl}}/images/Juegos%20oli%mpicos%20887f63ff900546aea11816b340ca8c25/cynisca_of_Sparta_vasepainting_jpg__600367_.png)
+![Untitled]({{site.baseurl}}/images/Juegos%20olimpicos%20887f63ff900546aea11816b340ca8c25/cynisca_of_Sparta_vasepainting_jpg__600367_.png)
 
 También había carreras a pie en las que corrían desnudos (la principal era una que rodeaba el estadio de 192 metros), lanzamiento de jabalina y disco y pruebas de salto donde no se medían las distancias sino se comparaban las pisadas de los contendientes.
 
-![Untitled]({{site.baseurl}}/images/Juegos%20oli%mpicos%20887f63ff900546aea11816b340ca8c25/olimpiadas-clasicas-grecia1_jpg__1600927_.png)
+![Untitled]({{site.baseurl}}/images/Juegos%20olimpicos%20887f63ff900546aea11816b340ca8c25/olimpiadas-clasicas-grecia1_jpg__1600927_.png)
 
 Había también pruebas de lucha y pugilato. Y un pentatlón donde los atletas espartanos arrasaban. Los ganadores de los juegos eran tratados como héroes y se les erigían estatuas en los templos.
 
-![Untitled]({{site.baseurl}}/images/Juegos%20oli%mpicos%20887f63ff900546aea11816b340ca8c25/juegos_olimpicos_en_la_antiguedad_3_jpg_imgo_jpg__885926_.png)
+![Untitled]({{site.baseurl}}/images/Juegos%20olimpicos%20887f63ff900546aea11816b340ca8c25/juegos_olimpicos_en_la_antiguedad_3_jpg_imgo_jpg__885926_.png)
 
 Los juegos se siguieron celebrando con la llegada de Roma pero con la llegada del cristianismo fueron considerados ritos paganos y se prohibieron en el 393 d. C.
 
@@ -62,7 +62,7 @@ El deporte también formaba parte de los ritos funerarios. Las exequias estaban 
 
 Estos juegos fúnebres los tenemos narrados con todo lujo de detalle en la Ilíada en el canto XXIII con los juegos en honor de Patroclo (el amado amigo de Aquiles) siendo esta la primera crónica deportiva que se conoce.
 
-![Untitled]({{site.baseurl}}/images/Juegos%20oli%mpicos%20887f63ff900546aea11816b340ca8c25/Museo_archeologico_di_Firenze__Vaso_Fancois_5_-_Juegos_funebres_en_honor_de_Patroclo_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Juegos%20olimpicos%20887f63ff900546aea11816b340ca8c25/Museo_archeologico_di_Firenze__Vaso_Fancois_5_-_Juegos_funebres_en_honor_de_Patroclo_-_Wikipedia__la_enciclopedia_libre.png)
 
 Aquiles monta unos juegos en honor a Patroclo. Él no participa, pero va dando premios a los ganadores (que los saca de sus botines de guerra). Primero hay una carrera de carros. En la carrera pasa de todo (incluso los dioses participan favoreciendo a algunos). 
 
@@ -70,7 +70,7 @@ A Eumelo se la pega y llega último. Aquiles quiere darle el segundo premio (por
 
 Aquiles accede, le da otro premio y queda desierto el quinto premio: Una copa de doble asa que se la dan al anciano Nestor. También hay pugilato con Epeo vs Euríalo y lucha entre Ayax y Odiseo, que lo tienen que parar en empate porque se eterniza y parece que no va a ganar nadie.
 
-![Untitled]({{site.baseurl}}/images/Juegos%20oli%mpicos%20887f63ff900546aea11816b340ca8c25/1_LfvIwhnjVkwvanhUgHMTHA_png__1168928_.png)
+![Untitled]({{site.baseurl}}/images/Juegos%20olimpicos%20887f63ff900546aea11816b340ca8c25/1_LfvIwhnjVkwvanhUgHMTHA_png__1168928_.png)
 
 Luego una carrera a pie en la que Atenea hace que uno se tropiece pisando estiércol (gana Odiseo). Después duelo con armas entre Ayax y Diomedes. Lo tienen que para que nadie salga herido (le dan la victoria a Diomedes ya que está a punto de herir a Ayax). 
 

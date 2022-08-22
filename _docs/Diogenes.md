@@ -21,7 +21,7 @@ Surgen nuevas escuelas de pensamiento llamadas helenísticas o de decadencia, ya
 
 El padre del cinismo es Antístenes pero su alumno más aventajado es Diógenes. El cínico es un reaccionario. Reacciona a la idea de darle valor a las cosas que no son útiles desde el punto de vista material.
 
-![Untitled]({{site.baseurl}}/images/Dio%genes%20de%20Sinope%20afd0398139c5411586967dabbd2015fe/Cursor_and_Antisthenes_pushkin_-_Antistenes_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Diogenes%20de%20Sinope%20afd0398139c5411586967dabbd2015fe/Cursor_and_Antisthenes_pushkin_-_Antistenes_-_Wikipedia__la_enciclopedia_libre.png)
 
 El amor, el dinero, la propiedad, no son más que cosas de poco valor que nos ciegan en el camino de la verdad.
 
@@ -31,23 +31,23 @@ La ascesis. El abandono de todos los elementos y placeres materiales. Este princ
 
 La parresía: en griego "Decirlo todo". El abandono de la retórica. No se trata de solo de convencerte sino hacer que despiertes. Usaban frases muy hirientes y mordaces. No se callaban nada.
 
-![Untitled]({{site.baseurl}}/images/Dio%genes%20de%20Sinope%20afd0398139c5411586967dabbd2015fe/digoenes-imagens--644x362_jpg__644362_.png)
+![Untitled]({{site.baseurl}}/images/Diogenes%20de%20Sinope%20afd0398139c5411586967dabbd2015fe/digoenes-imagens--644x362_jpg__644362_.png)
 
 Por último la autarquía. La capacidad de autosostenerse.  La sociedad para ellos era inútil. No necesitaban nada de nadie. Eran autosuficientes.
 
 Los cínicos eran unos grandes críticos sociales. Esto es, quizás, la parte más interesante del cinismo. Para los cínicos el concepto de transcendencia era irrelevante. La vida es aquí y ahora. No dejan nada por escrito. Todo lo que nos ha llegado son anécdotas.
 
-![Untitled]({{site.baseurl}}/images/Dio%genes%20de%20Sinope%20afd0398139c5411586967dabbd2015fe/Waterhouse-Diogenes_-_Diogenes_de_Sinope_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Diogenes%20de%20Sinope%20afd0398139c5411586967dabbd2015fe/Waterhouse-Diogenes_-_Diogenes_de_Sinope_-_Wikipedia__la_enciclopedia_libre.png)
 
 Lo que hoy entendemos por "cínico" no tiene mucho que ver con la doctrina filosófica. El nombre viene de Kyon que significa perro. Veían al perro como un ser feliz. No necesita nada (ni posesión ni dinero). Es por esto que a los cínicos se les denominaba como los filósofos perro.
 
 Diógenes de Sinope fue el filósofo cínico más importante. No dejó ningún documento escrito (eso significaba trascender y estaban en contra) pero sí muchas anécdotas. Algunas grotescas. Su vida transcurre entre el mito y la realidad.
 
-![Untitled]({{site.baseurl}}/images/Dio%genes%20de%20Sinope%20afd0398139c5411586967dabbd2015fe/La_scuola_di_Atene_-_La_escuela_de_Atenas_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Diogenes%20de%20Sinope%20afd0398139c5411586967dabbd2015fe/La_scuola_di_Atene_-_La_escuela_de_Atenas_-_Wikipedia__la_enciclopedia_libre.png)
 
 Diógenes nace en Sinope (hoy Turquía) en el 412 a. C. Su padre era banquero y se dedicaba a fabricar monedas falsas. Les pillaron y fueron desterrados. Terminó viviendo en Atenas y fue discípulo de Antístenes (discípulo de Sócrates y fundador de cinismo).
 
-![Untitled]({{site.baseurl}}/images/Dio%genes%20de%20Sinope%20afd0398139c5411586967dabbd2015fe/Sinope_-_Google_Maps.png)
+![Untitled]({{site.baseurl}}/images/Diogenes%20de%20Sinope%20afd0398139c5411586967dabbd2015fe/Sinope_-_Google_Maps.png)
 
 Diógenes se consideraba "ciudadano del mundo". Su condición de emigrante y apátrida le hacía no ser ciudadano de ninguna polis. El la época, el destierro era una condena horrible ya que significaba el desarraigo de la ciudad y la pérdida de la ciudadanía.
 
@@ -57,10 +57,10 @@ Hacía sus necesidades a la vista de todo el mundo. Para él ninguna actividad h
 
 Está su famosa anécdota que decía que se paseaba con una lámpara encendida durante el día diciendo que buscaba un hombre honesto.
 
-![Untitled]({{site.baseurl}}/images/Dio%genes%20de%20Sinope%20afd0398139c5411586967dabbd2015fe/LXXQRJVYLV443OPLYQJGBZPPNE_jpg__9801085_.png)
+![Untitled]({{site.baseurl}}/images/Diogenes%20de%20Sinope%20afd0398139c5411586967dabbd2015fe/LXXQRJVYLV443OPLYQJGBZPPNE_jpg__9801085_.png)
 
 Otra famosa anécdota es el encuentro de Diógenes con Alejandro Magno en Corinto. Alejandro, conocedor de la fama de Diógenes, quiso demostrarle su admiración. Le dijo que podía pedirle lo que quisiera, que se lo concedería.
 
-![Dio%genes%20de%20Sinope%20afd0398139c5411586967dabbd2015fe/Archivo_Sebastiano_Ricci_-_Alexander_and_Diogenes_jpg_-_Wikipedia__la_enciclopedia_libre.png](Dio%genes%20de%20Sinope%20afd0398139c5411586967dabbd2015fe/Archivo_Sebastiano_Ricci_-_Alexander_and_Diogenes_jpg_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Diogenes%20de%20Sinope%20afd0398139c5411586967dabbd2015fe/Archivo_Sebastiano_Ricci_-_Alexander_and_Diogenes_jpg_-_Wikipedia__la_enciclopedia_libre.png)
 
 Diógenes le dijo que se apartara, que le quitaba el sol. Este encuentro no tiene base histórica. Cuando Alejandro estaba en Corinto no era todavía el gran conquistador que fue después. Pero no dejemos que la verdad fastidie una buena anécdota.
