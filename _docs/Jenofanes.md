@@ -6,7 +6,7 @@ order: 3
 
 No sabemos mucho de Jenófanes. No nos ha llegado ninguna obra completa. Solamente 120 versos. Sabemos que nació sobre el 575 a. C. en Colofón (Asia menor) pero por la inestabilidad de la zona emigró a Elea (Magna Grecia)
 
-![Untitled]({{site.baseurl}}/images/Jenofanes%20de%20Colofo%n%20bce054fe7f2048d69485a7cbf7995677/Map_Ciudades_Antiguas_Asia_Menor_-_Colofon__ciudad__-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Jenofanes%20de%20Colofon%20bce054fe7f2048d69485a7cbf7995677/Map_Ciudades_Antiguas_Asia_Menor_-_Colofon__ciudad__-_Wikipedia__la_enciclopedia_libre.png)
 
 Se pensaba que Jenófanes era el fundador de la escuela filosófica de Elea y maestro de Parménides. Parece que no. Parménides conocía a Jenófanes pero su pensamiento era original.
 
@@ -18,13 +18,13 @@ Se dice que para Jenófanes el arjé era la tierra. Quizás por completismo (Tal
 
 El arjé no le preocupaba mucho. Centró todo su pensamiento en criticar a Hesíodo y Homero, considerados los fundadores de la civilización, de la cultura y creadores de los principales mitos.
 
-![Untitled]({{site.baseurl}}/images/Jenofanes%20de%20Colofo%n%20bce054fe7f2048d69485a7cbf7995677/Jenofanes_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Jenofanes%20de%20Colofon%20bce054fe7f2048d69485a7cbf7995677/Jenofanes_-_Buscar_con_Google.png)
 
 Para Jenófanes los dioses son perfectos y la descripción que hacían Homero y Hesíodo de estos dista mucho de la perfección.
 
 Los dioses griegos tienen cualidades humanas. Eran rencorosos y se dejaban guiar por sus instintos. Esta idea de los dioses con defectos humanos era absurda para Jenófanes.
 
-"Los etíopes dicen que sus dioses son de nariz chata y negros, los tracios que tenían ojos azules y pelo rojizo" "Cada pueblo hace a sus dioses a su semejanza. Si los caballos tuvieran dioses, serían caballos"
+>"Los etíopes dicen que sus dioses son de nariz chata y negros, los tracios que tenían ojos azules y pelo rojizo" "Cada pueblo hace a sus dioses a su semejanza. Si los caballos tuvieran dioses, serían caballos"
 
 Él veía que los dioses de los griegos eran como los griegos, blancos y dados al vino y a las pasiones. Los dioses griegos eran inmortales pero habían nacido. Habían sido engendrados. Esto no tenía ningún sentido para él.
 
@@ -32,13 +32,13 @@ Veían a la mitología como un reflejo de la cultura. Los mitos no dicen ninguna
 
 Jenófanes llegó a la conclusión que solo podía existir un único dios. Es por esto que se le consideraba el fundador del monoteismo. Un concepto rompedor en la época.
 
-"Homero y Hesíodo han han atribuido a los dioses todo cuando es vergüenza e injuria entre los hombres, y han narrado muy a menudo acciones injustas de los dioses: Robar, cometer adulterio y engañarse unos a otros"
+> "Homero y Hesíodo han atribuido a los dioses todo cuando es vergüenza e injuria entre los hombres, y han narrado muy a menudo acciones injustas de los dioses: Robar, cometer adulterio y engañarse unos a otros"
 
 Para Jenófanes un ser perfecto como un dios no puede tener los defectos de los seres humanos. Ni parecerse a ellos. Para Jenófanes dios es omnipresente, omnisciente (lo sabe todo) y omnipotente (controla el universo). También es inmóvil, inengendrado y eterno.
 
-![Untitled]({{site.baseurl}}/images/Jenofanes%20de%20Colofo%n%20bce054fe7f2048d69485a7cbf7995677/_Frases_y_citas_celebres_de_Jenofanes_.png)
+![Untitled]({{site.baseurl}}/images/Jenofanes%20de%20Colofon%20bce054fe7f2048d69485a7cbf7995677/_Frases_y_citas_celebres_de_Jenofanes_.png)
 
-"Hay un dios, el más grande de entre los hombres, ni en figura ni en pensamiento semejante a los mortales"
+>"Hay un dios, el más grande de entre los hombres, ni en figura ni en pensamiento semejante a los mortales"
 
 Muchos padres de la iglesia cristiana ven a Jenófanes como la primera defensa de la filosofía del monoteísmo, aunque en otros fragmentos de Jenófanes parece decir que también existían otros dioses, aunque inferiores.
 

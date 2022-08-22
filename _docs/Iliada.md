@@ -24,7 +24,7 @@ Homero, cuando escribe la Ilíada, no se para a presentar a ningún personaje. T
 
 Para nosotros esto se hace un lío y obliga a prestar una atención extra y, a ser posible, partir de un conocimiento previo para poder disfrutarla. 
 
-Además está llena de epítetos para caracterizar a los personajes: "El que hiere de lejos" (Apolo), "el de los pies ligeros" (Aquiles), "la de ojos de lechuza" (Atenea), "El de tremolante casco" (Héctor), "hijo del belicoso Atreo" (Agamenón), "el que sacude la tierra" (Poseidón), "diosa de níveos brazos" (Hera), ...
+Además, está llena de epítetos para caracterizar a los personajes: "El que hiere de lejos" (Apolo), "el de los pies ligeros" (Aquiles), "la de ojos de lechuza" (Atenea), "El de tremolante casco" (Héctor), "hijo del belicoso Atreo" (Agamenón), "el que sacude la tierra" (Poseidón), "diosa de níveos brazos" (Hera), ...
 
 La trama se enmarca en la guerra de Troya. Una contienda de la edad micénica que marcó mucho en la Antigua Grecia (incluso en la civilización Romana después). La guerra de Troya duró 10 años. La Ilíada transcurre en el año final de la guerra y termina antes de que del fin de la guerra.
 

@@ -48,7 +48,7 @@ Originalmente se sustentaban con vigas de madera de ciprés, un árbol muy abund
 
 Es entonces cuando toma una controvertida y muy criticada decisión. Coloca un soporte de hierro y utiliza hormigón en la reconstrucción. Este acto hace que se le acuse de haber creado una falsa arquitectura e inventarse un palacio.
 
-A pesar de todo, Evans trató de ser lo más fiel posible al original, tomando como modelo los elementos arquitectónicos que aparecían en los restos y en la pinturas.
+A pesar de todo, Evans trató de ser lo más fiel posible al original, tomando como modelo los elementos arquitectónicos que aparecían en los restos y en las pinturas.
 
 ![Untitled]({{site.baseurl}}/images/Evans%20d888dbe1104d46afbf4e6e35716b1ba7/Untitled%206.png)
 
@@ -60,7 +60,7 @@ Con los restos de los frescos encontrados hizo también algo que muy muy critica
 
 Evans muere el 11 de julio de 1941 en Inglaterra a los 90 años. Totalmente arruinado por sus trabajos en Cnosos pero satisfecho por su labor y a pesar de las críticas recibidas.
 
-Los métodos usados por Evans hoy en día están prohibidos por la comunidad. La duras críticas recibidas (totalmente merecidas) a su trabajo no le quitan la gran contribución que significa la figura de Evans.
+Los métodos usados por Evans hoy en día están prohibidos por la comunidad. Las duras críticas recibidas (totalmente merecidas) a su trabajo no le quitan la gran contribución que significa la figura de Evans.
 
 Gracias a su trabajo podemos hacernos una idea de como fueron esos grandes conjuntos arquitectónicos (quizás mal llamados palacios) de la edad del bronce en Creta.
 
