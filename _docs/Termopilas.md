@@ -120,11 +120,11 @@ De todas formas la proyección épica y victoria moral del sacrificio esparatano
 
 En la zona donde se libró la batalla hoy podemos ver, además de una estatua de Leónidas con el texto "*Molòn labé*", un epitafio con el texto "Caminante, informa a los lacedemonios que aquí yacemos por haber obedecido sus mandatos"
 
-![Untitled]({{site.baseurl}}/images/Termo%pilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/Estatua_de_Leonidas_en_la_Termopilas_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Termopilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/Estatua_de_Leonidas_en_la_Termopilas_-_Buscar_con_Google.png)
 
 Hay un famoso cuadro de Jacques-Louis David (pintor de cámara de Napoleón) que representa la batalla de las Termópilas. A Napoleón no le gustó el cuadro porque veía el cuadro de un derrotado.
 
-![Untitled]({{site.baseurl}}/images/Termo%pilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/800px-Leonidas_en_las_Termopilas__por_Jacques-Louis_David_jpg__800593_.png)
+![Untitled]({{site.baseurl}}/images/Termopilas%20ca9d0e3bfcda49c5aa43ace17b2621fe/800px-Leonidas_en_las_Termopilas__por_Jacques-Louis_David_jpg__800593_.png)
 
 Luego, tras la derrota de Waterloo, se ve identificado. Ve que representa un derrotado pero con una victoria moral y da la orden que la se ponga una copia del cuadro en todas las academias militares francesas.
 
