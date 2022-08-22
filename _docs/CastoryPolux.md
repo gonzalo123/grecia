@@ -24,7 +24,7 @@ Mientras que Agamenón no matara a su hija no soplaría el viento, por lo que la
 
 A Clitemnestra (la madre) como que no le gustaba esto y terminó matando a su esposo Agamenón al volver de la guerra de Troya diez años después (por lo que sea se la guardó).
 
-![Untitled]({{site.baseurl}}/images/Castor%20y%20Po%lux%20c1e417d2caa54df084976ef679c3658b/Gerin_Clytemnestre_hesitant_avant_de_frapper_Agamemnon_endormi_Louvre_5185_-_Clitemnestra_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Castor%20y%20Polux%20c1e417d2caa54df084976ef679c3658b/Gerin_Clytemnestre_hesitant_avant_de_frapper_Agamemnon_endormi_Louvre_5185_-_Clitemnestra_-_Wikipedia__la_enciclopedia_libre.png)
 
 Volviendo a los gemelos (aunque estrictamente hablando eran mellizos), Cástor era un excelente jinete y Pólux era famoso en la lucha cuerpo a cuerpo (algo parecido al que hoy conocemos como boxeo)
 
