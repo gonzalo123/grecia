@@ -30,7 +30,7 @@ Pero le da de comer carne de una de sus víctimas.
 
 Esto le enfada enormemente a Zeus, que termina por incendiar el palacio de Licaón y convirtiendo a este en lobo rabioso.
 
-![Untitled]({{site.baseurl}}/images/Licao%CC%81n%204b2c9e792b3747109e559fd9169d6230/Jupiter_y_Licaon__jan_Cossiers__-_Licaon__mitologia__-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Licao%n%204b2c9e792b3747109e559fd9169d6230/Jupiter_y_Licaon__jan_Cossiers__-_Licaon__mitologia__-_Wikipedia__la_enciclopedia_libre.png)
 
 Zeus vuelve al Olimpo tremendamente decepcionado con la raza humana.
 

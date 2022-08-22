@@ -6,7 +6,7 @@ order: 3
 
 Empédocles nace en Agrigento en el 490 a. C., una ciudad de la Magna Grecia (hoy Sicilia). Solo se conservan 2 obras aunque probablemente escribiera más: Las purificaciones y un poema llamado "sobre la naturaleza".
 
-![Untitled]({{site.baseurl}}/images/Empe%CC%81docles%20de%20Agrigento%2021e51a374dd14d428e28dbc8333fdd7a/Google_Maps.png)
+![Untitled]({{site.baseurl}}/images/Empe%docles%20de%20Agrigento%2021e51a374dd14d428e28dbc8333fdd7a/Google_Maps.png)
 
 La zona de la Magna Grecia era, en la época, una zona más tranquila que la zona de Anatolia (Asia Menor), una zona en constante conflicto con el mundo persa y mucho más inestable.
 
@@ -28,7 +28,7 @@ Empédocles toma de Parménides la existencia del no-ser y la inmutabilidad del 
 
 Era normal partir de estos dos filósofos con pensamientos aparentemente opuestos pero difíciles de rebatir. Es difícil negar la frase de Parménides de "El ser es y es imposible que no sea" y de que todo cambia, de Heráclito.
 
-![Untitled]({{site.baseurl}}/images/Empe%CC%81docles%20de%20Agrigento%2021e51a374dd14d428e28dbc8333fdd7a/Empedocles-2-sized-7c5f2_jpg__310309_.png)
+![Untitled]({{site.baseurl}}/images/Empe%docles%20de%20Agrigento%2021e51a374dd14d428e28dbc8333fdd7a/Empedocles-2-sized-7c5f2_jpg__310309_.png)
 
 Empédocles define su Arché como cuatro raices. Cada una de ellas asociada a una divinidad: El fuego (Zeus), el aire (Hera), el agua (Nestis) y la tierra (Hades). Cada una de esta raíces ya había sido usada como Arché por otros filósofos anteriores.
 
@@ -42,7 +42,7 @@ Empédocles define 2 estados. Uno donde todos los elementos están unidos y en a
 
 Este estado comparte cualidades con el ser de Parménides (que también es esférico).
 
-![Untitled]({{site.baseurl}}/images/Empe%CC%81docles%20de%20Agrigento%2021e51a374dd14d428e28dbc8333fdd7a/Cursor_and_Empedocles_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Empe%docles%20de%20Agrigento%2021e51a374dd14d428e28dbc8333fdd7a/Cursor_and_Empedocles_-_Buscar_con_Google.png)
 
 Luego, por acción del odio, los elementos se separan hasta llegar a un estado denominado Acosmia, donde los elementos se encuentran totalmente separados formando círculos concéntricos. 
 
@@ -72,4 +72,4 @@ Las gentes influyentes también tenían sus detractores que también expandieron
 
 El pensamiento de Empédocles ha sido enormemente influyente a lo largo de historia su modelo de 4 elementos estuvo vigente hasta la llegada de la ciencia moderna.
 
-![Untitled]({{site.baseurl}}/images/Empe%CC%81docles%20de%20Agrigento%2021e51a374dd14d428e28dbc8333fdd7a/Cursor_and_File_Colored_four_elements_jpg_-_Wikimedia_Commons.png)
+![Untitled]({{site.baseurl}}/images/Empe%docles%20de%20Agrigento%2021e51a374dd14d428e28dbc8333fdd7a/Cursor_and_File_Colored_four_elements_jpg_-_Wikimedia_Commons.png)

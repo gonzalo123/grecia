@@ -8,7 +8,7 @@ Este mito es la trama de la tragedia de Eurípides "Hipólito" estrenada el cuar
 
 Eurípides es uno de los 3 poetas de tragedia más importantes (junto a Esquilo y Sófocles). Nació en Salamina y emigró a Atenas por la segunda guerra médica. Escribió casi 100 obras pero solo nos han llegado una docena. Del resto solo tenemos referencias y fragmentos sueltos.
 
-![Untitled]({{site.baseurl}}/images/Hipo%CC%81lito%201acaa39622354082b7e38c0c0386d6a4/Euripides_-_Buscar_con_Google.png)
+![Untitled]({{site.baseurl}}/images/Hipo%lito%201acaa39622354082b7e38c0c0386d6a4/Euripides_-_Buscar_con_Google.png)
 
 Esto es algo común en las obras literarias griegas. Primero, los griegos no les gustaba mucho escribir. Preferían recitar sus poemas. Los escribían porque no les quedaba otra. Además escribían en papiros y estos eran delicados (duraban unos 100 años). 
 
@@ -44,17 +44,17 @@ Teseo ayudó a Heracles en su trabajo del cinturón de Hipólita (hilo). En esta
 
 Teseo entonces se casa con la hija del rey Minos de Creta (Fedra). Hay muchas versiones de esto: Que si la amazona es Hipólita, que no muere y lo abandona, ... Lo que está claro es que Teseo se casa con Fedra y tiene un hijo de su anterior pareja (la amazona) llamado Hipólito.
 
-![Untitled]({{site.baseurl}}/images/Hipo%CC%81lito%201acaa39622354082b7e38c0c0386d6a4/Teseo_y_Fedra___Miradas.png)
+![Untitled]({{site.baseurl}}/images/Hipo%lito%201acaa39622354082b7e38c0c0386d6a4/Teseo_y_Fedra___Miradas.png)
 
 Aquí comienza la tragedia de Eurípides. Afrodita esta enfadada con Hipólito ya que este quiere ser casto y no se quiere casar. Vive centrado en la caza por el monte y rinde culto a Artemisa (diosa virgen de la caza). Por esto decide castigar a Hipólito con un rebuscado plan.
 
 Hace que Fedra se enamore perdidamente de su hijastro. Fedra enferma por este amor Nadie sabe lo que le pasa. Una nodriza consigue sonsacarle el motivo de su mal: La pasión irrefrenable hacia Hipólito.
 
-![Untitled]({{site.baseurl}}/images/Hipo%CC%81lito%201acaa39622354082b7e38c0c0386d6a4/Alexandre_Cabanel_Phedre_-_Fedra_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Hipo%lito%201acaa39622354082b7e38c0c0386d6a4/Alexandre_Cabanel_Phedre_-_Fedra_-_Wikipedia__la_enciclopedia_libre.png)
 
 Fedra sabe que esta pasión no puede llevarle más que a la muerte. Habla con Hipólito, declara su amor y este le rechaza (a ella y a todas las mujeres). Fedra no puede soportar este rechazo y termina suicidándose.
 
-![Untitled]({{site.baseurl}}/images/Hipo%CC%81lito%201acaa39622354082b7e38c0c0386d6a4/El_mito_de_Fedra__Descubrir_la_Historia.png)
+![Untitled]({{site.baseurl}}/images/Hipo%lito%201acaa39622354082b7e38c0c0386d6a4/El_mito_de_Fedra__Descubrir_la_Historia.png)
 
 En esto que llega Teseo (el marido de Fedra) de un viaje a Delfos y se encuentra a su mujer muerta (ahorcada) sin saber porqué (la nodriza había jurado no decir nada). Pero Fedra tiene una tablilla en la mano con una nota explicando el motivo de su suicidio.
 
@@ -62,13 +62,13 @@ La nota dice que se ha suicidado por el acoso de Hipólito hacia ella (todo lo c
 
 Cuando Hipólito parte en carro al destierro un rayo le alcanza y le deja muy mal herido. Teseo ve a su hijo agonizando, Artemisa se les aparece y les cuenta la verdad de la muerte y enfermedad de Fedra.
 
-![Untitled]({{site.baseurl}}/images/Hipo%CC%81lito%201acaa39622354082b7e38c0c0386d6a4/monstrous-sea-creature-terrifying-hippolytus-horses-rubens_jpg__682478_.png)
+![Untitled]({{site.baseurl}}/images/Hipo%lito%201acaa39622354082b7e38c0c0386d6a4/monstrous-sea-creature-terrifying-hippolytus-horses-rubens_jpg__682478_.png)
 
 Afrodita había sido rechazada por Hipólito y la diosa había hecho que Fedra se enamorara de este por venganza. Les cuenta también que Hipólito había rechazado a Fedra y esta se había suicidado dejando esa nota falsa como despecho. 
 
 Hipólito en su larga agonía termina perdonando a Teseo y muere. Teseo se queda desolado y termina la tragedia.
 
-![Untitled]({{site.baseurl}}/images/Hipo%CC%81lito%201acaa39622354082b7e38c0c0386d6a4/Archivo_Sarcofago_13_di_fedra_e_ippolito_riutilizzato_per_beatrice_di_lotaringia__fine_II_sec____01_JPG_-_Wikipedia__la_enciclopedia_libre.png)
+![Untitled]({{site.baseurl}}/images/Hipo%lito%201acaa39622354082b7e38c0c0386d6a4/Archivo_Sarcofago_13_di_fedra_e_ippolito_riutilizzato_per_beatrice_di_lotaringia__fine_II_sec____01_JPG_-_Wikipedia__la_enciclopedia_libre.png)
 
 Esta resolución final en la que un dios aparece en el escenario y cuenta el desenlace de la trama es muy típico en las tragedias griegas. Es un giro de guión que se llama "Deux ex machina" que significa literalmente "dios sobre una máquina"
 

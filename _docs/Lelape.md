@@ -6,11 +6,11 @@ order: 3
 
 Hablar de perros en la mitología griega es hablar de Lélape (o Laelaps). El perro que siempre atrapa a su presa. Casi siempre que veamos un perro en alguna obra de arte sobre mitología griega, es muy posible que se Lélape
 
-![Untitled]({{site.baseurl}}/images/Le%CC%81lape%20723a6f83f17e477ca2b879b7886015da/File_Piero_di_Cosimo_013_jpg_-_Wikimedia_Commons.png)
+![Untitled]({{site.baseurl}}/images/Le%lape%20723a6f83f17e477ca2b879b7886015da/File_Piero_di_Cosimo_013_jpg_-_Wikimedia_Commons.png)
 
 Antes de presentar a nuestro protagonista hay que hablar de Europa. Europa era una mujer fenicia de la que Zeus se encapricho (como tantas otras). Zeus se transforma en un toro blanco, la secuestra y se la lleva a Creta
 
-![Untitled]({{site.baseurl}}/images/Le%CC%81lape%20723a6f83f17e477ca2b879b7886015da/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___mitoyleyenda_com_wp-content_uploads_2019_03_768px-Rembrandt_Harmensz__van_Rijn_-_The_Abduction_of_Europa_-_Google_Art_Project_jpg.png)
+![Untitled]({{site.baseurl}}/images/Le%lape%20723a6f83f17e477ca2b879b7886015da/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___mitoyleyenda_com_wp-content_uploads_2019_03_768px-Rembrandt_Harmensz__van_Rijn_-_The_Abduction_of_Europa_-_Google_Art_Project_jpg.png)
 
 Allí tienen 3 hijos: Minos, Radamantis y Sarperón.
 
@@ -20,7 +20,7 @@ Una jabalina que nunca falla el tiro
 
 Un hombre de bronce: Talos, protector de Creta (sale en la peli de Jason y los Argonautas)
 
-![Untitled]({{site.baseurl}}/images/Le%CC%81lape%20723a6f83f17e477ca2b879b7886015da/_Jason_and_the_Argonauts_.png)
+![Untitled]({{site.baseurl}}/images/Le%lape%20723a6f83f17e477ca2b879b7886015da/_Jason_and_the_Argonauts_.png)
 
 Y Lélape: El perro que siempre captura a su presa
 
@@ -38,7 +38,7 @@ Pasa el tiempo y en estas que los dioses, para castigar a la ciudad de Tebas por
 
 Da la casualidad que alguien por ahí tenía a Lélape y pusieron al perro a atrapar al zorro
 
-![Untitled]({{site.baseurl}}/images/Le%CC%81lape%20723a6f83f17e477ca2b879b7886015da/The_Eternal_Pursuit_of_the_Teumessian_Fox___Laelaps___Flickr.png)
+![Untitled]({{site.baseurl}}/images/Le%lape%20723a6f83f17e477ca2b879b7886015da/The_Eternal_Pursuit_of_the_Teumessian_Fox___Laelaps___Flickr.png)
 
 Un zorro que nunca puede ser atrapado perseguido por un perro que siempre atrapa a su presa. ¿? Se produce una paradoja.
 
@@ -46,6 +46,6 @@ Zeus, que se da cuenta que la persecución puede continuar eternamente, intervie
 
 Primero los convierte en piedra pero termina convirtiéndolos en constelaciones para que continúen su persecución en el cielo por toda la eternidad.
 
-![Untitled]({{site.baseurl}}/images/Le%CC%81lape%20723a6f83f17e477ca2b879b7886015da/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___enciclopediauniverso_com_wp-content_uploads_2019_08_Datos-interesantes-sobre-la-constelacion-Canis-Major_jpg.png)
+![Untitled]({{site.baseurl}}/images/Le%lape%20723a6f83f17e477ca2b879b7886015da/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___enciclopediauniverso_com_wp-content_uploads_2019_08_Datos-interesantes-sobre-la-constelacion-Canis-Major_jpg.png)
 
 Ahí surgen las constelaciones Canis Mayor (nuestro perro Lélape) y Canis Minor (el zorro de Teumessian). Están junto a la constelación de Orión

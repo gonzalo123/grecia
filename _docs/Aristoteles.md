@@ -6,7 +6,7 @@ order: 3
 
 Aristóteles nace en Estagira una ciudad perteneciente a la provincia de Macedonia en el 384 a. C. No fue solo un filósofo. Sus estudios además abarcan la política, las artes, la retórica, la física, la geología, la botánica, la astronomía, entre otras.
 
-![Untitled]({{site.baseurl}}/images/Aristo%CC%81teles%209204b0563a9d49759dcb88969c6f4176/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Aristo%teles%209204b0563a9d49759dcb88969c6f4176/Untitled.png)
 
 Su obra más importante fue “La Metafísica”, que ha sido una gran influencia en el pensamiento de la humanidad. No solo al mundo occidental sino también en el oriental.
 
@@ -14,7 +14,7 @@ Durante la edad media se da un periodo de decadencia y oscurantismo y la filosof
 
 conservando y estudiando las obras clásicas que si no hubiera sido por esto hubieran desaparecido. Filósofos islámicos como Averroes (Córdova, 1126- 1198) fueron unos grandes estudiosos de Aristóteles.
 
-![Untitled]({{site.baseurl}}/images/Aristo%CC%81teles%209204b0563a9d49759dcb88969c6f4176/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/Aristo%teles%209204b0563a9d49759dcb88969c6f4176/Untitled%201.png)
 
 El padre de Aristóteles era medico y amigo de Filipo II de Macedonia (padre de Alejandro Magno). Filipo encarga a Aristóteles la educación de su hijo Alejandro (y de algún otro futuro rey como Ptolomeo). 
 
@@ -24,7 +24,7 @@ Aristóteles era discípulo de Platón. La visión especulativa y centrada en la
 
 En el cuadro “La escuela de Atenas” se puede ver a Platón y Aristóteles en el centro. Platón señalando al cielo (simbolizando que saber se encuentra en una esfera superior con las ideas) y Aristóteles al suelo simbolizando su interés por el mundo material y los sentidos.
 
-![Untitled]({{site.baseurl}}/images/Aristo%CC%81teles%209204b0563a9d49759dcb88969c6f4176/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Aristo%teles%209204b0563a9d49759dcb88969c6f4176/Untitled%202.png)
 
 Tras la muerte de Alejandro aflora un sentimiento anti macedonio en Atenas y Aristóteles tiene que abandonar la cuidad para no terminar como Sócrates (condenado a muerte por impiedad y corrupción de menores). 
 
@@ -36,7 +36,7 @@ Los anteriores filósofos, a los que Aristóteles denominó presocráticos, se h
 
 Aristóteles piensa que la filosofía no puede renegar lo que nos muestran los sentidos. Ser y devenir no pueden ser antagonistas. La palabra “ser” puede ser un poco ambigua. La usamos para referirnos a cosas distintas. 
 
-![Untitled]({{site.baseurl}}/images/Aristo%CC%81teles%209204b0563a9d49759dcb88969c6f4176/Untitled%203.png)
+![Untitled]({{site.baseurl}}/images/Aristo%teles%209204b0563a9d49759dcb88969c6f4176/Untitled%203.png)
 
 Un árbol puede tener distintas cualidades (colores, tamaños, …) pero siempre es un árbol. El ser nunca cambia. El ser son las cosas que son. Objetos particulares (este árbol, esta silla, …). Aristóteles denomina a esto “substancia”.
 
@@ -52,7 +52,7 @@ Pero todos los cambios no son accidentales. La substancia no es eterna. La subst
 
 Además el cambio no es arbitrario. Las cosas no pueden cambiar a cualquier cosa. Las cosas son el acto lo que son y en potencia lo que pueden llegar a ser. La esencia de las cosas define lo que las cosas pueden llegar a ser en potencia.
 
-![Untitled]({{site.baseurl}}/images/Aristo%CC%81teles%209204b0563a9d49759dcb88969c6f4176/Untitled%204.png)
+![Untitled]({{site.baseurl}}/images/Aristo%teles%209204b0563a9d49759dcb88969c6f4176/Untitled%204.png)
 
 Una semilla de una planta es en acto una semilla y en potencia una planta. Ahora no es en acto una planta pero puede llegar a serlo (lo es en potencia) o no. Quizás nunca termine siendo una planta porque se la coma un pájaro.
 
@@ -94,7 +94,7 @@ No podemos influirle. Esto deriva a que los hombres tiene que crear su propia mo
 
 Respecto a la cosmología de Aristóteles, este define el universo como una serie de esferas en cuyo centro está la tierra y sobre las que orbitan, en órbitas circulares (para los griegos el movimiento circular es el movimiento perfecto). 
 
-![Untitled]({{site.baseurl}}/images/Aristo%CC%81teles%209204b0563a9d49759dcb88969c6f4176/Untitled%205.png)
+![Untitled]({{site.baseurl}}/images/Aristo%teles%209204b0563a9d49759dcb88969c6f4176/Untitled%205.png)
 
 Define dos zonas importantes: Lo que hay dentro de la órbita de la luna y lo que hay fuera. Lo de dentro lo denomina mundo sublunar y dentro de este mundo todo se rige con la generación y corrupción. 
 
