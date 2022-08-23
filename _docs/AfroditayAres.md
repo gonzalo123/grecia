@@ -44,7 +44,7 @@ Helios lo vio y se lo contó a Hefesto, pero este no se lo podía creer. Ideó u
 
 Ares vino y la red les atrapó. Hefesto enfadado llamó a todos los dioses para que los vieran. Pidió que le devolvieran su dote y separó de Afrodita.
 
-![Untitled]({{site.baseurl}}/images/AfroditayAres/_20___Facebook.png)
+![Untitled]({{site.baseurl}}/images/AfroditayAres/img1.png)
 
 ![Untitled]({{site.baseurl}}/images/AfroditayAres/Resultados_de_la_Busqueda_de_imagenes_de_Google_de_https___upload_wikimedia_org_wikipedia_commons_3_3f_Venus_and_Mars_Surprised_by_Vulcan_-_Il_padovanino__281631_29_jpg.png)
 
