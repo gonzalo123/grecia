@@ -22,7 +22,7 @@ Con el león muerto intenta quitarle la piel, pero le es imposible romper esa pi
 
 ![Untitled]({{site.baseurl}}/images/Trabajos%20de%20Heracles%20f91d9324b3c948c2bea535b3e7b4c7ff/Untitled%201.png)
 
-En el segundo trabajo tenía que matar a la hidra de Lerma. La hidra era un monstruo enorme que vivía en los pantanos de Lerma. Tenía un cuerpo grande, como un perro, y 7 cabezas de serpiente con cuellos largos. Heracles empieza a luchar con la Hidra.
+En el segundo trabajo tenía que matar a la hidra de Lerna. La hidra era un monstruo enorme que vivía en los pantanos de Lerna. Tenía un cuerpo grande, como un perro, y 7 cabezas de serpiente con cuellos largos. Heracles empieza a luchar con la Hidra.
 
 Aplasta las cabezas con su maza, pero se da cuenta que según las aplastaba le iban creciendo nuevas. Hera sigue fastidiando a Heracles y le manda un cangrejo que le muerde el pie. Heracles rompe la cáscara del cangrejo de una patada.
 
@@ -154,7 +154,7 @@ Heracles pide ayuda la esposa de Hades, Perséfone. Hades termina accediendo a q
 
 Heracles, protegido de los zarpazos del perro por la piel del león de Nemea, consigue apretar la garganta del perro hasta que lo deja inconsciente. Euristeo al ver regresar a Heracles con Cerbero casi muere del susto.
 
-Heuristeo declara libre de los trabajos a Heracles y le dice que lleve de vuelta al perro al inframundo.
+Euristeo declara libre de los trabajos a Heracles y le dice que lleve de vuelta al perro al inframundo.
 
 ![Untitled]({{site.baseurl}}/images/Trabajos%20de%20Heracles%20f91d9324b3c948c2bea535b3e7b4c7ff/Untitled%2022.png)
 
