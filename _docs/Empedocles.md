@@ -1,6 +1,6 @@
 ---
 title: Empédocles de Agrigento
-category: Filosofia
+category: Filosofía
 order: 3
 ---
 
