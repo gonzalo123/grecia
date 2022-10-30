@@ -6,7 +6,7 @@ order: 3
 
 Todo lo que conocemos sobre las guerras médicas entre los griegos y los persas viene de fuentes griegas y especialmente de Heródoto. No tenemos ninguna fuente persa. 
 
-![Untitled]({{site.baseurl}}/images/Sublevacio%CC%81n%20jonia%20d476f8fd106c4ab7aca199833c60070a/Untitled.png)
+![Untitled]({{site.baseurl}}/images/SublevacionJonia%20d476f8fd106c4ab7aca199833c60070a/Untitled.png)
 
 El solo tener fuentes de un bando es una potencial fuente de desfiguración histórica, como pasó con las guerras entre Cartago y Roma. 
 
@@ -32,7 +32,7 @@ Las florecientes ciudades jonias de la zona de Anatolia ya no eran lo que había
 
 Los motivos económicos, por si solos, tampoco explican unas revueltas. Nadie se expone a una guerra abierta contra una superpotencia, como lo era Persia, por cualquier cosa. 
 
-![Untitled]({{site.baseurl}}/images/Sublevacio%CC%81n%20jonia%20d476f8fd106c4ab7aca199833c60070a/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/SublevacionJonia%20d476f8fd106c4ab7aca199833c60070a/Untitled%201.png)
 
 También estaba el sentimiento de libertad de los griegos, cansados de las constantes intervenciones de los persas imponiendo tiranos que les gobernaban.
 
@@ -52,14 +52,14 @@ Los jonios, junto con Atenas y Erétria, atacaron Sardes, la capital de Libia, y
 
 Además, no solo se unieron griegos, también carios, lidios y chipriotas, que aprovecharon esto para sacudirse del dominio persa. La sublevación empezaba a amenazar las importantes arterias de comunicación en el imperio persa. 
 
-![Untitled]({{site.baseurl}}/images/Sublevacio%CC%81n%20jonia%20d476f8fd106c4ab7aca199833c60070a/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/SublevacionJonia%20d476f8fd106c4ab7aca199833c60070a/Untitled%202.png)
 
 La satrapía de Tracia, por ejemplo, quedó aislada. Persia tenía que mover ficha y tenía que hacerlo de manera global. Ya no era unos insignificantes pueblos fronterizos al oeste de su de su imperio los que estaban sublevando.
 Persia primero recupera Chipre en el 496. También hacen progresos en Helesponto y Caria y, poco a poco, van estableciendo un cerco sobre Mileto, el epicentro de la sublevación. 
 
 9 ciudades jonias mandan barcos a la isla de Leda, frente a Mileto. Hoy en día esta isla está unida al continente por una acumulación de sentimientos, pero en una época no lo estaba. 
 
-![Untitled]({{site.baseurl}}/images/Sublevacio%CC%81n%20jonia%20d476f8fd106c4ab7aca199833c60070a/Untitled%203.png)
+![Untitled]({{site.baseurl}}/images/SublevacionJonia%20d476f8fd106c4ab7aca199833c60070a/Untitled%203.png)
 
 Los jonios no pudieron con los persas y Mileto, en el 494 a. C., es totalmente destruida y los habitantes deportados como esclavos a las zonas interiores de Persia. Este fracaso de la sublevación jonia había mostrado el poder del imperio persa.
 
