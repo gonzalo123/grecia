@@ -47,7 +47,7 @@ Anaxágoras, a diferencia de Zenón, dice que no hay un límite a la hora de div
 
 Pero entonces, si las semillas han existido siempre ¿cómo es que se juntan para determinar nuestra realidad?
 
-![Untitled]({{site.baseurl}}/images/AnaxagorasClazomenas%20c34d3da1ae6a41cb998756ae75103fd8/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Anaxagoras%20de%20Clazomenas%20c34d3da1ae6a41cb998756ae75103fd8/Untitled%202.png)
 
 Para explicar esto Anaxágoras introduce el concepto del Nous. Nous en griego significa intelecto.
 
