@@ -8,7 +8,7 @@ Hoy hablaremos del pancracio. La MMA de la Antigua Grecia. Dentro hilo.
 
 El pancracio y el pugilato en la Antigua Grecia fueron dos formas de deportes de combate que se destacaron por su brutalidad y peligrosidad. 
 
-![Untitled](Pancracio%20adf8784905ef49b59573af0a15d338a9/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Pancracio%20adf8784905ef49b59573af0a15d338a9/Untitled.png)
 
 Estas pruebas formaban parte de los Juegos Olímpicos y eran considerados como deportes extremadamente duros que solo los más valientes y osados se atrevían a practicar. 
 
