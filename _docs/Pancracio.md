@@ -1,6 +1,6 @@
 ---
-title: Agnódice
-category: Pancracio
+title: Pancracio
+category: Historia
 order: 3
 --- 
 
