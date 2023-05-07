@@ -29,6 +29,7 @@ Aunque incluso pudieran inventar algo que no existiera, sería un error utilizar
 Los griegos no tuvieron términos que se correspondan con el termino crear y creación. Los dioses no eran creadores del mundo ni del cosmos, a diferencia del cristianismo, donde la primera frase del Génesis lo deja bien claro: Dios creo el cielo y la tierra.
 
 > En la Antigua Grecia la materia ya existía. Los dioses, aunque son mortales, nacen. Para los griegos les era suficiente el término “fabricar”. Tampoco les hacía falta usar el término “crear” para referirse a las obras de los artistas, como pintores y escultores. Para los antiguos griegos esto artista no crean nada nuevo. Solo imitan lo que ya existe en la naturaleza.
+>
 > (República 597d)
 
 El concepto de creador implica creatividad y libertad de acción. El concepto griego de artista no contempla esto. Está sujeto a unas normas, un canon (que vendría se lo mismo que medida). 
@@ -44,6 +45,7 @@ La naturaleza es perfecta y está sujeta a leyes por lo tanto los artistas, de h
 El poeta, sin embargo, es diferente. Este sí hace cosas nuevas. Es por esto que no asociaban a los poetas con los artistas.
 
 > Lo que es bello, lo es siempre y por sí mismo 
+> 
 > (Platón, Filebo 51b)
 
 Aristóteles dudaba si la poesía era una imitación de la realidad y sobre si requería adherirse a la verdad; la poesía era más bien el reino de aquello que no es ni verdadero ni falso
