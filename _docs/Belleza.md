@@ -1,5 +1,5 @@
 ---
-title: Creso
+title: Belleza
 category: Arte
 order: 3
 ---
