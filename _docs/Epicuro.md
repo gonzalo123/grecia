@@ -1,6 +1,6 @@
 ---
 title: Epicuro de Samos
-category: Historia
+category: Filosofía
 order: 3
 ---
 
