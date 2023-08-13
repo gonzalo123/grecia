@@ -20,7 +20,7 @@ Posteriormente Esparta y las demás polis griegas son sometidos por los macedoni
 
 Bien, para este hilo nos situamos en el primer año de la guerra del Peloponeso (432 a. C.). Atenas había exigido a Potidea, una aliada de Esparta, que se uniera a su liga y abandonara a Esparta.
 
-![Untitled]({{site.baseurl}}/images/Oracio%CC%81n%20fu%CC%81nebre%20de%20Pericles%200f7717c3048c45879a133beba3c8d8f4/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Oracion/Untitled.png)
 
 Potidea se niega y le pide ayuda a Esparta. Las tropas de Atenas lideradas por Cálcias, sitian Potidea y terminan tomando la ciudad, no sin sufrir muchas bajas. Esta fue la chispa que desató la guerra del Peloponeso. 
 
@@ -28,7 +28,7 @@ Atenas, que había vivido unos 50 años de esplendor y gloria, se enfrenta a una
 
 El estratego Pericles, cargo más alto de la democracia ateniense, pronuncia un discurso en el Kerameikos (el principal cementerio de Atenas). 
 
-![Untitled]({{site.baseurl}}/images/Oracio%CC%81n%20fu%CC%81nebre%20de%20Pericles%200f7717c3048c45879a133beba3c8d8f4/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/Oracion/Untitled%201.png)
 
 Una oración fúnebre para los soldados atenienses caídos ese primer año de la guerra, para honrar su memoria e instar a los atenienses a defender los valores de su ciudad y la democracia, estando dispuestos a morir si es necesario.
 
@@ -42,7 +42,7 @@ Ellos son los que crearon una Atenas autosuficiente, tanto para la guerra como p
 
 Pericles recuerda que son los antepasados los que han rechazado en el pasado al enemigo tanto griego como bárbaro (en referencia a las guerras médicas). Vuelve a decir que no quiere extenderse en esto porque el auditorio está perfectamente enterado y quiere centrarse en los principios que les condujeron a esa situación.
 
-![Untitled]({{site.baseurl}}/images/Oracio%CC%81n%20fu%CC%81nebre%20de%20Pericles%200f7717c3048c45879a133beba3c8d8f4/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Oracion/Untitled%202.png)
 
 Es entonces cuando pasa hablar de la democracia.
 
@@ -90,9 +90,9 @@ Y esta es la oración fúnebre de Pericles. Para algunos el discurso más import
 
 Un discurso que ha servido de modelo a otros discursos importantes de la historia y a políticos occidentales, como el discurso de Lincoln en Gettysburg y el discurso de toma de posesión de Kennedy en el 61.
 
-![Untitled]({{site.baseurl}}/images/Oracio%CC%81n%20fu%CC%81nebre%20de%20Pericles%200f7717c3048c45879a133beba3c8d8f4/Untitled%203.png)
+![Untitled]({{site.baseurl}}/images/Oracion/Untitled%203.png)
 
-![Untitled]({{site.baseurl}}/images/Oracio%CC%81n%20fu%CC%81nebre%20de%20Pericles%200f7717c3048c45879a133beba3c8d8f4/Untitled%204.png)
+![Untitled]({{site.baseurl}}/images/Oracion/Untitled%204.png)
 
 El discurso es una clase magistral de retórica con figuras retóricas como metáforas, anáforas (repetición de una o varias palabras al comienzo de dos o más frases consecutivas), 
 
