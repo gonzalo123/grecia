@@ -38,8 +38,4 @@ Tan decepcionado que decide que lo único que se puede hacer es aniquilarla por 
 
 Crea una gran tormenta que genera un gran diluvio para acabar con todos los humanos.
 
-Pero esta es otra historia
-
-Y este es el origen del hombre lobo.
-
-Pero su apasionada religiosidad le llevó a
+Pero esta es otra historia.
