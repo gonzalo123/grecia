@@ -10,7 +10,7 @@ La vida de los antiguos griegos estaba regida por una serie de ritos, no necesar
 
 Entrar a un templo o participar en alguna ceremonia religiosa requería un cierto grado de pureza que se alcanzaba mediante distintos gestos y comportamientos.
 
-![Untitled]({{site.baseurl}}/images/(Tabus%2090f4733248d549f3946a0c8a69712220/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Tabus%2090f4733248d549f3946a0c8a69712220/Untitled.png)
 
 Entre los más sencillos se encontraba el lavado constante de manos con agua y la limpieza de los animales y objetos utilizados en el culto. Por esta razón, a menudo se colocaban recipientes con agua de fuentes cercanas a la entrada de los templos y santuarios. 
 
@@ -43,7 +43,7 @@ Las mujeres, que estaban excluidas de la vida política, sí que participaban en
 
 Los sacerdotes de los misterios de Eleusis debían mantenerse castos antes de los misterios, y las mujeres Venerables, que asistían a las fiestas de las Antesterias, juraban no tener relaciones sexuales con hombres durante las celebraciones. 
 
-![Untitled]({{site.baseurl}}/images/(Tabus%2090f4733248d549f3946a0c8a69712220/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/Tabus%2090f4733248d549f3946a0c8a69712220/Untitled%201.png)
 
 Algunos cultos, como el de Artemis Himnia en Orcómeno, sí que exigían una castidad de por vida.
 
@@ -53,7 +53,7 @@ También se restringía el acceso a aquellos que habían tenido contacto físico
 
 Tanto los sacerdotes como las sacerdotisas debían mantenerse alejados de situaciones de nacimiento y muerte, ya que el contacto con la muerte se consideraba una fuente importante de impureza. 
 
-![Untitled]({{site.baseurl}}/images/(Tabus%2090f4733248d549f3946a0c8a69712220/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Tabus%2090f4733248d549f3946a0c8a69712220/Untitled%202.png)
 
 Los condenados por asesinato quedaban excluidos de todo lo relacionado con lo sagrado y el culto, lo que incluía la participación en juegos deportivos. 
 
@@ -79,7 +79,7 @@ Las habas contenían, según su creencia, las almas de los muertos, por lo que s
 
 El ayuno era un requisito característico en algunas ceremonias de iniciación, como en Eleusis, donde se recordaba el período de nueve días en el que la diosa Deméter buscó a su hija Perséfone sin probar bocado.
 
-![Untitled]({{site.baseurl}}/images/(Tabus%2090f4733248d549f3946a0c8a69712220/Untitled%203.png)
+![Untitled]({{site.baseurl}}/images/Tabus%2090f4733248d549f3946a0c8a69712220/Untitled%203.png)
 
 En resumen, las prohibiciones y tabúes en la religión y cultura griega arrojan luz sobre la complejidad de la vida de los antiguos griegos. 
 
