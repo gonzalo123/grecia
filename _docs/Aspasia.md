@@ -8,7 +8,7 @@ Hoy hablaremos de quién es, posiblemente, la mujer más influyente en la Antigu
 
 Aspasia nace en Mileto en el 470 a. C. Aunque no hay registros históricos que permitan conocer su formación, parece ser que Aspasia tiene acceso a una educación privilegiada, lo que denota un origen noble.
 
-![Untitled]![Untitled]({{site.baseurl}}/images/Aspasia%20de%20Mileto%204b364085565e452395ce767581c6370b/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Aspasia%20de%20Mileto%204b364085565e452395ce767581c6370b/Untitled.png)
 
 A los veinte años viaja con su hermana y su cuñado (Alcibíades el viejo) a Atenas, ciudad en la que permanece el resto de su vida. Sobre aquella fecha (en torno al 450 a. C.) Atenas vive su momento de máximo esplendor.
 
@@ -20,7 +20,7 @@ Es en este contexto en el que Aspasia llega a Atenas. Dado a que era una “meti
 
 Los metic eran considerados extranjeros y estaban excluidos de la vida pública. Además, Aspasia era mujer, por lo que no podía ser un ciudadano de ninguna manera.
 
-![Untitled]![Untitled]({{site.baseurl}}/images/Aspasia%20de%20Mileto%204b364085565e452395ce767581c6370b/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/Aspasia%20de%20Mileto%204b364085565e452395ce767581c6370b/Untitled%201.png)
 
 Aspasia, dado a sus grandes dotes de comunicación, empieza a rodearse de los hombres más poderosos e ilustres del momento y a trabajar como hetaira (una especie de cortesana o acompañante).
 
@@ -28,7 +28,7 @@ Al ser hetaira y extranjera no tenía que cumplir con las estrictas normas moral
 
 No se sabe cuándo Aspasia conoce Pericles, pero parece ser que nada más verla se enamora perdidamente de ella. Pericles le doblaba la edad, estaba casado y tenía dos hijos.
 
-![Untitled]![Untitled]({{site.baseurl}}/images/Aspasia%20de%20Mileto%204b364085565e452395ce767581c6370b/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Aspasia%20de%20Mileto%204b364085565e452395ce767581c6370b/Untitled%202.png)
 
 Se desconoce el motivo, pero Pericles termina separándose de mujer y casándose con Aspasia. Parece ser que Pericles estaba muy enamorado de Aspasia y se dice que incluso paseaba con ella por Atenas.
 
@@ -50,7 +50,7 @@ Dado a su elevada educación y posición, Aspasia era capaz de participar en dis
 
 Muchos pensadores acudían frecuentemente a verla para dialogar y recibir clases de retórica. Uno de sus alumnos destacados fue, ni más ni menos que Sócrates, filósofo que sentía admiración por Aspasia.
 
-![Untitled]![Untitled]({{site.baseurl}}/images/Aspasia%20de%20Mileto%204b364085565e452395ce767581c6370b/Untitled%203.png)
+![Untitled]({{site.baseurl}}/images/Aspasia%20de%20Mileto%204b364085565e452395ce767581c6370b/Untitled%203.png)
 
 Tras la muerte de Pericles en el 429 a. C. por la peste que asoló a Atenas, Aspasia se casa con un rico político llamado Lisicles con el que tiene otro hijo.
 
