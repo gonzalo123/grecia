@@ -17,7 +17,7 @@ Las guerras en las últimas generaciones no habían afectado a la médula del im
 
 Por todo esto, y a pesar de la mediocridad de su dirigente, la sensación de seguridad de los persas era grande. Grecia era una región periférica y se encontraba demasiado lejos como para preocuparse. 
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled.png)
 
 Además, Persia contaba con muchos mercenarios griegos dentro de su ejército, unos soldados perfectamente adiestrados, que se habían quedado sin trabajo tras la guerra del Peloponeso, y se habían incorporado a las tropas persas. 
 
@@ -25,7 +25,7 @@ Las noticias de los preparativos de Alejandro para la campaña contra Persia en 
 
 Se dice que cuando Alejandro entra en Persia arrojó una lanza a la tierra y de este modo tomó posesión simbólicamente de esta nueva parte de la tierra. Visitó lugares sagrados, como Ilión (Troya), donde puso una corona sobre la tumba de Aquiles. 
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%201.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%201.png)
 
 Alejandro, que siempre viajaba con un ejemplar de la Ilíada consigo, se sentía como el nuevo Aquiles.
 
@@ -33,15 +33,15 @@ La incursión Macedonia en Persia no fue tomada inicialmente muy en serio por el
 
 No se tuvo en cuenta los consejos de atraer a Alejandro al interior del imperio persa. El consejo era evacuar los territorios desde Lidia a Capadocia, creando un gran desierto. Entonces atacar la retaguardia y repercutir la guerra contra Grecia. 
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%202.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%202.png)
 
 Los sátrapas locales no estaban conformes con la idea de entregar sin lucha sus territorios a Alejandro y le hicieron frente en la zona de Zelea. Es ahí donde se celebran la primera gran batalla de la expedición de Alejandro: La batalla del río Gránico. 
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%203.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%203.png)
 
 Fue una batalla que enfrentó a dos ejércitos similares en número, en la que los persas salieron derrotados, tanto por sus errores propios, como por el ímpetu de Alejandro. 
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%204.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%204.png)
 
 Las tropas mercenarias griegas que luchaban en el bando persa fueron totalmente destrozadas y ya solo quedaron escasos restos. 
 
@@ -53,7 +53,7 @@ Alejandro quería dar la imagen de una liga panhelénica como todos los griegos 
 
 De todas formas, la expedición de Alejandro no había hecho más que empezar y se encontraba en inferioridad numérica frente a las tropas persas. No le queda otra que avanzar por la costa jonia por tierra. Se apodera la antigua capital del reino lidio, Sardes. 
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%205.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%205.png)
 
 Esa ciudadela, considerada como inexpugnable, fue tomada prácticamente sin ofrecer resistencia. Alejandro devuelve los habitantes sus antiguas leyes y se muestra como libertador de pueblos del dominio persa. 
 
@@ -73,7 +73,7 @@ Darío retira a sus tropas de mercenarios griegos, degradando la guerra a una gu
 
 El oráculo, decía que aquel que supiera deshacer el nudo, se convertiría en rey de toda Asia. Alejandro sacó su espada y cortó el nudo. Tras esto atraviesa Ancira (la actual Ankara), Capadocia en el Sur y somete a Cilicia.
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%206.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%206.png)
 
 Alejandro, ya en Siria, llega a Issos donde se libra una importante batalla en el 333 a. C. que decidió la suerte de Asia Anterior. 
 
@@ -81,11 +81,11 @@ Errores de cálculo por parte de los persas y los macedonios hacen que ambos ej�
 
 El gran rey Darío se encontraba en la espalda de Alejandro, e inesperadamente en Issos. Atacaron la ciudad y mataron los macedonios que allí estaban y que eran fundamentalmente soldados enfermos y heridos. 
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%207.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%207.png)
 
 Al final ambos ejércitos terminan enfrentándose, y las disposiciones tácticas de Alejandro decidieron la batalla. Una victoria contra un ejército persa superior en número y comandado por primera vez por el mismísimo gran rey Darío. 
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%208.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%208.png)
 
 El rey persa, durante la batalla, perdió los nervios y se dio la fuga. Únicamente los mercenarios griegos mantuvieron en orden, pero el campamento persa cayó en manos de los macedonios, con la madre y la esposa del rey Darío, que había huido, como prisioneras. 
 
@@ -95,19 +95,19 @@ Alejandro trató respetuosamente a la familia apresada de Darío. Además, Aleja
 
 La única ciudad que le ofreció resistencia fue la isla de Tiro, una isla, que estaba fuertemente fortificada, y que era la más poderosa de las ciudades fenicias. Alejandro les propone el perdón si le permiten hacer una ofrenda en el templo de Melkant. 
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%209.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%209.png)
 
 Los habitantes de Tiro se negaron, ya que solo el gobernante de la ciudad estaba autorizado a hacer esto y le sugieren a Alejandro hacer la ofrenda en otro templo, pero en la zona continental. Alejandro sitia Tiro durante siete meses. 
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2010.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2010.png)
 
 Durante este tiempo construye un dique de unos 800 metros que une la isla al continente y termina entrando en la ciudad. Se produce una gran matanza y los supervivientes, unos 30.000, fueron vendidos como esclavos.
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2011.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2011.png)
 
 Darío, antes de la toma de Tiro, propone a Alejandro una propuesta de paz. Darío está dispuesto a ceder a Alejandro todo el territorio al oeste del Éufrates. Alejandro, esto le parece muy poco y lo rechaza. 
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2012.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2012.png)
 
 Después de Tiro Alejandro se dirige a Egipto. En Gaza, se encuentran ante una resistencia relativamente prolongada, pero tras dos meses Gaza cae y entra finalmente en Egipto. Egipto era un país rico que proporcionaba al rey persa ingresos considerables. 
 
@@ -117,7 +117,7 @@ Funda la ciudad de Alejandría en una posición estratégica, que pocos decenios
 
 Tras un tortuoso viaje por el desierto, Alejandro llega al Oasis de Siwa y entra en el templo solo. 
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2013.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2013.png)
 
 Lo que pasó ahí no se sabe, pero la leyenda cuenta que el sacerdote le quiso saludar en griego y se equivocó en una letra pronunciando “Hijo mío”, saludo que se interpretó como “hijo de Amón”. 
 
@@ -127,17 +127,17 @@ Alejandro reorganiza administración egipcia, confiando la administración civil
 
 Había dado año y medio a Darío para reorganizarse y movilizar sus recursos. Los persas, en lugar de atacar Alejandro en la retaguardia, lo esperan en Mesopotamia, más allá del río Tigris, cerca de la ciudad de Gaugamela.
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2014.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2014.png)
 
 Darío tenía superioridad numérica, había estudiado el terreno e incluso lo había hecho allanar para el uso de sus carros. Su línea de frente era superior a la de Alejandro. 
 
 Esto hace que Alejandro situara unos destacamentos especiales por detrás de sus líneas que se podían mover para defender los flancos y la retaguardia. 
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2015.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2015.png)
 
 Los persas consiguieron romper las líneas macedonias y entraron incluso al campamento de Alejandro, pero este, con su caballería, consiguió penetrar en el medio de la línea persa. 
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2016.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2016.png)
 
 Darío vuelve a perder los nervios y se da la fuga, dando la batalla por perdida. Huye las montañas curdas y Alejandro avanza Babilonia, que fue entregada al macedonio, y permaneciendo allí dos meses. 
 
@@ -145,7 +145,7 @@ La batalla de Gaugamela es una batalla que decidió la suerte del imperio a que 
 
 Después de esto, Alejandro avanza hacia Susa, Persépolis y Ecbatana, que cayeron con poca resistencia. Al entrar en Susa se encontraron con un tesoro de unos 40.000 talentos de plata y 9000 daricos, una cantidad de dinero enorme. 
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2017.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2017.png)
 
 Alejandro, en un acto simbólico, lanza una antorcha en el palacio de Jerjes de Persépolis destruyéndolo en venganza por los templos griegos destruidos por el rey persa durante las guerras médicas. 
 
@@ -153,7 +153,7 @@ Alejandro llega a Ecbatana, donde se encontraba el huido rey Darío, pero llega 
 
 El sátrapa de Bactría lo había hecho matar para que no cayera vivo en manos macedonias.
 
-![Untitled](Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2018.png)
+![Untitled]({{site.baseurl}}/images/Alejandro%20y%20Dario%20224803bc01944ed9a2014d453fa70886/Untitled%2018.png)
 
 La muerte de Darío, el último soberano de la dinastía de los aqueménidas, es un momento decisivo en la vida de Alejandro, que se considera de ahí en adelante, el legítimo sucesor de Darío, a quien lo enterró en Persépolis con todos los honores. 
 
