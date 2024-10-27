@@ -105,3 +105,7 @@ Una de las evidencias en contra de la prostitución sagrada en Corinto (y en otr
 Lo que sí era común era la celebración de grandes convites en los que podían asistir heteras con sus acompañantes. Sin embargo, no hay pruebas que demuestren que estas heteras participaran en prácticas sexuales ceremoniales. 
 
 En resumen, la prostitución en Corinto parece haber sido una actividad laica realizada en los alrededores del templo, pero no como parte de su culto.
+
+--
+
+Fuente: El hogar de los dioses: Oráculos y santuarios de la Antigua Grecia (Javier Jara)
